@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "Contributions are encouraged and always welcome! If you like to add or update projects, choose one of the following ways:",
+      "description": "Contributions are encouraged and always welcome! If you like to add or update projects, choose one of the following ways:\nIf you like to contribute to or share suggestions regarding the project metadata collection or markdown generation, please refer to the best-of-generator repository. If you like to create your own best-of list, we recommend to follow this guide.\nFor more information on how to add or update projects, please read the contribution guidelines. By participating in this project, you agree to abide by its Code of Conduct.",
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 445931634,
             "language": null,
             "last_commit": "2024-07-12T09:36:46Z",
             "owner": "lukasmasuch",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 445931634,
             "language": null,
             "last_commit": "2024-07-12T09:36:46Z",
             "owner": "lukasmasuch",
@@ -33,16 +35,12 @@
         }
       ],
       "title": "Contribution"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:56:58.874Z",
+    "last_updated": "2026-08-19T12:20:47.498Z",
     "original_repository": "lukasmasuch/best-of-crypto",
+    "original_repository_id": 445931634,
     "original_repository_sha": "902ffb5e8667ec279c6d4480bddef9e97b614e36",
     "enhanced_repository": "enhansome/enhansome-best-of-crypto",
     "enhanced_repository_description": null,
