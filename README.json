@@ -5,17 +5,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "bitcoin/bitcoin",
           "description": "(👨‍💻 1.2K · 🔀 35K · 📦 21 · 📋 8.3K - 8% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1181927,
             "language": "C++",
-            "last_commit": "2026-08-24T14:46:59Z",
+            "last_commit": "2026-08-24T21:54:07Z",
             "owner": "bitcoin",
             "repo": "bitcoin",
-            "stars": 89998
+            "stars": 90001
           }
         }
       ],
@@ -26,7 +26,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ElementsProject/lightning",
           "description": "(👨‍💻 270 · 🔀 870 · 📥 240K · 📦 68 · 📋 2.9K - 22% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -47,14 +47,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "bitcoinj/bitcoinj",
           "description": "(👨‍💻 150 · 🔀 2.4K · 📦 1.7K · 📋 1.3K - 34% open · ⏱️ 01.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 14514251,
             "language": "Java",
-            "last_commit": "2026-08-24T13:45:56Z",
+            "last_commit": "2026-08-24T19:07:11Z",
             "owner": "bitcoinj",
             "repo": "bitcoinj",
             "stars": 5226
@@ -68,7 +68,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "bitcoinjs/bitcoinjs-lib",
           "description": "(👨‍💻 110 · 🔀 2.1K · 📦 19K · 📋 1.2K - 4% open · ⏱️ 17.05.2024):",
           "children": [],
           "repo_info": {
@@ -89,7 +89,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "btcsuite/btcd",
           "description": "(👨‍💻 220 · 🔀 2.3K · 📥 14K · 📦 3 · 📋 870 - 30% open · ⏱️ 03.06.2024):",
           "children": [],
           "repo_info": {
@@ -110,17 +110,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "btcsuite/btcwallet",
           "description": "(👨‍💻 63 · 🔀 560 · 📥 780 · 📦 910 · 📋 360 - 37% open · ⏱️ 10.04.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 12136863,
             "language": "Go",
-            "last_commit": "2026-08-23T21:34:56Z",
+            "last_commit": "2026-08-25T02:32:40Z",
             "owner": "btcsuite",
             "repo": "btcwallet",
-            "stars": 1255
+            "stars": 1256
           }
         }
       ],
@@ -131,7 +131,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ElementsProject/elements",
           "description": "(👨‍💻 1.1K · 🔀 380 · 📥 97K · 📋 470 - 36% open · ⏱️ 14.05.2024):",
           "children": [],
           "repo_info": {
@@ -152,7 +152,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "bitcoin/bips",
           "description": "(👨‍💻 390 · 🔀 5.2K · 📦 21 · ⏱️ 31.05.2024):",
           "children": [],
           "repo_info": {
@@ -162,7 +162,7 @@
             "last_commit": "2026-08-20T17:14:27Z",
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10925
+            "stars": 10926
           }
         }
       ],
@@ -173,7 +173,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "bitcoinjs/bip39",
           "description": "(👨‍💻 19 · 🔀 430 · 📦 190K · 📋 90 - 10% open · ⏱️ 20.10.2023):",
           "children": [],
           "repo_info": {
@@ -194,7 +194,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "bitcoinjs/bip38",
           "description": "(👨‍💻 13 · 🔀 120 · 📦 2K · 📋 37 - 24% open · ⏱️ 20.10.2023):",
           "children": [],
           "repo_info": {
@@ -215,7 +215,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "BlockstreamResearch/secp256k1-zkp",
           "description": "(👨‍💻 110 · 🔀 130 · 📋 63 - 31% open · ⏱️ 22.05.2024):",
           "children": [],
           "repo_info": {
@@ -236,7 +236,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ElementsProject/libwally-core",
           "description": "(👨‍💻 45 · 🔀 150 · 📥 47K · 📋 130 - 19% open · ⏱️ 10.04.2024):",
           "children": [],
           "repo_info": {
@@ -257,14 +257,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cosmos/cosmos-sdk",
           "description": "(👨‍💻 610 · 🔀 3.4K · 📥 49K · 📦 14K · 📋 6.7K - 6% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 51193526,
             "language": "Go",
-            "last_commit": "2026-08-24T12:22:16Z",
+            "last_commit": "2026-08-24T16:15:38Z",
             "owner": "cosmos",
             "repo": "cosmos-sdk",
             "stars": 7049
@@ -278,7 +278,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "CosmWasm/cosmwasm",
           "description": "(👨‍💻 57 · 🔀 320 · 📥 3.9K · 📦 100 · 📋 800 - 11% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -299,7 +299,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cosmos/gaia",
           "description": "(👨‍💻 120 · 🔀 660 · 📥 290K · 📦 18 · 📋 920 - 3% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -320,7 +320,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cosmos/iavl",
           "description": "(👨‍💻 72 · 🔀 250 · 📦 12K · 📋 190 - 18% open · ⏱️ 28.05.2024):",
           "children": [],
           "repo_info": {
@@ -341,7 +341,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cosmos/relayer",
           "description": "(👨‍💻 130 · 🔀 1.7K · 📥 14K · 📦 92 · 📋 500 - 15% open · ⏱️ 02.06.2024):",
           "children": [],
           "repo_info": {
@@ -362,7 +362,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cosmos/ibc-go",
           "description": "(👨‍💻 150 · 🔀 540 · 📥 1.7K · 📦 1 · 📋 1.9K - 16% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -383,7 +383,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "CosmWasm/cw-plus",
           "description": "(👨‍💻 54 · 🔀 350 · 📥 35K · 📦 5 · 📋 310 - 5% open · ⏱️ 27.03.2024):",
           "children": [],
           "repo_info": {
@@ -404,7 +404,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "CosmWasm/wasmd",
           "description": "(👨‍💻 81 · 🔀 380 · 📥 430 · 📦 2K · 📋 560 - 11% open · ⏱️ 22.05.2024):",
           "children": [],
           "repo_info": {
@@ -425,7 +425,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cosmos/sdk-tutorials",
           "description": "(👨‍💻 130 · 🔀 380 · 📦 75 · 📋 200 - 0% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -446,7 +446,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cosmos/cosmos-rust",
           "description": "(👨‍💻 34 · 🔀 110 · 📦 860 · 📋 73 - 23% open · ⏱️ 31.05.2024):",
           "children": [],
           "repo_info": {
@@ -467,7 +467,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cosmos/cosmjs",
           "description": "(👨‍💻 54 · 🔀 310 · 📦 3 · 📋 690 - 23% open · ⏱️ 22.04.2024):",
           "children": [],
           "repo_info": {
@@ -488,7 +488,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cosmos/chain-registry",
           "description": "(👨‍💻 820 · 🔀 1.1K · 📋 190 - 42% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -509,14 +509,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cosmos/ibc",
           "description": "(👨‍💻 67 · 🔀 360 · 📋 530 - 17% open · ⏱️ 16.05.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 169809972,
             "language": "Go",
-            "last_commit": "2026-08-24T14:08:08Z",
+            "last_commit": "2026-08-25T03:46:15Z",
             "owner": "cosmos",
             "repo": "ibc",
             "stars": 1016
@@ -530,7 +530,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "stellar/go",
           "description": "(👨‍💻 130 · 🔀 570 · 📥 240K · 📦 510 · 📋 2K - 19% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
@@ -551,17 +551,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "stellar/stellar-core",
           "description": "(👨‍💻 120 · 🔀 1K · 📋 1.7K - 16% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 27085821,
             "language": "C++",
-            "last_commit": "2026-08-20T23:11:57Z",
+            "last_commit": "2026-08-24T18:42:15Z",
             "owner": "stellar",
             "repo": "stellar-core",
-            "stars": 3301
+            "stars": 3300
           }
         }
       ],
@@ -572,7 +572,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "stellar/js-stellar-sdk",
           "description": "(👨‍💻 81 · 🔀 290 · 📋 400 - 19% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -593,17 +593,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "stellar/stellar-protocol",
           "description": "(👨‍💻 98 · 🔀 340 · 📋 380 - 11% open · ⏱️ 09.05.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 22821380,
             "language": "RPC",
-            "last_commit": "2026-08-20T16:31:13Z",
+            "last_commit": "2026-08-24T21:46:02Z",
             "owner": "stellar",
             "repo": "stellar-protocol",
-            "stars": 631
+            "stars": 632
           }
         }
       ],
@@ -614,17 +614,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "XRPLF/rippled",
           "description": "(👨‍💻 150 · 🔀 1.4K · 📋 1.4K - 26% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 2724167,
             "language": "C++",
-            "last_commit": "2026-08-24T15:00:41Z",
+            "last_commit": "2026-08-25T02:50:02Z",
             "owner": "XRPLF",
             "repo": "rippled",
-            "stars": 5189
+            "stars": 5191
           }
         }
       ],
@@ -635,14 +635,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "XRPLF/xrpl.js",
           "description": "(👨‍💻 140 · 🔀 500 · 📥 560 · 📦 5.2K · 📋 590 - 12% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 9681561,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T15:56:52Z",
+            "last_commit": "2026-08-25T00:29:48Z",
             "owner": "XRPLF",
             "repo": "xrpl.js",
             "stars": 1326
@@ -656,17 +656,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "XRPLF/xrpl-dev-portal",
           "description": "(👨‍💻 170 · 🔀 1K · 📋 600 - 37% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 17273151,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T08:34:52Z",
+            "last_commit": "2026-08-24T21:53:40Z",
             "owner": "XRPLF",
             "repo": "xrpl-dev-portal",
-            "stars": 2125
+            "stars": 2127
           }
         }
       ],
@@ -677,14 +677,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "algorand/go-algorand",
           "description": "(👨‍💻 110 · 🔀 440 · 📥 55K · 📦 110 · 📋 1.7K - 18% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 191266671,
             "language": "Go",
-            "last_commit": "2026-08-24T01:00:30Z",
+            "last_commit": "2026-08-25T01:00:23Z",
             "owner": "algorand",
             "repo": "go-algorand",
             "stars": 1432
@@ -698,7 +698,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "algorand/js-algorand-sdk",
           "description": "(👨‍💻 65 · 🔀 190 · 📦 13K · 📋 330 - 13% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -719,7 +719,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "algorand/pyteal",
           "description": "(👨‍💻 41 · 🔀 120 · 📦 1.1K · 📋 220 - 32% open · ⏱️ 04.01.2024):",
           "children": [],
           "repo_info": {
@@ -740,7 +740,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "algorand/py-algorand-sdk",
           "description": "(👨‍💻 52 · 🔀 130 · 📦 1.7K · 📋 170 - 14% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -761,7 +761,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "dogecoin/dogecoin",
           "description": "(👨‍💻 660 · 🔀 2.8K · 📥 8.8M · 📦 21 · 📋 1.3K - 16% open · ⏱️ 27.02.2024):",
           "children": [],
           "repo_info": {
@@ -782,7 +782,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nanocurrency/nano-node",
           "description": "(👨‍💻 99 · 🔀 780 · 📥 430K · 📋 1.3K - 24% open · ⏱️ 25.05.2024):",
           "children": [],
           "repo_info": {
@@ -803,7 +803,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "deso-protocol/core",
           "description": "(👨‍💻 34 · 🔀 110 · 📦 29 · 📋 93 - 29% open · ⏱️ 22.04.2024):",
           "children": [],
           "repo_info": {
@@ -824,7 +824,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "deso-protocol/frontend",
           "description": "(👨‍💻 47 · 🔀 140 · 📋 140 - 40% open · ⏱️ 12.04.2024):",
           "children": [],
           "repo_info": {
@@ -845,7 +845,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "litecoin-project/litecoin",
           "description": "(👨‍💻 950 · 🔀 3.1K · 📥 11K · 📋 570 - 13% open · ⏱️ 28.03.2024):",
           "children": [],
           "repo_info": {
@@ -866,7 +866,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "peercoin/peercoin",
           "description": "(👨‍💻 1.2K · 🔀 550 · 📥 97K · 📋 240 - 4% open · ⏱️ 29.05.2024):",
           "children": [],
           "repo_info": {
@@ -887,7 +887,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "steemit/steem-js",
           "description": "(👨‍💻 40 · 🔀 220 · 📥 23K · 📦 3 · 📋 300 - 44% open · ⏱️ 06.12.2023):",
           "children": [],
           "repo_info": {
@@ -908,14 +908,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "steemit/condenser",
           "description": "(👨‍💻 120 · 🔀 430 · 📋 2.1K - 13% open · ⏱️ 07.05.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 59213335,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T05:11:18Z",
+            "last_commit": "2026-08-25T05:12:43Z",
             "owner": "steemit",
             "repo": "condenser",
             "stars": 502
@@ -929,7 +929,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "RavenProject/Ravencoin",
           "description": "(👨‍💻 670 · 🔀 670 · 📥 820K · 📋 520 - 32% open · ⏱️ 10.05.2024):",
           "children": [],
           "repo_info": {
@@ -950,7 +950,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ArkEcosystem/core",
           "description": "(👨‍💻 54 · 🔀 300 · 📋 990 - 0% open · ⏱️ 01.02.2024):",
           "children": [],
           "repo_info": {
@@ -971,7 +971,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "BananoCoin/kalium_wallet_flutter",
           "description": "(👨‍💻 7 · 🔀 98 · 📥 1.9K · 📋 41 - 65% open · ⏱️ 23.04.2024):",
           "children": [],
           "repo_info": {
@@ -992,7 +992,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "gcash/bchd",
           "description": "(👨‍💻 130 · 🔀 110 · 📥 16K · 📦 340 · 📋 190 - 15% open · ⏱️ 22.04.2024):",
           "children": [],
           "repo_info": {
@@ -1002,7 +1002,7 @@
             "last_commit": "2026-08-22T19:01:08Z",
             "owner": "gcash",
             "repo": "bchd",
-            "stars": 290
+            "stars": 291
           }
         }
       ],
@@ -1013,7 +1013,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "BTCGPU/BTCGPU",
           "description": "(👨‍💻 740 · 🔀 350 · 📥 300K · 📋 280 - 8% open · ⏱️ 17.05.2024):",
           "children": [],
           "repo_info": {
@@ -1034,7 +1034,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "theQRL/QRL",
           "description": "(👨‍💻 34 · 🔀 100 · 📋 220 - 9% open · ⏱️ 14.04.2024):",
           "children": [],
           "repo_info": {
@@ -1055,7 +1055,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "XDagger/xdag",
           "description": "(👨‍💻 50 · 🔀 130 · 📋 130 - 27% open · ⏱️ 17.03.2024):",
           "children": [],
           "repo_info": {
@@ -1076,7 +1076,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "chainx-org/ChainX",
           "description": "(👨‍💻 17 · 🔀 120 · 📥 6.3K · 📋 170 - 3% open · ⏱️ 07.03.2024):",
           "children": [],
           "repo_info": {
@@ -1097,17 +1097,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ethereum/go-ethereum",
           "description": "(👨‍💻 1K · 🔀 20K · 📦 31K · 📋 8.1K - 4% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 15452919,
             "language": "Go",
-            "last_commit": "2026-08-24T13:22:53Z",
+            "last_commit": "2026-08-25T02:53:32Z",
             "owner": "ethereum",
             "repo": "go-ethereum",
-            "stars": 51315
+            "stars": 51317
           }
         }
       ],
@@ -1118,14 +1118,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "OpenZeppelin/openzeppelin-contracts",
           "description": "(👨‍💻 440 · 🔀 12K · 📦 22K · 📋 1.9K - 12% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 64700934,
             "language": "Solidity",
-            "last_commit": "2026-08-24T14:42:07Z",
+            "last_commit": "2026-08-25T00:43:38Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
             "stars": 27232
@@ -1139,17 +1139,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "argotorg/solidity",
           "description": "(👨‍💻 710 · 🔀 5.6K · 📥 3.5M · 📦 21 · 📋 6K - 7% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 40892817,
             "language": "C++",
-            "last_commit": "2026-08-24T14:24:02Z",
+            "last_commit": "2026-08-25T02:58:53Z",
             "owner": "argotorg",
             "repo": "solidity",
-            "stars": 25711
+            "stars": 25712
           }
         }
       ],
@@ -1160,7 +1160,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "vyperlang/vyper",
           "description": "(👨‍💻 230 · 🔀 780 · 📥 1.3M · 📦 1.4K · 📋 1.6K - 21% open · ⏱️ 02.06.2024):",
           "children": [],
           "repo_info": {
@@ -1181,14 +1181,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ethereum/ethereum-org-website",
           "description": "(👨‍💻 1.7K · 🔀 4.6K · 📋 3.1K - 10% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 116457726,
             "language": "Markdown",
-            "last_commit": "2026-08-24T02:35:03Z",
+            "last_commit": "2026-08-25T03:47:01Z",
             "owner": "ethereum",
             "repo": "ethereum-org-website",
             "stars": 5958
@@ -1202,7 +1202,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ApeWorX/web3.py",
           "description": "(👨‍💻 260 · 🔀 1.6K · 📦 20K · 📋 1.5K - 7% open · ⏱️ 30.05.2024):",
           "children": [],
           "repo_info": {
@@ -1223,14 +1223,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "remix-project-org/remix-project",
           "description": "(👨‍💻 220 · 🔀 860 · 📥 250K · 📦 2 · 📋 2.1K - 38% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 248697283,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T11:57:59Z",
+            "last_commit": "2026-08-24T21:06:07Z",
             "owner": "remix-project-org",
             "repo": "remix-project",
             "stars": 3041
@@ -1244,7 +1244,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Consensys/quorum",
           "description": "(👨‍💻 640 · 🔀 1.2K · 📥 18K · 📦 23 · 📋 850 - 5% open · ⏱️ 07.05.2024):",
           "children": [],
           "repo_info": {
@@ -1265,7 +1265,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Nethereum/Nethereum",
           "description": "(👨‍💻 88 · 🔀 700 · 📥 12K · 📦 2.3K · 📋 810 - 13% open · ⏱️ 01.06.2024):",
           "children": [],
           "repo_info": {
@@ -1275,7 +1275,7 @@
             "last_commit": "2026-07-11T03:58:49Z",
             "owner": "Nethereum",
             "repo": "Nethereum",
-            "stars": 2256
+            "stars": 2255
           }
         }
       ],
@@ -1286,14 +1286,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ethereum/consensus-specs",
           "description": "(👨‍💻 160 · 🔀 890 · 📦 39 · 📋 990 - 22% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 149554797,
             "language": "Python",
-            "last_commit": "2026-08-24T13:11:52Z",
+            "last_commit": "2026-08-25T04:06:29Z",
             "owner": "ethereum",
             "repo": "consensus-specs",
             "stars": 3958
@@ -1307,7 +1307,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "OpenZeppelin/openzeppelin-contracts-upgradeable",
           "description": "(👨‍💻 220 · 🔀 420 · 📦 36K · 📋 100 - 5% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
@@ -1328,7 +1328,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "dethcrypto/TypeChain",
           "description": "(👨‍💻 71 · 🔀 350 · 📦 210K · 📋 400 - 30% open · ⏱️ 22.10.2023):",
           "children": [],
           "repo_info": {
@@ -1349,14 +1349,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Consensys/gnark",
           "description": "(👨‍💻 37 · 🔀 330 · 📦 640 · 📋 460 - 24% open · ⏱️ 03.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 242781085,
             "language": "Go",
-            "last_commit": "2026-08-24T14:43:55Z",
+            "last_commit": "2026-08-24T18:19:35Z",
             "owner": "Consensys",
             "repo": "gnark",
             "stars": 1731
@@ -1370,17 +1370,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ethereum/EIPs",
           "description": "(👨‍💻 760 · 🔀 5K · 📦 21 · 📋 1.1K - 8% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 44971752,
             "language": "Python",
-            "last_commit": "2026-08-24T12:23:36Z",
+            "last_commit": "2026-08-25T00:57:03Z",
             "owner": "ethereum",
             "repo": "EIPs",
-            "stars": 13956
+            "stars": 13955
           }
         }
       ],
@@ -1391,7 +1391,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "remix-project-org/remix-ide",
           "description": "(👨‍💻 160 · 🔀 1.1K · 📥 5.8K · 📦 180 · ⏱️ 21.05.2024):",
           "children": [],
           "repo_info": {
@@ -1412,7 +1412,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ethereum/py-evm",
           "description": "(👨‍💻 100 · 🔀 630 · 📦 920 · 📋 670 - 15% open · ⏱️ 19.04.2024):",
           "children": [],
           "repo_info": {
@@ -1433,7 +1433,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ConsenSysDiligence/mythril",
           "description": "(👨‍💻 98 · 🔀 690 · 📦 120 · 📋 840 - 12% open · ⏱️ 27.04.2024):",
           "children": [],
           "repo_info": {
@@ -1454,14 +1454,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "OpenZeppelin/openzeppelin-upgrades",
           "description": "(👨‍💻 54 · 🔀 250 · 📦 19K · 📋 420 - 23% open · ⏱️ 03.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 273576864,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T17:10:56Z",
+            "last_commit": "2026-08-24T20:34:57Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-upgrades",
             "stars": 660
@@ -1475,7 +1475,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "argotorg/sourcify",
           "description": "(👨‍💻 120 · 🔀 360 · 📦 42 · 📋 570 - 10% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -1496,7 +1496,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ethereum/js-ethereum-cryptography",
           "description": "(👨‍💻 9 · 🔀 88 · 📦 430K · 📋 30 - 30% open · ⏱️ 02.04.2024):",
           "children": [],
           "repo_info": {
@@ -1517,14 +1517,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Consensys/teku",
           "description": "(👨‍💻 99 · 🔀 240 · 📋 2.5K - 5% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 147802356,
             "language": "Java",
-            "last_commit": "2026-08-24T05:18:00Z",
+            "last_commit": "2026-08-25T05:10:17Z",
             "owner": "Consensys",
             "repo": "teku",
             "stars": 778
@@ -1538,7 +1538,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ethereum/tests",
           "description": "(👨‍💻 84 · 🔀 300 · 📦 24 · 📋 350 - 8% open · ⏱️ 22.05.2024):",
           "children": [],
           "repo_info": {
@@ -1559,7 +1559,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Consensys/gnark-crypto",
           "description": "(👨‍💻 21 · 🔀 140 · 📦 9.2K · 📋 180 - 35% open · ⏱️ 04.05.2024):",
           "children": [],
           "repo_info": {
@@ -1580,7 +1580,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ApeWorX/eth-abi",
           "description": "(👨‍💻 30 · 🔀 260 · 📦 9.6K · 📋 77 - 20% open · ⏱️ 22.04.2024):",
           "children": [],
           "repo_info": {
@@ -1601,7 +1601,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ethereumjs/ethereumjs-monorepo",
           "description": "(👨‍💻 220 · 🔀 720 · 📦 1 · 📋 1.1K - 12% open · ⏱️ 31.05.2024):",
           "children": [],
           "repo_info": {
@@ -1622,14 +1622,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ipsilon/evmone",
           "description": "(👨‍💻 20 · 🔀 240 · 📥 58K · 📋 190 - 48% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 160548111,
             "language": "C++",
-            "last_commit": "2026-08-24T11:36:10Z",
+            "last_commit": "2026-08-24T18:20:11Z",
             "owner": "ipsilon",
             "repo": "evmone",
             "stars": 974
@@ -1643,7 +1643,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ethereum/beacon-APIs",
           "description": "(👨‍💻 48 · 🔀 150 · 📥 45K · 📦 1 · 📋 140 - 28% open · ⏱️ 06.05.2024):",
           "children": [],
           "repo_info": {
@@ -1653,7 +1653,7 @@
             "last_commit": "2026-08-24T13:27:22Z",
             "owner": "ethereum",
             "repo": "beacon-APIs",
-            "stars": 388
+            "stars": 389
           }
         }
       ],
@@ -1664,7 +1664,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "OpenZeppelin/ethernaut",
           "description": "(👨‍💻 110 · 🔀 620 · 📋 250 - 22% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -1674,7 +1674,7 @@
             "last_commit": "2026-08-15T09:00:55Z",
             "owner": "OpenZeppelin",
             "repo": "ethernaut",
-            "stars": 2327
+            "stars": 2328
           }
         }
       ],
@@ -1685,7 +1685,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "argotorg/fe",
           "description": "(👨‍💻 43 · 🔀 170 · 📥 2.8K · 📋 410 - 30% open · ⏱️ 15.05.2024):",
           "children": [],
           "repo_info": {
@@ -1695,7 +1695,7 @@
             "last_commit": "2026-08-01T16:21:07Z",
             "owner": "argotorg",
             "repo": "fe",
-            "stars": 1727
+            "stars": 1728
           }
         }
       ],
@@ -1706,7 +1706,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ApeWorX/eth-tester",
           "description": "(👨‍💻 42 · 🔀 130 · 📦 1.2K · 📋 100 - 40% open · ⏱️ 16.05.2024):",
           "children": [],
           "repo_info": {
@@ -1727,7 +1727,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ethereum/eth-utils",
           "description": "(👨‍💻 38 · 🔀 140 · 📦 11K · 📋 84 - 25% open · ⏱️ 06.05.2024):",
           "children": [],
           "repo_info": {
@@ -1748,7 +1748,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ApeWorX/eth-account",
           "description": "(👨‍💻 34 · 🔀 140 · 📦 9.6K · 📋 89 - 16% open · ⏱️ 29.05.2024):",
           "children": [],
           "repo_info": {
@@ -1769,14 +1769,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ethereum/pm",
           "description": "(👨‍💻 88 · 🔀 270 · 📋 600 - 3% open · ⏱️ 14.05.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 69717712,
             "language": "Python",
-            "last_commit": "2026-08-24T12:32:47Z",
+            "last_commit": "2026-08-24T19:33:04Z",
             "owner": "ethereum",
             "repo": "pm",
             "stars": 1886
@@ -1790,7 +1790,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "argotorg/solc-js",
           "description": "(👨‍💻 43 · 🔀 450 · 📦 3 · 📋 270 - 24% open · ⏱️ 21.05.2024):",
           "children": [],
           "repo_info": {
@@ -1811,7 +1811,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ethereum/remix-desktop",
           "description": "(👨‍💻 6 · 🔀 260 · 📥 8.5M · 📋 130 - 48% open · ⏱️ 23.05.2024):",
           "children": [],
           "repo_info": {
@@ -1832,7 +1832,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "OpenZeppelin/cairo-contracts",
           "description": "(👨‍💻 44 · 🔀 310 · 📋 450 - 11% open · ⏱️ 20.05.2024):",
           "children": [],
           "repo_info": {
@@ -1853,7 +1853,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ethereum/staking-deposit-cli",
           "description": "(👨‍💻 22 · 🔀 300 · 📥 100K · 📋 180 - 60% open · ⏱️ 25.09.2023):",
           "children": [],
           "repo_info": {
@@ -1874,7 +1874,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "OpenZeppelin/solidity-docgen",
           "description": "(👨‍💻 15 · 🔀 110 · 📦 6.7K · 📋 150 - 22% open · ⏱️ 14.09.2023):",
           "children": [],
           "repo_info": {
@@ -1895,7 +1895,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ethereum/yellowpaper",
           "description": "(👨‍💻 90 · 🔀 490 · 📋 260 - 41% open · ⏱️ 04.03.2024):",
           "children": [],
           "repo_info": {
@@ -1916,7 +1916,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ethereum/execution-specs",
           "description": "(👨‍💻 76 · 🔀 210 · 📋 390 - 17% open · ⏱️ 27.05.2024):",
           "children": [],
           "repo_info": {
@@ -1937,7 +1937,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "OpenZeppelin/merkle-tree",
           "description": "(👨‍💻 5 · 🔀 100 · 📦 1.2K · 📋 24 - 20% open · ⏱️ 04.03.2024):",
           "children": [],
           "repo_info": {
@@ -1958,7 +1958,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ipsilon/evmc",
           "description": "(👨‍💻 17 · 🔀 280 · 📥 20 · 📦 12 · 📋 180 - 23% open · ⏱️ 24.05.2024):",
           "children": [],
           "repo_info": {
@@ -1979,14 +1979,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "OpenZeppelin/contracts-wizard",
           "description": "(👨‍💻 19 · 🔀 130 · 📦 130 · 📋 88 - 29% open · ⏱️ 22.05.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 337567816,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T15:46:55Z",
+            "last_commit": "2026-08-25T04:11:27Z",
             "owner": "OpenZeppelin",
             "repo": "contracts-wizard",
             "stars": 293
@@ -2000,7 +2000,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Consensys/smart-contract-best-practices",
           "description": "(👨‍💻 110 · 🔀 1.4K · 📦 20 · 📋 99 - 20% open · ⏱️ 11.01.2024):",
           "children": [],
           "repo_info": {
@@ -2021,7 +2021,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Consensys/ethereum-developer-tools-list",
           "description": "(👨‍💻 250 · 🔀 1.3K · 📋 63 - 42% open · ⏱️ 31.05.2024):",
           "children": [],
           "repo_info": {
@@ -2042,7 +2042,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ethereum/trin",
           "description": "(👨‍💻 38 · 🔀 96 · 📥 49 · 📦 5 · 📋 400 - 19% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
@@ -2063,7 +2063,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ConsenSysDiligence/scribble",
           "description": "(👨‍💻 5 · 🔀 35 · 📦 14 · 📋 100 - 12% open · ⏱️ 24.04.2024):",
           "children": [],
           "repo_info": {
@@ -2084,7 +2084,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "vyperlang/titanoboa",
           "description": "(👨‍💻 17 · 🔀 35 · 📦 39 · 📋 91 - 34% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -2105,7 +2105,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "argotorg/hevm",
           "description": "(👨‍💻 110 · 🔀 44 · 📥 320 · 📋 140 - 27% open · ⏱️ 30.05.2024):",
           "children": [],
           "repo_info": {
@@ -2126,7 +2126,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ethereum/research",
           "description": "(👨‍💻 28 · 🔀 590 · 📋 64 - 90% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -2147,7 +2147,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ConsenSysDiligence/surya",
           "description": "(👨‍💻 20 · 🔀 120 · 📦 580 · 📋 68 - 5% open · ⏱️ 31.10.2023):",
           "children": [],
           "repo_info": {
@@ -2168,17 +2168,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ethereum/execution-apis",
           "description": "(👨‍💻 51 · 🔀 320 · 📦 3 · 📋 160 - 45% open · ⏱️ 15.05.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 377601306,
             "language": "Io",
-            "last_commit": "2026-08-11T19:44:53Z",
+            "last_commit": "2026-08-24T21:07:58Z",
             "owner": "ethereum",
             "repo": "execution-apis",
-            "stars": 1131
+            "stars": 1133
           }
         }
       ],
@@ -2189,7 +2189,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Consensys/UniversalToken",
           "description": "(👨‍💻 26 · 🔀 180 · 📋 46 - 39% open · ⏱️ 23.01.2024):",
           "children": [],
           "repo_info": {
@@ -2210,7 +2210,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "l2beat/earl",
           "description": "(👨‍💻 14 · 🔀 18 · 📦 62 · 📋 93 - 10% open · ⏱️ 21.04.2024):",
           "children": [],
           "repo_info": {
@@ -2231,14 +2231,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "argotorg/solc-bin",
           "description": "(👨‍💻 19 · 🔀 390 · 📦 1 · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 55413205,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T01:32:10Z",
+            "last_commit": "2026-08-25T01:45:41Z",
             "owner": "argotorg",
             "repo": "solc-bin",
             "stars": 431
@@ -2252,7 +2252,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "OpenZeppelin/nile",
           "description": "(👨‍💻 23 · 🔀 76 · 📋 200 - 29% open · ⏱️ 01.12.2023):",
           "children": [],
           "repo_info": {
@@ -2273,7 +2273,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ethereum/staking-launchpad",
           "description": "(👨‍💻 45 · 🔀 160 · 📋 200 - 49% open · ⏱️ 10.04.2024):",
           "children": [],
           "repo_info": {
@@ -2294,7 +2294,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "solana-labs/solana",
           "description": "(👨‍💻 520 · 🔀 3.9K · 📥 760K · 📋 5.4K - 7% open · ⏱️ 22.03.2024):",
           "children": [],
           "repo_info": {
@@ -2315,7 +2315,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "solana-labs/solana-program-library",
           "description": "(👨‍💻 220 · 🔀 1.9K · 📥 26K · 📦 2.4K · 📋 740 - 8% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -2336,7 +2336,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "solana-foundation/solana-web3.js",
           "description": "(👨‍💻 120 · 🔀 770 · 📦 110K · 📋 400 - 19% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -2357,7 +2357,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "solana-labs/rbpf",
           "description": "(👨‍💻 26 · 🔀 150 · 📦 14K · 📋 51 - 29% open · ⏱️ 29.05.2024):",
           "children": [],
           "repo_info": {
@@ -2378,7 +2378,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "anza-xyz/wallet-adapter",
           "description": "(👨‍💻 120 · 🔀 860 · 📦 2 · 📋 440 - 9% open · ⏱️ 27.05.2024):",
           "children": [],
           "repo_info": {
@@ -2399,17 +2399,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "solana-foundation/pay",
           "description": "(👨‍💻 32 · 🔀 440 · 📦 4 · 📋 90 - 28% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 418771317,
             "language": "Rust",
-            "last_commit": "2026-08-24T10:34:35Z",
+            "last_commit": "2026-08-24T16:29:37Z",
             "owner": "solana-foundation",
             "repo": "pay",
-            "stars": 1760
+            "stars": 1761
           }
         }
       ],
@@ -2420,7 +2420,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "solana-labs/governance-ui",
           "description": "(👨‍💻 210 · 🔀 500 · 📋 130 - 72% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -2441,7 +2441,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "solana-labs/dapp-scaffold",
           "description": "(👨‍💻 26 · 🔀 950 · 📦 2 · 📋 64 - 29% open · ⏱️ 24.06.2023):",
           "children": [],
           "repo_info": {
@@ -2462,7 +2462,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "solana-labs/example-helloworld",
           "description": "(👨‍💻 40 · 🔀 810 · 📋 160 - 21% open · ⏱️ 20.07.2023):",
           "children": [],
           "repo_info": {
@@ -2483,7 +2483,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "polkadot-js/apps",
           "description": "(👨‍💻 540 · 🔀 1.5K · 📥 110K · 📦 4 · 📋 3.6K - 6% open · ⏱️ 30.05.2024):",
           "children": [],
           "repo_info": {
@@ -2504,7 +2504,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "paritytech/substrate",
           "description": "(👨‍💻 480 · 🔀 2.7K · 📥 1.8K · 📦 330 · 📋 4K - 15% open · ⏱️ 25.08.2023):",
           "children": [],
           "repo_info": {
@@ -2525,7 +2525,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "paritytech/polkadot",
           "description": "(👨‍💻 270 · 🔀 1.6K · 📥 260K · 📦 1.4K · 📋 1.8K - 12% open · ⏱️ 25.08.2023):",
           "children": [],
           "repo_info": {
@@ -2546,7 +2546,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "wasmi-labs/wasmi",
           "description": "(👨‍💻 55 · 🔀 230 · 📦 23K · 📋 260 - 11% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
@@ -2567,7 +2567,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "use-ink/ink",
           "description": "(👨‍💻 91 · 🔀 400 · 📦 1.5K · 📋 700 - 18% open · ⏱️ 20.05.2024):",
           "children": [],
           "repo_info": {
@@ -2588,7 +2588,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "paritytech/jsonrpsee",
           "description": "(👨‍💻 70 · 🔀 150 · 📦 7.5K · 📋 490 - 12% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -2609,7 +2609,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "novasamatech/parity-signer",
           "description": "(👨‍💻 44 · 🔀 190 · 📥 1.7K · 📦 90 · 📋 680 - 12% open · ⏱️ 07.05.2024):",
           "children": [],
           "repo_info": {
@@ -2630,7 +2630,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "paritytech/subxt",
           "description": "(👨‍💻 92 · 🔀 240 · 📦 1.2K · 📋 540 - 9% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -2651,7 +2651,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "paritytech/parity-scale-codec",
           "description": "(👨‍💻 73 · 🔀 91 · 📦 39K · 📋 140 - 36% open · ⏱️ 03.06.2024):",
           "children": [],
           "repo_info": {
@@ -2672,7 +2672,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "polkadot-js/api",
           "description": "(👨‍💻 140 · 🔀 340 · 📋 1.9K - 3% open · ⏱️ 29.05.2024):",
           "children": [],
           "repo_info": {
@@ -2693,7 +2693,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "polkadot-js/extension",
           "description": "(👨‍💻 45 · 🔀 390 · 📥 4.2K · 📦 2 · 📋 480 - 11% open · ⏱️ 22.05.2024):",
           "children": [],
           "repo_info": {
@@ -2714,7 +2714,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "polkadot-js/common",
           "description": "(👨‍💻 71 · 🔀 140 · 📦 16K · 📋 270 - 4% open · ⏱️ 14.05.2024):",
           "children": [],
           "repo_info": {
@@ -2735,7 +2735,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "paritytech/cumulus",
           "description": "(👨‍💻 150 · 🔀 380 · 📥 18K · 📦 21 · 📋 640 - 32% open · ⏱️ 25.08.2023):",
           "children": [],
           "repo_info": {
@@ -2756,7 +2756,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "w3f/polkadot-wiki",
           "description": "(👨‍💻 310 · 🔀 2K · 📋 1.5K - 2% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
@@ -2777,7 +2777,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "paritytech/parity-common",
           "description": "(👨‍💻 110 · 🔀 210 · 📦 2.5K · 📋 200 - 23% open · ⏱️ 05.02.2024):",
           "children": [],
           "repo_info": {
@@ -2798,7 +2798,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "use-ink/cargo-contract",
           "description": "(👨‍💻 59 · 🔀 100 · 📦 72 · 📋 300 - 27% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -2819,7 +2819,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "paritytech/substrate-connect",
           "description": "(👨‍💻 23 · 🔀 74 · 📦 5.2K · 📋 370 - 9% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
@@ -2840,7 +2840,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "w3f/Grants-Program",
           "description": "(👨‍💻 450 · 🔀 1.9K · 📦 4 · 📋 46 - 28% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -2850,7 +2850,7 @@
             "last_commit": "2026-03-19T15:16:40Z",
             "owner": "w3f",
             "repo": "Grants-Program",
-            "stars": 1184
+            "stars": 1185
           }
         }
       ],
@@ -2861,7 +2861,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "paritytech/schnorrkel",
           "description": "(👨‍💻 36 · 🔀 88 · 📦 19K · 📋 67 - 35% open · ⏱️ 29.04.2024):",
           "children": [],
           "repo_info": {
@@ -2882,7 +2882,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "paritytech/parity-bridges-common",
           "description": "(👨‍💻 48 · 🔀 120 · 📋 790 - 14% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -2903,7 +2903,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "paritytech/substrate-api-sidecar",
           "description": "(👨‍💻 49 · 🔀 150 · 📦 22 · 📋 490 - 6% open · ⏱️ 29.05.2024):",
           "children": [],
           "repo_info": {
@@ -2924,7 +2924,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "polkadot-js/tools",
           "description": "(👨‍💻 23 · 🔀 67 · 📦 3 · 📋 61 - 18% open · ⏱️ 22.05.2024):",
           "children": [],
           "repo_info": {
@@ -2945,7 +2945,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "paritytech/parity-db",
           "description": "(👨‍💻 27 · 🔀 58 · 📦 14K · 📋 69 - 18% open · ⏱️ 03.05.2024):",
           "children": [],
           "repo_info": {
@@ -2966,7 +2966,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "paritytech/jsonrpc",
           "description": "(👨‍💻 76 · 🔀 260 · 📋 250 - 32% open · ⏱️ 26.10.2023):",
           "children": [],
           "repo_info": {
@@ -2987,7 +2987,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "polkadot-evm/frontier",
           "description": "(👨‍💻 82 · 🔀 310 · 📋 250 - 41% open · ⏱️ 31.05.2024):",
           "children": [],
           "repo_info": {
@@ -3008,7 +3008,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "paritytech/substrate-telemetry",
           "description": "(👨‍💻 60 · 🔀 200 · 📋 160 - 32% open · ⏱️ 13.05.2024):",
           "children": [],
           "repo_info": {
@@ -3029,14 +3029,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "IntersectMBO/cardano-node",
           "description": "(👨‍💻 160 · 🔀 710 · 📥 63K · 📋 1.9K - 14% open · ⏱️ 03.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 188299874,
             "language": "Haskell",
-            "last_commit": "2026-08-24T13:34:37Z",
+            "last_commit": "2026-08-25T05:08:21Z",
             "owner": "IntersectMBO",
             "repo": "cardano-node",
             "stars": 3176
@@ -3050,14 +3050,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "IntersectMBO/cardano-ledger",
           "description": "(👨‍💻 120 · 🔀 150 · 📥 36K · 📋 1.5K - 11% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 150113380,
             "language": "Haskell",
-            "last_commit": "2026-08-24T14:40:57Z",
+            "last_commit": "2026-08-25T04:54:51Z",
             "owner": "IntersectMBO",
             "repo": "cardano-ledger",
             "stars": 292
@@ -3071,14 +3071,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cardano-foundation/cardano-wallet",
           "description": "(👨‍💻 52 · 🔀 220 · 📥 20K · 📋 920 - 12% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 173286031,
             "language": "Haskell",
-            "last_commit": "2026-08-24T14:31:03Z",
+            "last_commit": "2026-08-25T03:33:04Z",
             "owner": "cardano-foundation",
             "repo": "cardano-wallet",
             "stars": 821
@@ -3092,14 +3092,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "IntersectMBO/plutus",
           "description": "(👨‍💻 150 · 🔀 450 · 📥 70 · 📦 3 · 📋 1.2K - 18% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 73861563,
             "language": "Haskell",
-            "last_commit": "2026-08-24T13:44:00Z",
+            "last_commit": "2026-08-25T00:34:16Z",
             "owner": "IntersectMBO",
             "repo": "plutus",
             "stars": 1634
@@ -3113,14 +3113,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "input-output-hk/daedalus",
           "description": "(👨‍💻 71 · 🔀 290 · 📥 8.3K · 📋 590 - 18% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 70064828,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T21:34:56Z",
+            "last_commit": "2026-08-25T03:06:20Z",
             "owner": "input-output-hk",
             "repo": "daedalus",
             "stars": 1244
@@ -3134,14 +3134,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "input-output-hk/haskell.nix",
           "description": "(👨‍💻 150 · 🔀 220 · 📥 1.2K · 📋 900 - 21% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 130384443,
             "language": "Nix",
-            "last_commit": "2026-08-24T04:45:35Z",
+            "last_commit": "2026-08-25T00:51:02Z",
             "owner": "input-output-hk",
             "repo": "haskell.nix",
             "stars": 632
@@ -3155,7 +3155,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "IntersectMBO/cardano-db-sync",
           "description": "(👨‍💻 65 · 🔀 150 · 📥 3.2K · 📋 780 - 13% open · ⏱️ 03.06.2024):",
           "children": [],
           "repo_info": {
@@ -3176,7 +3176,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cardano-foundation/jormungandr",
           "description": "(👨‍💻 66 · 🔀 140 · 📥 78K · 📋 1K - 25% open · ⏱️ 08.02.2024):",
           "children": [],
           "repo_info": {
@@ -3197,7 +3197,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "IntersectMBO/plutus-apps",
           "description": "(👨‍💻 160 · 🔀 200 · 📋 290 - 22% open · ⏱️ 04.12.2023):",
           "children": [],
           "repo_info": {
@@ -3218,14 +3218,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cardano-scaling/hydra",
           "description": "(👨‍💻 42 · 🔀 84 · 📥 230 · 📋 350 - 14% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 343431081,
             "language": "Haskell",
-            "last_commit": "2026-08-24T14:52:13Z",
+            "last_commit": "2026-08-24T16:43:19Z",
             "owner": "cardano-scaling",
             "repo": "hydra",
             "stars": 336
@@ -3239,7 +3239,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "input-output-hk/cardano-js-sdk",
           "description": "(👨‍💻 45 · 🔀 54 · 📦 6 · 📋 64 - 32% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -3260,7 +3260,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "IntersectMBO/ouroboros-network",
           "description": "(👨‍💻 84 · 🔀 83 · 📋 1.5K - 22% open · ⏱️ 31.05.2024):",
           "children": [],
           "repo_info": {
@@ -3281,7 +3281,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cardano-foundation/cardano-graphql",
           "description": "(👨‍💻 33 · 🔀 100 · 📥 10 · 📦 4 · 📋 420 - 14% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
@@ -3302,7 +3302,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "input-output-hk/cardano-documentation",
           "description": "(👨‍💻 80 · 🔀 150 · 📋 51 - 5% open · ⏱️ 03.06.2024):",
           "children": [],
           "repo_info": {
@@ -3323,7 +3323,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "IntersectMBO/essential-cardano",
           "description": "(👨‍💻 190 · 🔀 290 · ⏱️ 07.03.2024):",
           "children": [],
           "repo_info": {
@@ -3344,7 +3344,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "input-output-hk/plutus-pioneer-program",
           "description": "(👨‍💻 24 · 🔀 960 · 📋 46 - 2% open · ⏱️ 20.12.2023):",
           "children": [],
           "repo_info": {
@@ -3365,7 +3365,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "near/near-api-js",
           "description": "(👨‍💻 83 · 🔀 240 · 📦 18K · 📋 350 - 21% open · ⏱️ 31.05.2024):",
           "children": [],
           "repo_info": {
@@ -3375,7 +3375,7 @@
             "last_commit": "2026-08-17T04:34:34Z",
             "owner": "near",
             "repo": "near-api-js",
-            "stars": 426
+            "stars": 427
           }
         }
       ],
@@ -3386,14 +3386,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "near/nearcore",
           "description": "(👨‍💻 200 · 🔀 580 · 📦 19 · 📋 3.8K - 28% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 151331938,
             "language": "Rust",
-            "last_commit": "2026-08-24T14:47:56Z",
+            "last_commit": "2026-08-24T20:30:51Z",
             "owner": "near",
             "repo": "nearcore",
             "stars": 2610
@@ -3407,7 +3407,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "near/near-sdk-rs",
           "description": "(👨‍💻 75 · 🔀 210 · 📦 2.3K · 📋 480 - 26% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
@@ -3428,7 +3428,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "near/create-near-app",
           "description": "(👨‍💻 36 · 🔀 150 · 📦 12 · 📋 120 - 7% open · ⏱️ 24.05.2024):",
           "children": [],
           "repo_info": {
@@ -3449,7 +3449,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "near/borsh-rs",
           "description": "(👨‍💻 48 · 🔀 61 · 📦 44K · 📋 92 - 19% open · ⏱️ 31.05.2024):",
           "children": [],
           "repo_info": {
@@ -3470,7 +3470,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "near/near-wallet",
           "description": "(👨‍💻 110 · 🔀 180 · 📋 900 - 27% open · ⏱️ 28.05.2024):",
           "children": [],
           "repo_info": {
@@ -3491,7 +3491,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "near/borsh",
           "description": "(👨‍💻 28 · 🔀 39 · 📦 110K · 📋 67 - 56% open · ⏱️ 06.02.2024):",
           "children": [],
           "repo_info": {
@@ -3512,17 +3512,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Chia-Network/chia-blockchain",
           "description": "(👨‍💻 160 · 🔀 2K · 📥 130K · 📦 110 · 📋 5.2K - 7% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 197153676,
             "language": "Python",
-            "last_commit": "2026-08-24T14:49:28Z",
+            "last_commit": "2026-08-24T23:45:16Z",
             "owner": "Chia-Network",
             "repo": "chia-blockchain",
-            "stars": 10799
+            "stars": 10798
           }
         }
       ],
@@ -3533,14 +3533,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Chia-Network/chiapos",
           "description": "(👨‍💻 45 · 🔀 280 · 📦 520 · 📋 100 - 22% open · ⏱️ 30.05.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 246388850,
             "language": "HTML",
-            "last_commit": "2026-08-23T16:05:09Z",
+            "last_commit": "2026-08-24T16:09:58Z",
             "owner": "Chia-Network",
             "repo": "chiapos",
             "stars": 268
@@ -3554,7 +3554,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Chia-Network/bls-signatures",
           "description": "(👨‍💻 47 · 🔀 210 · 📦 390 · 📋 110 - 5% open · ⏱️ 17.05.2024):",
           "children": [],
           "repo_info": {
@@ -3575,14 +3575,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Chia-Network/chia-blockchain-gui",
           "description": "(👨‍💻 56 · 🔀 240 · 📋 720 - 5% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 336877862,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T00:05:13Z",
+            "last_commit": "2026-08-24T20:05:43Z",
             "owner": "Chia-Network",
             "repo": "chia-blockchain-gui",
             "stars": 342
@@ -3596,14 +3596,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Chia-Network/bladebit",
           "description": "(👨‍💻 11 · 🔀 110 · 📥 230K · 📋 230 - 47% open · ⏱️ 17.05.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 384646890,
             "language": "C",
-            "last_commit": "2026-08-23T16:07:11Z",
+            "last_commit": "2026-08-24T16:13:14Z",
             "owner": "Chia-Network",
             "repo": "bladebit",
             "stars": 325
@@ -3617,7 +3617,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Chia-Network/pool-reference",
           "description": "(👨‍💻 42 · 🔀 200 · 📋 180 - 7% open · ⏱️ 30.05.2024):",
           "children": [],
           "repo_info": {
@@ -3638,7 +3638,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Chia-Network/chia-docker",
           "description": "(👨‍💻 38 · 🔀 350 · 📋 110 - 1% open · ⏱️ 31.05.2024):",
           "children": [],
           "repo_info": {
@@ -3659,7 +3659,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "CityOfZion/neon-wallet",
           "description": "(👨‍💻 91 · 🔀 330 · 📥 3.2M · 📋 1.4K - 2% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -3669,7 +3669,7 @@
             "last_commit": "2025-05-08T19:14:33Z",
             "owner": "CityOfZion",
             "repo": "neon-wallet",
-            "stars": 1012
+            "stars": 1013
           }
         }
       ],
@@ -3680,7 +3680,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "neo-project/neo-node",
           "description": "(👨‍💻 46 · 🔀 220 · 📥 110K · 📋 460 - 0% open · ⏱️ 07.12.2023):",
           "children": [],
           "repo_info": {
@@ -3701,7 +3701,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "multiversx/mx-chain-go",
           "description": "(👨‍💻 57 · 🔀 200 · 📥 590 · 📦 120 · 📋 510 - 19% open · ⏱️ 24.05.2024):",
           "children": [],
           "repo_info": {
@@ -3722,7 +3722,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "tronprotocol/java-tron",
           "description": "(👨‍💻 260 · 🔀 1.3K · 📥 120K · 📋 1.4K - 1% open · ⏱️ 31.05.2024):",
           "children": [],
           "repo_info": {
@@ -3732,7 +3732,7 @@
             "last_commit": "2026-08-24T06:54:38Z",
             "owner": "tronprotocol",
             "repo": "java-tron",
-            "stars": 4142
+            "stars": 4143
           }
         }
       ],
@@ -3743,7 +3743,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "tronprotocol/tronweb",
           "description": "(👨‍💻 49 · 🔀 250 · 📦 4.6K · 📋 280 - 3% open · ⏱️ 22.02.2024):",
           "children": [],
           "repo_info": {
@@ -3764,14 +3764,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "tronprotocol/wallet-cli",
           "description": "(👨‍💻 88 · 🔀 390 · 📥 5.3K · 📋 160 - 3% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 119688315,
             "language": "Java",
-            "last_commit": "2026-08-24T08:08:44Z",
+            "last_commit": "2026-08-25T03:18:23Z",
             "owner": "tronprotocol",
             "repo": "wallet-cli",
             "stars": 818
@@ -3785,7 +3785,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "tronprotocol/tips",
           "description": "(👨‍💻 50 · 🔀 170 · 📋 270 - 3% open · ⏱️ 30.05.2024):",
           "children": [],
           "repo_info": {
@@ -3806,7 +3806,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "tronprotocol/documentation",
           "description": "(👨‍💻 58 · 🔀 470 · 📋 110 - 34% open · ⏱️ 15.05.2024):",
           "children": [],
           "repo_info": {
@@ -3827,14 +3827,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "0xPolygon/bor",
           "description": "(👨‍💻 950 · 🔀 460 · 📥 52K · 📦 70 · 📋 390 - 3% open · ⏱️ 10.05.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 218343552,
             "language": "Go",
-            "last_commit": "2026-08-21T20:10:53Z",
+            "last_commit": "2026-08-25T05:01:21Z",
             "owner": "0xPolygon",
             "repo": "bor",
             "stars": 1103
@@ -3848,7 +3848,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "0xPolygon/heimdall",
           "description": "(👨‍💻 56 · 🔀 170 · 📥 41K · 📦 34 · 📋 330 - 1% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -3869,7 +3869,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "availproject/avail",
           "description": "(👨‍💻 38 · 🔀 490 · 📥 22K · 📦 110 · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
@@ -3890,7 +3890,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "0xPolygon/matic.js",
           "description": "(👨‍💻 45 · 🔀 250 · 📦 3 · 📋 91 - 15% open · ⏱️ 19.03.2024):",
           "children": [],
           "repo_info": {
@@ -3911,7 +3911,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "maticnetwork/contracts",
           "description": "(👨‍💻 25 · 🔀 530 · 📋 120 - 61% open · ⏱️ 01.03.2024):",
           "children": [],
           "repo_info": {
@@ -3932,7 +3932,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "maticnetwork/pos-portal",
           "description": "(👨‍💻 16 · 🔀 240 · 📦 37 · 📋 46 - 84% open · ⏱️ 26.03.2024):",
           "children": [],
           "repo_info": {
@@ -3953,7 +3953,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "LiskArchive/lisk-sdk",
           "description": "(👨‍💻 98 · 🔀 460 · 📦 240 · 📋 5.2K - 1% open · ⏱️ 08.01.2024):",
           "children": [],
           "repo_info": {
@@ -3974,7 +3974,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "LiskHQ/lisk-desktop",
           "description": "(👨‍💻 75 · 🔀 97 · 📥 590K · 📋 3.1K - 0% open · ⏱️ 21.05.2024):",
           "children": [],
           "repo_info": {
@@ -3995,7 +3995,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "hiero-ledger/hiero-sdk-js",
           "description": "(👨‍💻 44 · 🔀 130 · 📦 2.3K · 📋 820 - 11% open · ⏱️ 03.06.2024):",
           "children": [],
           "repo_info": {
@@ -4016,14 +4016,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "hiero-ledger/hiero-consensus-node",
           "description": "(👨‍💻 120 · 🔀 110 · 📋 7.7K - 19% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 261828887,
             "language": "Java",
-            "last_commit": "2026-08-24T14:52:33Z",
+            "last_commit": "2026-08-25T05:09:56Z",
             "owner": "hiero-ledger",
             "repo": "hiero-consensus-node",
             "stars": 405
@@ -4037,7 +4037,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "hiero-ledger/hiero-sdk-java",
           "description": "(👨‍💻 34 · 🔀 110 · 📋 650 - 10% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
@@ -4058,7 +4058,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "oasisprotocol/oasis-core",
           "description": "(👨‍💻 44 · 🔀 110 · 📥 59K · 📦 180 · 📋 1.8K - 15% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
@@ -4079,7 +4079,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "etclabscore/core-geth",
           "description": "(👨‍💻 920 · 🔀 160 · 📥 110K · 📦 7 · 📋 220 - 30% open · ⏱️ 13.03.2024):",
           "children": [],
           "repo_info": {
@@ -4100,7 +4100,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "harmony-one/harmony",
           "description": "(👨‍💻 99 · 🔀 290 · 📥 350K · 📦 83 · 📋 1.2K - 7% open · ⏱️ 05.03.2024):",
           "children": [],
           "repo_info": {
@@ -4121,7 +4121,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ontio/ontology",
           "description": "(👨‍💻 75 · 🔀 320 · 📥 21K · 📦 260 · 📋 260 - 24% open · ⏱️ 03.06.2024):",
           "children": [],
           "repo_info": {
@@ -4142,7 +4142,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "AstarNetwork/Astar",
           "description": "(👨‍💻 38 · 🔀 200 · 📥 21K · 📋 310 - 8% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -4163,7 +4163,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "DeFiCh/ain",
           "description": "(👨‍💻 840 · 🔀 120 · 📥 41K · 📋 520 - 17% open · ⏱️ 21.05.2024):",
           "children": [],
           "repo_info": {
@@ -4184,7 +4184,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "GLEECBTC/komodo-wallet-desktop",
           "description": "(👨‍💻 51 · 🔀 170 · 📥 83K · 📋 950 - 20% open · ⏱️ 08.04.2024):",
           "children": [],
           "repo_info": {
@@ -4205,7 +4205,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Zilliqa/zq1",
           "description": "(👨‍💻 86 · 🔀 280 · 📋 400 - 28% open · ⏱️ 09.05.2024):",
           "children": [],
           "repo_info": {
@@ -4226,7 +4226,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Zilliqa/scilla",
           "description": "(👨‍💻 41 · 🔀 81 · 📥 390 · 📋 410 - 33% open · ⏱️ 15.02.2024):",
           "children": [],
           "repo_info": {
@@ -4247,7 +4247,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "moonbeam-foundation/moonbeam",
           "description": "(👨‍💻 58 · 🔀 300 · 📥 25K · 📦 3 · 📋 400 - 7% open · ⏱️ 03.06.2024):",
           "children": [],
           "repo_info": {
@@ -4268,7 +4268,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "radixdlt/radixdlt-scrypto",
           "description": "(👨‍💻 54 · 🔀 120 · 📦 17 · 📋 120 - 19% open · ⏱️ 24.05.2024):",
           "children": [],
           "repo_info": {
@@ -4289,14 +4289,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "casper-network/casper-node",
           "description": "(👨‍💻 91 · 🔀 220 · 📥 1.4K · 📦 180 · 📋 1.7K - 19% open · ⏱️ 10.04.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 263892105,
             "language": "Rust",
-            "last_commit": "2026-07-24T13:24:28Z",
+            "last_commit": "2026-08-24T22:31:45Z",
             "owner": "casper-network",
             "repo": "casper-node",
             "stars": 400
@@ -4310,7 +4310,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "kadena-io/pact",
           "description": "(👨‍💻 55 · 🔀 100 · 📥 11K · 📋 400 - 25% open · ⏱️ 23.05.2024):",
           "children": [],
           "repo_info": {
@@ -4331,7 +4331,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "kadena-io/chainweb-node",
           "description": "(👨‍💻 35 · 🔀 89 · 📥 1.6K · 📋 250 - 40% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
@@ -4352,7 +4352,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "CosmosContracts/juno",
           "description": "(👨‍💻 40 · 🔀 160 · 📥 44K · 📦 3 · 📋 230 - 17% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -4373,7 +4373,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "byteball/obyte-gui-wallet",
           "description": "(👨‍💻 37 · 🔀 180 · 📥 350K · 📋 260 - 34% open · ⏱️ 29.02.2024):",
           "children": [],
           "repo_info": {
@@ -4383,7 +4383,7 @@
             "last_commit": "2026-08-04T09:19:17Z",
             "owner": "byteball",
             "repo": "obyte-gui-wallet",
-            "stars": 429
+            "stars": 430
           }
         }
       ],
@@ -4394,7 +4394,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "CounterpartyXCP/counterparty-lib",
           "description": "(👨‍💻 2 · ⏱️ 06.03.2024):",
           "children": [],
           "repo_info": {
@@ -4415,7 +4415,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "aave/aave-v3-core",
           "description": "(👨‍💻 25 · 🔀 520 · 📦 1.2K · 📋 410 - 8% open · ⏱️ 07.03.2024):",
           "children": [],
           "repo_info": {
@@ -4436,14 +4436,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "aave/interface",
           "description": "(👨‍💻 46 · 🔀 300 · 📥 71 · 📋 580 - 20% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 447602725,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:59:07Z",
+            "last_commit": "2026-08-25T02:28:47Z",
             "owner": "aave",
             "repo": "interface",
             "stars": 536
@@ -4457,7 +4457,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "gnosisguild/zodiac",
           "description": "(👨‍💻 26 · 🔀 110 · 📥 9 · 📦 340 · 📋 21 - 33% open · ⏱️ 25.04.2024):",
           "children": [],
           "repo_info": {
@@ -4478,7 +4478,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cowprotocol/ethcontract-rs",
           "description": "(👨‍💻 18 · 🔀 44 · 📦 140 · 📋 110 - 27% open · ⏱️ 15.05.2024):",
           "children": [],
           "repo_info": {
@@ -4499,7 +4499,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "synpress-io/synpress",
           "description": "(👨‍💻 27 · 🔀 170 · 📦 3 · 📋 210 - 42% open · ⏱️ 30.05.2024):",
           "children": [],
           "repo_info": {
@@ -4520,14 +4520,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "0xProject/protocol",
           "description": "(👨‍💻 130 · 🔀 190 · 📦 180 · 📋 28 - 17% open · ⏱️ 24.05.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 305788335,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T08:10:16Z",
+            "last_commit": "2026-08-24T18:58:26Z",
             "owner": "0xProject",
             "repo": "protocol",
             "stars": 402
@@ -4541,7 +4541,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "0xProject/0x-mesh",
           "description": "(👨‍💻 18 · 🔀 110 · 📥 130 · 📦 160 · 📋 340 - 38% open · ⏱️ 10.11.2023):",
           "children": [],
           "repo_info": {
@@ -4562,7 +4562,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "consenlabs/token-profile",
           "description": "(👨‍💻 1.7K · 🔀 3.5K · 📋 690 - 9% open · ⏱️ 03.06.2024):",
           "children": [],
           "repo_info": {
@@ -4583,7 +4583,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "electroneum/electroneum",
           "description": "(👨‍💻 290 · 🔀 190 · 📥 630K · 📋 400 - 24% open · ⏱️ 24.04.2024):",
           "children": [],
           "repo_info": {
@@ -4604,7 +4604,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "enzymefinance/protocol",
           "description": "(👨‍💻 32 · 🔀 150 · 📥 270 · 📦 17 · 📋 530 - 0% open · ⏱️ 21.05.2024):",
           "children": [],
           "repo_info": {
@@ -4625,7 +4625,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "diadata-org/diadata",
           "description": "(👨‍💻 73 · 🔀 130 · 📦 27 · 📋 270 - 2% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -4646,7 +4646,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "blocto/solana-go-sdk",
           "description": "(👨‍💻 12 · 🔀 76 · 📦 61 · 📋 91 - 30% open · ⏱️ 16.05.2024):",
           "children": [],
           "repo_info": {
@@ -4667,7 +4667,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "OlympusDAO/olympus-frontend",
           "description": "(👨‍💻 62 · 🔀 720 · 📋 290 - 10% open · ⏱️ 03.05.2024):",
           "children": [],
           "repo_info": {
@@ -4688,7 +4688,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "UMAprotocol/protocol",
           "description": "(👨‍💻 51 · 🔀 170 · 📋 980 - 1% open · ⏱️ 28.05.2024):",
           "children": [],
           "repo_info": {
@@ -4709,7 +4709,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "liquity/dev",
           "description": "(👨‍💻 17 · 🔀 280 · 📋 270 - 18% open · ⏱️ 28.03.2024):",
           "children": [],
           "repo_info": {
@@ -4730,17 +4730,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "bnb-chain/bsc",
           "description": "(👨‍💻 1K · 🔀 1.5K · 📥 310K · 📦 5 · 📋 1.3K - 1% open · ⏱️ 21.05.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 265775217,
             "language": "Go",
-            "last_commit": "2026-08-24T05:50:36Z",
+            "last_commit": "2026-08-25T00:16:15Z",
             "owner": "bnb-chain",
             "repo": "bsc",
-            "stars": 3276
+            "stars": 3278
           }
         }
       ],
@@ -4751,7 +4751,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "bnb-chain/javascript-sdk",
           "description": "(👨‍💻 31 · 🔀 240 · 📦 750 · 📋 180 - 1% open · ⏱️ 11.04.2024):",
           "children": [],
           "repo_info": {
@@ -4772,7 +4772,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "bnb-chain/tss-lib",
           "description": "(👨‍💻 20 · 🔀 250 · 📥 4K · 📦 180 · 📋 140 - 43% open · ⏱️ 18.04.2024):",
           "children": [],
           "repo_info": {
@@ -4782,7 +4782,7 @@
             "last_commit": "2026-04-09T13:36:58Z",
             "owner": "bnb-chain",
             "repo": "tss-lib",
-            "stars": 1035
+            "stars": 1036
           }
         }
       ],
@@ -4793,7 +4793,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "bnb-chain/go-sdk",
           "description": "(👨‍💻 28 · 🔀 100 · 📦 250 · 📋 88 - 21% open · ⏱️ 26.02.2024):",
           "children": [],
           "repo_info": {
@@ -4814,7 +4814,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "bnb-chain/bsc-genesis-contract",
           "description": "(👨‍💻 18 · 🔀 690 · 📦 3 · 📋 90 - 21% open · ⏱️ 03.06.2024):",
           "children": [],
           "repo_info": {
@@ -4824,7 +4824,7 @@
             "last_commit": "2026-08-20T05:53:00Z",
             "owner": "bnb-chain",
             "repo": "bsc-genesis-contract",
-            "stars": 776
+            "stars": 777
           }
         }
       ],
@@ -4835,7 +4835,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "bnb-chain/BEPs",
           "description": "(👨‍💻 68 · 🔀 480 · 📋 90 - 34% open · ⏱️ 30.05.2024):",
           "children": [],
           "repo_info": {
@@ -4845,7 +4845,7 @@
             "last_commit": "2026-08-20T07:08:52Z",
             "owner": "bnb-chain",
             "repo": "BEPs",
-            "stars": 975
+            "stars": 976
           }
         }
       ],
@@ -4856,7 +4856,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "trustwallet/assets",
           "description": "(👨‍💻 4.1K · 🔀 22K · 📦 3 · 📋 1.1K - 1% open · ⏱️ 03.06.2024):",
           "children": [],
           "repo_info": {
@@ -4866,7 +4866,7 @@
             "last_commit": "2026-08-24T11:40:52Z",
             "owner": "trustwallet",
             "repo": "assets",
-            "stars": 5375
+            "stars": 5376
           }
         }
       ],
@@ -4877,7 +4877,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "trustwallet/wallet-core",
           "description": "(👨‍💻 140 · 🔀 1.5K · 📥 86K · 📦 3 · 📋 1.4K - 2% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -4898,7 +4898,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "trustwallet/trust-web3-provider",
           "description": "(👨‍💻 18 · 🔀 400 · 📦 3 · 📋 240 - 23% open · ⏱️ 27.05.2024):",
           "children": [],
           "repo_info": {
@@ -4908,7 +4908,7 @@
             "last_commit": "2026-07-21T04:11:39Z",
             "owner": "trustwallet",
             "repo": "trust-web3-provider",
-            "stars": 915
+            "stars": 914
           }
         }
       ],
@@ -4919,7 +4919,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "trustwallet/developer",
           "description": "(👨‍💻 38 · 🔀 180 · 📋 81 - 28% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -4940,7 +4940,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "bitshares/bitshares-ui",
           "description": "(👨‍💻 180 · 🔀 590 · 📥 220K · 📋 2.3K - 18% open · ⏱️ 15.05.2024):",
           "children": [],
           "repo_info": {
@@ -4961,7 +4961,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "bitshares/bitshares-core",
           "description": "(👨‍💻 81 · 🔀 660 · 📥 140K · 📋 1.3K - 20% open · ⏱️ 15.12.2023):",
           "children": [],
           "repo_info": {
@@ -4982,7 +4982,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "crypto-org-chain/cronos",
           "description": "(👨‍💻 27 · 🔀 220 · 📥 320K · 📦 17 · 📋 470 - 21% open · ⏱️ 30.05.2024):",
           "children": [],
           "repo_info": {
@@ -5003,7 +5003,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "crypto-org-chain/chain-main",
           "description": "(👨‍💻 20 · 🔀 330 · 📥 150K · 📋 380 - 5% open · ⏱️ 24.05.2024):",
           "children": [],
           "repo_info": {
@@ -5024,7 +5024,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "dydxprotocol/dydx-v3-python",
           "description": "(👨‍💻 12 · 🔀 210 · 📦 650 · 📋 100 - 61% open · ⏱️ 11.12.2023):",
           "children": [],
           "repo_info": {
@@ -5045,7 +5045,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Loopring/protocols",
           "description": "(👨‍💻 40 · 🔀 110 · 📋 370 - 5% open · ⏱️ 27.05.2024):",
           "children": [],
           "repo_info": {
@@ -5066,7 +5066,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "VeloraDEX/paraswap-dex-lib",
           "description": "(👨‍💻 74 · 🔀 260 · 📦 3 · 📋 100 - 97% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -5087,7 +5087,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "VeloraDEX/sdk",
           "description": "(👨‍💻 24 · 🔀 95 · 📦 4 · 📋 38 - 78% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -5108,7 +5108,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "airswap/airswap-protocols",
           "description": "(👨‍💻 29 · 🔀 91 · 📦 17 · 📋 270 - 2% open · ⏱️ 27.05.2024):",
           "children": [],
           "repo_info": {
@@ -5129,17 +5129,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "filecoin-project/lotus",
           "description": "(👨‍💻 270 · 🔀 1.2K · 📥 13K · 📋 4.6K - 15% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 193681111,
             "language": "Go",
-            "last_commit": "2026-08-18T05:02:26Z",
+            "last_commit": "2026-08-25T02:45:52Z",
             "owner": "filecoin-project",
             "repo": "lotus",
-            "stars": 2986
+            "stars": 2987
           }
         }
       ],
@@ -5150,7 +5150,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "filecoin-project/venus",
           "description": "(👨‍💻 99 · 🔀 450 · 📥 11K · 📦 66 · 📋 3.2K - 2% open · ⏱️ 31.05.2024):",
           "children": [],
           "repo_info": {
@@ -5171,7 +5171,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "bacalhau-project/bacalhau",
           "description": "(👨‍💻 62 · 🔀 85 · 📥 110K · 📦 10 · 📋 2K - 15% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -5192,7 +5192,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "filecoin-project/rust-fil-proofs",
           "description": "(👨‍💻 59 · 🔀 310 · 📥 3.2K · 📦 160 · 📋 640 - 5% open · ⏱️ 17.05.2024):",
           "children": [],
           "repo_info": {
@@ -5213,7 +5213,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "filecoin-project/ref-fvm",
           "description": "(👨‍💻 45 · 🔀 130 · 📦 130 · 📋 970 - 22% open · ⏱️ 24.05.2024):",
           "children": [],
           "repo_info": {
@@ -5223,7 +5223,7 @@
             "last_commit": "2026-08-18T12:00:43Z",
             "owner": "filecoin-project",
             "repo": "ref-fvm",
-            "stars": 422
+            "stars": 423
           }
         }
       ],
@@ -5234,7 +5234,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "filecoin-project/specs",
           "description": "(👨‍💻 75 · 🔀 180 · 📦 3 · 📋 620 - 38% open · ⏱️ 16.07.2023):",
           "children": [],
           "repo_info": {
@@ -5255,7 +5255,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "filecoin-project/filecoin-docs",
           "description": "(👨‍💻 190 · 🔀 280 · 📋 600 - 2% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
@@ -5276,7 +5276,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "filecoin-project/devgrants",
           "description": "(👨‍💻 71 · 🔀 310 · 📋 1.5K - 12% open · ⏱️ 22.05.2024):",
           "children": [],
           "repo_info": {
@@ -5297,7 +5297,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "lurk-lab/neptune",
           "description": "(👨‍💻 24 · 🔀 81 · 📦 840 · 📋 48 - 14% open · ⏱️ 13.02.2024):",
           "children": [],
           "repo_info": {
@@ -5318,7 +5318,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "filecoin-project/FIPs",
           "description": "(👨‍💻 73 · 🔀 170 · 📋 120 - 9% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -5339,7 +5339,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "status-im/status-legacy",
           "description": "(👨‍💻 300 · 🔀 1K · 📥 5.1K · 📋 10K - 6% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -5360,14 +5360,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "status-im/status-go",
           "description": "(👨‍💻 120 · 🔀 240 · 📥 1.6K · 📦 19 · 📋 1.4K - 22% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 61047867,
             "language": "Go",
-            "last_commit": "2026-08-24T14:42:50Z",
+            "last_commit": "2026-08-24T19:58:06Z",
             "owner": "status-im",
             "repo": "status-go",
             "stars": 761
@@ -5381,14 +5381,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "status-im/status-app",
           "description": "(👨‍💻 67 · 🔀 74 · 📥 16K · 📋 7.9K - 8% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 261270348,
             "language": "QML",
-            "last_commit": "2026-08-24T13:58:44Z",
+            "last_commit": "2026-08-24T21:10:41Z",
             "owner": "status-im",
             "repo": "status-app",
             "stars": 370
@@ -5402,14 +5402,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "status-im/nimbus-eth2",
           "description": "(👨‍💻 82 · 🔀 200 · 📥 32K · 📋 1.1K - 17% open · ⏱️ 23.05.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 141717232,
             "language": "Nim",
-            "last_commit": "2026-08-24T13:50:45Z",
+            "last_commit": "2026-08-25T02:13:38Z",
             "owner": "status-im",
             "repo": "nimbus-eth2",
             "stars": 662
@@ -5423,14 +5423,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "vacp2p/nim-libp2p",
           "description": "(👨‍💻 35 · 🔀 52 · 📋 240 - 27% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 158147798,
             "language": "Nim",
-            "last_commit": "2026-08-24T14:53:58Z",
+            "last_commit": "2026-08-25T05:10:52Z",
             "owner": "vacp2p",
             "repo": "nim-libp2p",
             "stars": 319
@@ -5444,14 +5444,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "status-im/nimbus-eth1",
           "description": "(👨‍💻 41 · 🔀 100 · 📋 450 - 23% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 116221698,
             "language": "Nim",
-            "last_commit": "2026-08-24T14:46:24Z",
+            "last_commit": "2026-08-25T03:15:20Z",
             "owner": "status-im",
             "repo": "nimbus-eth1",
             "stars": 628
@@ -5465,7 +5465,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "status-im/nim-chronos",
           "description": "(👨‍💻 30 · 🔀 51 · 📋 140 - 37% open · ⏱️ 02.06.2024):",
           "children": [],
           "repo_info": {
@@ -5486,7 +5486,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "keycard-tech/status-keycard",
           "description": "(👨‍💻 7 · 🔀 60 · 📥 1.8K · 📋 68 - 17% open · ⏱️ 06.06.2023):",
           "children": [],
           "repo_info": {
@@ -5507,14 +5507,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "smartcontractkit/chainlink",
           "description": "(👨‍💻 270 · 🔀 1.6K · 📦 520 · 📋 590 - 41% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 111455867,
             "language": "Go",
-            "last_commit": "2026-08-24T14:40:15Z",
+            "last_commit": "2026-08-25T01:07:21Z",
             "owner": "smartcontractkit",
             "repo": "chainlink",
             "stars": 8235
@@ -5528,14 +5528,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "smartcontractkit/external-adapters-js",
           "description": "(👨‍💻 89 · 🔀 240 · 📦 12 · 📋 180 - 22% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 258228323,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T01:44:03Z",
+            "last_commit": "2026-08-24T21:02:27Z",
             "owner": "smartcontractkit",
             "repo": "external-adapters-js",
             "stars": 289
@@ -5549,14 +5549,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "smartcontractkit/documentation",
           "description": "(👨‍💻 160 · 🔀 370 · 📋 350 - 12% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 352717417,
             "language": "MDX",
-            "last_commit": "2026-08-24T14:02:30Z",
+            "last_commit": "2026-08-24T23:08:04Z",
             "owner": "smartcontractkit",
             "repo": "documentation",
             "stars": 525
@@ -5570,7 +5570,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "smartcontractkit/hardhat-starter-kit",
           "description": "(👨‍💻 33 · 🔀 480 · 📋 80 - 26% open · ⏱️ 02.06.2024):",
           "children": [],
           "repo_info": {
@@ -5591,7 +5591,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "smartcontractkit/full-blockchain-solidity-course-js",
           "description": "(👨‍💻 28 · 🔀 2.8K · 📋 240 - 34% open · ⏱️ 23.05.2024):",
           "children": [],
           "repo_info": {
@@ -5612,7 +5612,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "smartcontractkit/full-blockchain-solidity-course-py",
           "description": "(👨‍💻 17 · 🔀 2.9K · 📋 500 - 44% open · ⏱️ 10.04.2024):",
           "children": [],
           "repo_info": {
@@ -5622,7 +5622,7 @@
             "last_commit": "2024-04-16T07:21:43Z",
             "owner": "smartcontractkit",
             "repo": "full-blockchain-solidity-course-py",
-            "stars": 11214
+            "stars": 11213
           }
         }
       ],
@@ -5633,14 +5633,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "stacks-network/stacks-core",
           "description": "(👨‍💻 130 · 🔀 620 · 📥 22K · 📦 21 · 📋 2.6K - 13% open · ⏱️ 09.05.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 24375248,
             "language": "Rust",
-            "last_commit": "2026-08-21T15:13:45Z",
+            "last_commit": "2026-08-24T21:51:27Z",
             "owner": "stacks-network",
             "repo": "stacks-core",
             "stars": 3062
@@ -5654,7 +5654,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "stacks-network/stacks",
           "description": "(👨‍💻 42 · 🔀 240 · 📋 320 - 8% open · ⏱️ 18.04.2024):",
           "children": [],
           "repo_info": {
@@ -5675,14 +5675,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "graphprotocol/graph-node",
           "description": "(👨‍💻 120 · 🔀 890 · 📥 490 · 📋 1.9K - 22% open · ⏱️ 30.05.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 130174051,
             "language": "Rust",
-            "last_commit": "2026-08-21T14:24:57Z",
+            "last_commit": "2026-08-24T19:51:24Z",
             "owner": "graphprotocol",
             "repo": "graph-node",
             "stars": 3146
@@ -5696,7 +5696,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "graphprotocol/graph-tooling",
           "description": "(👨‍💻 91 · 🔀 180 · 📥 7.7K · 📋 640 - 33% open · ⏱️ 27.05.2024):",
           "children": [],
           "repo_info": {
@@ -5717,7 +5717,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "graphprotocol/indexer",
           "description": "(👨‍💻 54 · 🔀 110 · 📥 12K · 📦 21 · 📋 340 - 37% open · ⏱️ 31.05.2024):",
           "children": [],
           "repo_info": {
@@ -5738,7 +5738,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "graphprotocol/contracts",
           "description": "(👨‍💻 23 · 🔀 130 · 📦 5 · 📋 180 - 27% open · ⏱️ 13.05.2024):",
           "children": [],
           "repo_info": {
@@ -5759,14 +5759,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "holochain/holochain",
           "description": "(👨‍💻 53 · 🔀 140 · 📦 280 · 📋 420 - 41% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 233632633,
             "language": "Rust",
-            "last_commit": "2026-08-24T12:08:34Z",
+            "last_commit": "2026-08-24T16:11:00Z",
             "owner": "holochain",
             "repo": "holochain",
             "stars": 1391
@@ -5780,7 +5780,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "holochain/launcher",
           "description": "(👨‍💻 10 · 🔀 20 · 📥 7.1K · 📦 3 · 📋 140 - 31% open · ⏱️ 07.05.2024):",
           "children": [],
           "repo_info": {
@@ -5801,7 +5801,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "holochain/holochain-client-js",
           "description": "(👨‍💻 24 · 🔀 14 · 📦 6 · 📋 56 - 10% open · ⏱️ 13.05.2024):",
           "children": [],
           "repo_info": {
@@ -5822,7 +5822,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ethersphere/bee",
           "description": "(👨‍💻 64 · 🔀 340 · 📥 280K · 📦 140 · 📋 1.7K - 7% open · ⏱️ 31.05.2024):",
           "children": [],
           "repo_info": {
@@ -5843,7 +5843,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "lbryio/lbry.com",
           "description": "(👨‍💻 190 · 🔀 240 · 📋 320 - 7% open · ⏱️ 23.10.2023):",
           "children": [],
           "repo_info": {
@@ -5864,7 +5864,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "aragon/use-wallet",
           "description": "(👨‍💻 31 · 🔀 240 · 📦 3.7K · 📋 130 - 61% open · ⏱️ 21.09.2023):",
           "children": [],
           "repo_info": {
@@ -5885,7 +5885,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "aragon/client",
           "description": "(👨‍💻 70 · 🔀 250 · 📥 34K · 📋 730 - 29% open · ⏱️ 10.11.2023):",
           "children": [],
           "repo_info": {
@@ -5906,14 +5906,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "aeternity/aeternity",
           "description": "(👨‍💻 82 · 🔀 230 · 📥 25K · 📋 940 - 26% open · ⏱️ 24.05.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 99802036,
             "language": "Erlang",
-            "last_commit": "2026-08-21T16:29:48Z",
+            "last_commit": "2026-08-25T00:11:53Z",
             "owner": "aeternity",
             "repo": "aeternity",
             "stars": 1085
@@ -5927,7 +5927,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "aeternity/protocol",
           "description": "(👨‍💻 44 · 🔀 82 · 📋 66 - 25% open · ⏱️ 25.04.2024):",
           "children": [],
           "repo_info": {
@@ -5948,7 +5948,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "protofire/solhint",
           "description": "(👨‍💻 56 · 🔀 150 · 📦 52K · 📋 270 - 8% open · ⏱️ 13.05.2024):",
           "children": [],
           "repo_info": {
@@ -5969,7 +5969,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ArweaveTeam/arweave",
           "description": "(👨‍💻 51 · 🔀 180 · 📥 36K · 📋 230 - 37% open · ⏱️ 31.05.2024):",
           "children": [],
           "repo_info": {
@@ -5979,7 +5979,7 @@
             "last_commit": "2026-06-25T12:13:17Z",
             "owner": "ArweaveTeam",
             "repo": "arweave",
-            "stars": 1069
+            "stars": 1070
           }
         }
       ],
@@ -5990,7 +5990,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ArweaveTeam/arweave-js",
           "description": "(👨‍💻 42 · 🔀 120 · 📦 3 · 📋 99 - 9% open · ⏱️ 04.05.2024):",
           "children": [],
           "repo_info": {
@@ -6011,7 +6011,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "rocket-pool/rocketpool",
           "description": "(👨‍💻 19 · 🔀 210 · 📦 12 · 📋 110 - 35% open · ⏱️ 21.06.2023):",
           "children": [],
           "repo_info": {
@@ -6032,7 +6032,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "storj/drpc",
           "description": "(👨‍💻 15 · 🔀 47 · 📋 37 - 27% open · ⏱️ 12.03.2024):",
           "children": [],
           "repo_info": {
@@ -6042,7 +6042,7 @@
             "last_commit": "2026-08-18T09:00:46Z",
             "owner": "storj",
             "repo": "drpc",
-            "stars": 1629
+            "stars": 1630
           }
         }
       ],
@@ -6053,14 +6053,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "skycoin/skycoin",
           "description": "(👨‍💻 92 · 🔀 290 · 📦 81 · 📋 1.2K - 13% open · ⏱️ 10.08.2023):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 15427835,
             "language": "Go",
-            "last_commit": "2026-08-22T21:06:23Z",
+            "last_commit": "2026-08-24T23:18:25Z",
             "owner": "skycoin",
             "repo": "skycoin",
             "stars": 588
@@ -6074,7 +6074,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "raiden-network/raiden",
           "description": "(👨‍💻 99 · 🔀 400 · 📥 7.6K · 📦 33 · 📋 2.7K - 11% open · ⏱️ 10.10.2023):",
           "children": [],
           "repo_info": {
@@ -6095,7 +6095,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "AElfProject/AElf",
           "description": "(👨‍💻 87 · 🔀 240 · 📥 3.8K · 📦 43 · 📋 840 - 6% open · ⏱️ 21.05.2024):",
           "children": [],
           "repo_info": {
@@ -6116,7 +6116,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "handshake-org/hsd",
           "description": "(👨‍💻 65 · 🔀 290 · 📥 310 · 📦 170 · 📋 360 - 34% open · ⏱️ 31.05.2024):",
           "children": [],
           "repo_info": {
@@ -6137,7 +6137,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "handshake-org/hnsd",
           "description": "(👨‍💻 19 · 🔀 50 · 📦 3 · 📋 49 - 36% open · ⏱️ 05.03.2024):",
           "children": [],
           "repo_info": {
@@ -6158,7 +6158,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "bittorrent/go-btfs",
           "description": "(👨‍💻 360 · 🔀 70 · 📥 48K · 📦 2 · 📋 190 - 2% open · ⏱️ 28.03.2024):",
           "children": [],
           "repo_info": {
@@ -6179,7 +6179,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "PlatONnetwork/PlatON-Go",
           "description": "(👨‍💻 450 · 🔀 150 · 📥 570 · 📦 10 · 📋 670 - 0% open · ⏱️ 08.05.2024):",
           "children": [],
           "repo_info": {
@@ -6200,7 +6200,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "loomnetwork/loom-js",
           "description": "(👨‍💻 24 · 🔀 40 · 📦 440 · 📋 89 - 51% open · ⏱️ 05.07.2023):",
           "children": [],
           "repo_info": {
@@ -6221,7 +6221,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "openhive-network/hive",
           "description": "(👨‍💻 120 · 🔀 98 · 📥 39 · ⏱️ 30.05.2024):",
           "children": [],
           "repo_info": {
@@ -6242,7 +6242,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "crustio/crust",
           "description": "(👨‍💻 8 · 🔀 37 · 📥 46 · 📋 330 - 22% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -6263,14 +6263,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "lidofinance/core",
           "description": "(👨‍💻 39 · 🔀 160 · 📥 37 · 📋 230 - 15% open · ⏱️ 23.02.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 280159108,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T14:10:48Z",
+            "last_commit": "2026-08-25T03:31:12Z",
             "owner": "lidofinance",
             "repo": "core",
             "stars": 495
@@ -6284,7 +6284,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "decred/dcrd",
           "description": "(👨‍💻 140 · 🔀 290 · 📦 35K · 📋 510 - 4% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -6305,7 +6305,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "decred/dcrwallet",
           "description": "(👨‍💻 64 · 🔀 150 · 📦 120 · 📋 710 - 18% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
@@ -6326,7 +6326,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "scrtlabs/SecretNetwork",
           "description": "(👨‍💻 62 · 🔀 180 · 📥 71K · 📦 2.4K · 📋 590 - 7% open · ⏱️ 14.05.2024):",
           "children": [],
           "repo_info": {
@@ -6347,7 +6347,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "monero-project/monero",
           "description": "(👨‍💻 390 · 🔀 3K · 📥 32K · 📦 21 · 📋 3.2K - 18% open · ⏱️ 21.05.2024):",
           "children": [],
           "repo_info": {
@@ -6357,7 +6357,7 @@
             "last_commit": "2026-08-23T20:21:32Z",
             "owner": "monero-project",
             "repo": "monero",
-            "stars": 10791
+            "stars": 10797
           }
         }
       ],
@@ -6368,7 +6368,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "monero-project/monero-gui",
           "description": "(👨‍💻 220 · 🔀 790 · 📥 35K · 📋 1.9K - 21% open · ⏱️ 12.03.2024):",
           "children": [],
           "repo_info": {
@@ -6378,7 +6378,7 @@
             "last_commit": "2026-08-06T07:09:30Z",
             "owner": "monero-project",
             "repo": "monero-gui",
-            "stars": 2287
+            "stars": 2288
           }
         }
       ],
@@ -6389,7 +6389,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "monero-project/monero-site",
           "description": "(👨‍💻 240 · 🔀 360 · 📋 740 - 13% open · ⏱️ 23.05.2024):",
           "children": [],
           "repo_info": {
@@ -6410,7 +6410,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "zcash/zcash",
           "description": "(👨‍💻 620 · 🔀 2K · 📥 310 · 📋 3.9K - 27% open · ⏱️ 24.05.2024):",
           "children": [],
           "repo_info": {
@@ -6431,14 +6431,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "zcash/librustzcash",
           "description": "(👨‍💻 53 · 🔀 240 · 📦 880 · 📋 580 - 45% open · ⏱️ 24.05.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 85334928,
             "language": "Rust",
-            "last_commit": "2026-08-24T14:47:09Z",
+            "last_commit": "2026-08-25T02:30:03Z",
             "owner": "zcash",
             "repo": "librustzcash",
             "stars": 398
@@ -6452,7 +6452,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "zcash/halo2",
           "description": "(👨‍💻 34 · 🔀 430 · 📦 290 · 📋 390 - 63% open · ⏱️ 26.02.2024):",
           "children": [],
           "repo_info": {
@@ -6462,7 +6462,7 @@
             "last_commit": "2026-08-10T10:22:23Z",
             "owner": "zcash",
             "repo": "halo2",
-            "stars": 914
+            "stars": 915
           }
         }
       ],
@@ -6473,17 +6473,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "zcash/zips",
           "description": "(👨‍💻 56 · 🔀 170 · 📋 500 - 42% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 47279130,
             "language": "TeX",
-            "last_commit": "2026-08-23T22:51:04Z",
+            "last_commit": "2026-08-24T15:22:48Z",
             "owner": "zcash",
             "repo": "zips",
-            "stars": 304
+            "stars": 305
           }
         }
       ],
@@ -6494,7 +6494,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "oxen-io/session-desktop",
           "description": "(👨‍💻 160 · 🔀 180 · 📥 5.8M · 📋 1.2K - 25% open · ⏱️ 22.05.2024):",
           "children": [],
           "repo_info": {
@@ -6515,7 +6515,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "oxen-io/session-android",
           "description": "(👨‍💻 250 · 🔀 160 · 📥 250K · 📋 770 - 39% open · ⏱️ 31.05.2024):",
           "children": [],
           "repo_info": {
@@ -6536,7 +6536,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "oxen-io/lokinet",
           "description": "(👨‍💻 40 · 🔀 210 · 📥 110K · 📋 610 - 26% open · ⏱️ 11.08.2023):",
           "children": [],
           "repo_info": {
@@ -6557,7 +6557,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "oxen-io/session-ios",
           "description": "(👨‍💻 110 · 🔀 86 · 📥 2.2K · 📋 300 - 31% open · ⏱️ 13.05.2024):",
           "children": [],
           "repo_info": {
@@ -6578,7 +6578,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "HorizenOfficial/zen",
           "description": "(👨‍💻 510 · 🔀 120 · 📥 79K · 📋 160 - 9% open · ⏱️ 03.06.2024):",
           "children": [],
           "repo_info": {
@@ -6599,14 +6599,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ergoplatform/ergo",
           "description": "(👨‍💻 52 · 🔀 160 · 📥 46K · 📋 910 - 20% open · ⏱️ 01.04.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 94215475,
             "language": "Scala",
-            "last_commit": "2026-08-23T19:09:57Z",
+            "last_commit": "2026-08-24T21:01:51Z",
             "owner": "ergoplatform",
             "repo": "ergo",
             "stars": 520
@@ -6620,7 +6620,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mobilecoinfoundation/mobilecoin",
           "description": "(👨‍💻 55 · 🔀 140 · 📥 4.6K · 📦 17 · 📋 510 - 46% open · ⏱️ 14.05.2024):",
           "children": [],
           "repo_info": {
@@ -6641,17 +6641,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "dusk-network/plonk",
           "description": "(👨‍💻 23 · 🔀 130 · 📥 13 · 📦 320 · 📋 430 - 4% open · ⏱️ 27.03.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 222721751,
             "language": "Rust",
-            "last_commit": "2026-08-24T14:48:44Z",
+            "last_commit": "2026-08-24T22:54:09Z",
             "owner": "dusk-network",
             "repo": "plonk",
-            "stars": 641
+            "stars": 643
           }
         }
       ],
@@ -6662,17 +6662,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "dusk-network/Poseidon252",
           "description": "(👨‍💻 11 · 🔀 38 · 📦 78 · 📋 120 - 1% open · ⏱️ 08.05.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 237962641,
             "language": "Rust",
-            "last_commit": "2026-08-24T14:48:43Z",
+            "last_commit": "2026-08-24T22:41:48Z",
             "owner": "dusk-network",
             "repo": "Poseidon252",
-            "stars": 221
+            "stars": 222
           }
         }
       ],
@@ -6683,7 +6683,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "DimensionDev/Maskbook",
           "description": "(👨‍💻 70 · 🔀 300 · 📥 1.9K · 📦 3 · 📋 2.2K - 2% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
@@ -6704,7 +6704,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "vergecurrency/verge",
           "description": "(👨‍💻 74 · 🔀 410 · 📥 630K · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
@@ -6725,7 +6725,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nucypher/nucypher",
           "description": "(👨‍💻 52 · 🔀 270 · 📦 39 · 📋 1.7K - 5% open · ⏱️ 07.05.2024):",
           "children": [],
           "repo_info": {
@@ -6746,7 +6746,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "BeamMW/beam",
           "description": "(👨‍💻 50 · 🔀 200 · 📥 78K · 📦 5 · 📋 1.7K - 13% open · ⏱️ 29.05.2024):",
           "children": [],
           "repo_info": {
@@ -6767,7 +6767,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "vertcoin-project/vertcoin-core",
           "description": "(👨‍💻 1.1K · 🔀 130 · 📥 390K · 📋 110 - 11% open · ⏱️ 11.11.2023):",
           "children": [],
           "repo_info": {
@@ -6788,7 +6788,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "firoorg/firo",
           "description": "(👨‍💻 610 · 🔀 350 · 📥 290K · 📋 530 - 3% open · ⏱️ 13.05.2024):",
           "children": [],
           "repo_info": {
@@ -6809,7 +6809,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "hoprnet/hoprnet",
           "description": "(👨‍💻 67 · 🔀 89 · 📦 3 · 📋 2.1K - 5% open · ⏱️ 03.06.2024):",
           "children": [],
           "repo_info": {
@@ -6830,7 +6830,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Uniswap/interface",
           "description": "(👨‍💻 200 · 🔀 4.8K · 📋 2.2K - 33% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
@@ -6840,7 +6840,7 @@
             "last_commit": "2026-08-17T17:45:48Z",
             "owner": "Uniswap",
             "repo": "interface",
-            "stars": 5529
+            "stars": 5530
           }
         }
       ],
@@ -6851,7 +6851,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Uniswap/web3-react",
           "description": "(👨‍💻 55 · 🔀 1.5K · 📦 35K · 📋 490 - 34% open · ⏱️ 02.10.2023):",
           "children": [],
           "repo_info": {
@@ -6861,7 +6861,7 @@
             "last_commit": "2024-08-20T17:47:06Z",
             "owner": "Uniswap",
             "repo": "web3-react",
-            "stars": 5688
+            "stars": 5687
           }
         }
       ],
@@ -6872,14 +6872,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Uniswap/default-token-list",
           "description": "(👨‍💻 19 · 🔀 890 · 📦 3 · 📋 1.4K - 86% open · ⏱️ 29.04.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 281128159,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T17:22:52Z",
+            "last_commit": "2026-08-24T20:18:56Z",
             "owner": "Uniswap",
             "repo": "default-token-list",
             "stars": 416
@@ -6893,7 +6893,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Uniswap/token-lists",
           "description": "(👨‍💻 18 · 🔀 900 · 📋 290 - 80% open · ⏱️ 26.03.2024):",
           "children": [],
           "repo_info": {
@@ -6903,7 +6903,7 @@
             "last_commit": "2026-03-10T19:41:15Z",
             "owner": "Uniswap",
             "repo": "token-lists",
-            "stars": 1722
+            "stars": 1723
           }
         }
       ],
@@ -6914,7 +6914,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Uniswap/smart-order-router",
           "description": "(👨‍💻 30 · 🔀 370 · 📦 4 · 📋 120 - 45% open · ⏱️ 23.05.2024):",
           "children": [],
           "repo_info": {
@@ -6935,7 +6935,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Uniswap/v3-periphery",
           "description": "(👨‍💻 16 · 🔀 1K · 📦 3 · 📋 170 - 41% open · ⏱️ 27.09.2023):",
           "children": [],
           "repo_info": {
@@ -6945,7 +6945,7 @@
             "last_commit": "2026-07-30T19:37:42Z",
             "owner": "Uniswap",
             "repo": "v3-periphery",
-            "stars": 1332
+            "stars": 1333
           }
         }
       ],
@@ -6956,7 +6956,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Uniswap/v3-subgraph",
           "description": "(👨‍💻 24 · 🔀 440 · 📋 130 - 84% open · ⏱️ 30.05.2024):",
           "children": [],
           "repo_info": {
@@ -6977,7 +6977,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Uniswap/v3-sdk",
           "description": "(👨‍💻 18 · 🔀 410 · 📦 8 · 📋 98 - 45% open · ⏱️ 25.04.2024):",
           "children": [],
           "repo_info": {
@@ -6987,7 +6987,7 @@
             "last_commit": "2024-04-25T16:29:31Z",
             "owner": "Uniswap",
             "repo": "v3-sdk",
-            "stars": 563
+            "stars": 564
           }
         }
       ],
@@ -6998,7 +6998,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Uniswap/v2-sdk",
           "description": "(👨‍💻 10 · 🔀 1.1K · 📦 3 · 📋 58 - 32% open · ⏱️ 25.04.2024):",
           "children": [],
           "repo_info": {
@@ -7019,7 +7019,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Uniswap/v2-subgraph",
           "description": "(👨‍💻 15 · 🔀 700 · 📋 91 - 54% open · ⏱️ 23.04.2024):",
           "children": [],
           "repo_info": {
@@ -7040,7 +7040,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Uniswap/v3-staker",
           "description": "(👨‍💻 11 · 🔀 200 · 📦 2 · 📋 120 - 17% open · ⏱️ 26.01.2024):",
           "children": [],
           "repo_info": {
@@ -7050,7 +7050,7 @@
             "last_commit": "2024-07-02T05:06:57Z",
             "owner": "Uniswap",
             "repo": "v3-staker",
-            "stars": 379
+            "stars": 380
           }
         }
       ],
@@ -7061,7 +7061,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Uniswap/info",
           "description": "(👨‍💻 26 · 🔀 620 · 📋 160 - 48% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
@@ -7082,7 +7082,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "osmosis-labs/osmosis",
           "description": "(👨‍💻 160 · 🔀 560 · 📥 69K · 📦 22 · 📋 2.2K - 13% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -7103,14 +7103,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "osmosis-labs/osmosis-frontend",
           "description": "(👨‍💻 190 · 🔀 380 · 📦 3 · 📋 440 - 9% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 375847433,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T14:40:46Z",
+            "last_commit": "2026-08-24T16:31:33Z",
             "owner": "osmosis-labs",
             "repo": "osmosis-frontend",
             "stars": 247
@@ -7124,14 +7124,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "sushi-labs/sushiswap",
           "description": "(👨‍💻 45 · 🔀 1.5K · 📦 14 · 📋 200 - 4% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 289845062,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:38:08Z",
+            "last_commit": "2026-08-24T23:53:22Z",
             "owner": "sushi-labs",
             "repo": "sushiswap",
             "stars": 1941
@@ -7145,7 +7145,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "1inch/limit-order-protocol",
           "description": "(👨‍💻 13 · 🔀 100 · 📦 13 · 📋 35 - 20% open · ⏱️ 09.05.2024):",
           "children": [],
           "repo_info": {
@@ -7155,7 +7155,7 @@
             "last_commit": "2026-08-21T15:02:21Z",
             "owner": "1inch",
             "repo": "limit-order-protocol",
-            "stars": 310
+            "stars": 311
           }
         }
       ],
@@ -7166,7 +7166,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "balancer/balancer-v2-monorepo",
           "description": "(👨‍💻 30 · 🔀 290 · 📦 160 · 📋 450 - 10% open · ⏱️ 31.05.2024):",
           "children": [],
           "repo_info": {
@@ -7187,7 +7187,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "curvefi/curve-dao-contracts",
           "description": "(👨‍💻 12 · 🔀 170 · 📋 12 - 75% open · ⏱️ 18.07.2023):",
           "children": [],
           "repo_info": {
@@ -7208,7 +7208,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "bancorprotocol/contracts-solidity",
           "description": "(👨‍💻 25 · 🔀 420 · 📦 17 · 📋 64 - 9% open · ⏱️ 26.10.2023):",
           "children": [],
           "repo_info": {
@@ -7218,7 +7218,7 @@
             "last_commit": "2026-07-29T09:54:35Z",
             "owner": "bancorprotocol",
             "repo": "contracts-solidity",
-            "stars": 895
+            "stars": 896
           }
         }
       ],
@@ -7229,14 +7229,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "dfinity/ic",
           "description": "(👨‍💻 190 · 🔀 290 · 📥 2.7K · 📦 3 · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 365701873,
             "language": "Rust",
-            "last_commit": "2026-08-24T14:44:37Z",
+            "last_commit": "2026-08-25T03:30:48Z",
             "owner": "dfinity",
             "repo": "ic",
             "stars": 1785
@@ -7250,7 +7250,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "dfinity/candid",
           "description": "(👨‍💻 46 · 🔀 81 · 📥 140K · 📦 3.4K · 📋 140 - 36% open · ⏱️ 23.05.2024):",
           "children": [],
           "repo_info": {
@@ -7271,14 +7271,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "caffeinelabs/motoko",
           "description": "(👨‍💻 55 · 🔀 94 · 📥 240K · 📋 890 - 39% open · ⏱️ 27.05.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 133029963,
             "language": "OCaml",
-            "last_commit": "2026-08-24T15:00:22Z",
+            "last_commit": "2026-08-25T00:04:35Z",
             "owner": "caffeinelabs",
             "repo": "motoko",
             "stars": 589
@@ -7292,7 +7292,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "dfinity/internet-identity",
           "description": "(👨‍💻 56 · 🔀 130 · 📥 390K · 📦 3 · 📋 100 - 33% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -7313,17 +7313,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "dfinity/examples",
           "description": "(👨‍💻 99 · 🔀 310 · 📋 84 - 70% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 237499139,
             "language": "Rust",
-            "last_commit": "2026-08-12T11:49:45Z",
+            "last_commit": "2026-08-24T16:18:55Z",
             "owner": "dfinity",
             "repo": "examples",
-            "stars": 612
+            "stars": 613
           }
         }
       ],
@@ -7334,7 +7334,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "caffeinelabs/motoko-base",
           "description": "(👨‍💻 30 · 🔀 96 · 📋 210 - 74% open · ⏱️ 19.04.2024):",
           "children": [],
           "repo_info": {
@@ -7355,7 +7355,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nervosnetwork/ckb",
           "description": "(👨‍💻 58 · 🔀 220 · 📥 58K · 📦 190 · 📋 490 - 13% open · ⏱️ 19.05.2024):",
           "children": [],
           "repo_info": {
@@ -7376,7 +7376,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nervosnetwork/ckb-vm",
           "description": "(👨‍💻 18 · 🔀 68 · 📦 800 · 📋 38 - 13% open · ⏱️ 03.06.2024):",
           "children": [],
           "repo_info": {
@@ -7397,7 +7397,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nervosnetwork/rfcs",
           "description": "(👨‍💻 60 · 🔀 160 · 📋 68 - 27% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -7418,14 +7418,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "decentraland/marketplace",
           "description": "(👨‍💻 26 · 🔀 640 · 📦 12 · 📋 900 - 14% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 226880692,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:37:26Z",
+            "last_commit": "2026-08-25T00:37:50Z",
             "owner": "decentraland",
             "repo": "marketplace",
             "stars": 1197
@@ -7439,7 +7439,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Conflux-Chain/conflux-rust",
           "description": "(👨‍💻 43 · 🔀 190 · 📥 31K · 📋 590 - 15% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
@@ -7460,7 +7460,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "aavegotchi/aavegotchi-contracts",
           "description": "(👨‍💻 22 · 🔀 130 · 📋 91 - 15% open · ⏱️ 14.05.2024):",
           "children": [],
           "repo_info": {
@@ -7481,7 +7481,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "iotaledger/wasp",
           "description": "(👨‍💻 64 · 🔀 140 · 📥 57K · 📦 3 · 📋 430 - 17% open · ⏱️ 03.06.2024):",
           "children": [],
           "repo_info": {
@@ -7502,7 +7502,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "iotaledger/hornet",
           "description": "(👨‍💻 54 · 🔀 150 · 📥 14K · 📦 27 · 📋 490 - 7% open · ⏱️ 24.05.2024):",
           "children": [],
           "repo_info": {
@@ -7523,14 +7523,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "iotaledger/firefly",
           "description": "(👨‍💻 39 · 🔀 100 · 📥 130K · 📋 4.3K - 4% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 260261978,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T17:06:48Z",
+            "last_commit": "2026-08-24T17:12:07Z",
             "owner": "iotaledger",
             "repo": "firefly",
             "stars": 479
@@ -7544,7 +7544,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "iotaledger-archive/goshimmer",
           "description": "(👨‍💻 57 · 🔀 120 · 📥 63K · 📦 100 · 📋 760 - 8% open · ⏱️ 29.06.2023):",
           "children": [],
           "repo_info": {
@@ -7565,7 +7565,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "iotaledger/iota.go",
           "description": "(👨‍💻 43 · 🔀 93 · 📦 280 · 📋 120 - 1% open · ⏱️ 03.05.2024):",
           "children": [],
           "repo_info": {
@@ -7586,7 +7586,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "iotaledger/identity",
           "description": "(👨‍💻 39 · 🔀 82 · 📦 120 · 📋 310 - 21% open · ⏱️ 28.05.2024):",
           "children": [],
           "repo_info": {
@@ -7607,7 +7607,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "iotaledger/stronghold.rs",
           "description": "(👨‍💻 31 · 🔀 55 · 📥 33 · 📦 250 · 📋 84 - 16% open · ⏱️ 29.06.2023):",
           "children": [],
           "repo_info": {
@@ -7628,7 +7628,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "iotaledger-archive/iota.rs",
           "description": "(👨‍💻 70 · 🔀 97 · 📥 33K · 📦 4 · 📋 400 - 2% open · ⏱️ 23.08.2023):",
           "children": [],
           "repo_info": {
@@ -7649,7 +7649,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "helium/gateway-rs",
           "description": "(👨‍💻 34 · 🔀 110 · 📥 94K · 📦 84 · 📋 160 - 5% open · ⏱️ 22.11.2023):",
           "children": [],
           "repo_info": {
@@ -7670,14 +7670,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "helium/HIP",
           "description": "(👨‍💻 150 · 🔀 390 · 📋 210 - 10% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 202416100,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-21T23:22:36Z",
+            "last_commit": "2026-08-24T19:38:42Z",
             "owner": "helium",
             "repo": "HIP",
             "stars": 588
@@ -7691,7 +7691,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "helium/helium-wallet-rs",
           "description": "(👨‍💻 27 · 🔀 100 · 📥 23K · 📋 150 - 5% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
@@ -7712,14 +7712,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "vechain/thor",
           "description": "(👨‍💻 32 · 🔀 250 · 📦 21 · 📋 140 - 4% open · ⏱️ 31.05.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 136573514,
             "language": "Go",
-            "last_commit": "2026-08-24T13:50:13Z",
+            "last_commit": "2026-08-24T21:04:45Z",
             "owner": "vechain",
             "repo": "thor",
             "stars": 810
@@ -7733,17 +7733,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "iotexproject/iotex-core",
           "description": "(👨‍💻 96 · 🔀 320 · 📥 64K · 📦 29 · 📋 1.3K - 14% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 130281002,
             "language": "Go",
-            "last_commit": "2026-08-24T14:22:06Z",
+            "last_commit": "2026-08-25T04:20:14Z",
             "owner": "iotexproject",
             "repo": "iotex-core",
-            "stars": 1610
+            "stars": 1611
           }
         }
       ],
@@ -7754,14 +7754,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "streamr-dev/network",
           "description": "(👨‍💻 37 · 🔀 37 · 📦 680 · 📋 39 - 66% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 355643935,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:40:29Z",
+            "last_commit": "2026-08-25T00:09:13Z",
             "owner": "streamr-dev",
             "repo": "network",
             "stars": 577
@@ -7775,7 +7775,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "iost-official/go-iost",
           "description": "(👨‍💻 57 · 🔀 110 · 📋 93 - 51% open · ⏱️ 14.03.2024):",
           "children": [],
           "repo_info": {
@@ -7796,7 +7796,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "airalab/robonomics",
           "description": "(👨‍💻 27 · 🔀 60 · 📥 19K · 📋 180 - 7% open · ⏱️ 01.07.2023):",
           "children": [],
           "repo_info": {
@@ -7817,14 +7817,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ethereum-optimism/optimism",
           "description": "(👨‍💻 300 · 🔀 2.9K · 📦 22K · 📋 1.1K - 16% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 238797860,
             "language": "Go",
-            "last_commit": "2026-08-23T23:50:27Z",
+            "last_commit": "2026-08-24T23:53:59Z",
             "owner": "ethereum-optimism",
             "repo": "optimism",
             "stars": 6464
@@ -7838,7 +7838,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ethereum-optimism/op-geth",
           "description": "(👨‍💻 960 · 🔀 530 · 📦 18 · 📋 52 - 53% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
@@ -7859,7 +7859,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ethereum-optimism/ethereum-optimism.github.io",
           "description": "(👨‍💻 290 · 🔀 520 · 📦 20 · 📋 34 - 14% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -7880,7 +7880,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ethereum-optimism/community-hub",
           "description": "(👨‍💻 140 · 🔀 420 · 📋 130 - 20% open · ⏱️ 03.06.2024):",
           "children": [],
           "repo_info": {
@@ -7901,7 +7901,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ethereum-optimism/cannon",
           "description": "(👨‍💻 19 · 🔀 160 · 📦 4 · 📋 77 - 6% open · ⏱️ 20.06.2023):",
           "children": [],
           "repo_info": {
@@ -7922,14 +7922,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "onflow/flow-go",
           "description": "(👨‍💻 110 · 🔀 170 · 📦 340 · 📋 1K - 39% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 297778512,
             "language": "Go",
-            "last_commit": "2026-08-24T14:01:06Z",
+            "last_commit": "2026-08-25T02:47:22Z",
             "owner": "onflow",
             "repo": "flow-go",
             "stars": 572
@@ -7943,7 +7943,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "onflow/flow-cli",
           "description": "(👨‍💻 68 · 🔀 60 · 📥 42K · 📦 53 · 📋 570 - 14% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -7964,7 +7964,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "onflow/cadence",
           "description": "(👨‍💻 120 · 🔀 130 · 📦 660 · 📋 950 - 20% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -7985,7 +7985,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "onflow/fcl-js",
           "description": "(👨‍💻 75 · 🔀 110 · 📦 5K · 📋 570 - 17% open · ⏱️ 22.05.2024):",
           "children": [],
           "repo_info": {
@@ -8006,7 +8006,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "onflow/flow-go-sdk",
           "description": "(👨‍💻 70 · 🔀 82 · 📦 640 · 📋 130 - 18% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -8027,7 +8027,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "onflow/flow-nft",
           "description": "(👨‍💻 30 · 🔀 160 · 📦 3 · 📋 78 - 21% open · ⏱️ 14.05.2024):",
           "children": [],
           "repo_info": {
@@ -8048,14 +8048,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ava-labs/avalanchego",
           "description": "(👨‍💻 110 · 🔀 640 · 📥 420K · 📦 1.2K · 📋 820 - 26% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 246387644,
             "language": "Go",
-            "last_commit": "2026-08-24T14:47:19Z",
+            "last_commit": "2026-08-25T04:40:01Z",
             "owner": "ava-labs",
             "repo": "avalanchego",
             "stars": 2357
@@ -8069,7 +8069,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ava-labs/subnet-evm",
           "description": "(👨‍💻 47 · 🔀 210 · 📥 1.5M · 📦 120 · 📋 260 - 18% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -8090,7 +8090,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ava-labs/avalanchejs",
           "description": "(👨‍💻 50 · 🔀 160 · 📥 72 · 📦 3 · 📋 130 - 9% open · ⏱️ 13.03.2024):",
           "children": [],
           "repo_info": {
@@ -8111,7 +8111,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ava-labs/avalanche-faucet",
           "description": "(👨‍💻 29 · 🔀 180 · 📋 16 - 62% open · ⏱️ 29.05.2024):",
           "children": [],
           "repo_info": {
@@ -8132,7 +8132,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ava-labs/avalanche-wallet",
           "description": "(👨‍💻 21 · 🔀 150 · 📋 100 - 68% open · ⏱️ 05.07.2023):",
           "children": [],
           "repo_info": {
@@ -8153,7 +8153,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ProvableHQ/leo",
           "description": "(👨‍💻 61 · 🔀 620 · 📥 25K · 📋 21K - 1% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -8163,7 +8163,7 @@
             "last_commit": "2026-08-19T18:28:10Z",
             "owner": "ProvableHQ",
             "repo": "leo",
-            "stars": 4818
+            "stars": 4819
           }
         }
       ],
@@ -8174,7 +8174,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ProvableHQ/sdk",
           "description": "(👨‍💻 39 · 🔀 440 · 📥 930 · 📦 59 · 📋 140 - 34% open · ⏱️ 15.05.2024):",
           "children": [],
           "repo_info": {
@@ -8195,7 +8195,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ProvableHQ/leo-docs-source",
           "description": "(👨‍💻 56 · 🔀 180 · 📋 92 - 44% open · ⏱️ 28.05.2024):",
           "children": [],
           "repo_info": {
@@ -8216,17 +8216,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "aptos-labs/aptos-core",
           "description": "(👨‍💻 600 · 🔀 3.5K · 📥 80K · 📦 430 · 📋 2.3K - 25% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 462597790,
             "language": "Rust",
-            "last_commit": "2026-08-24T15:03:32Z",
+            "last_commit": "2026-08-25T02:05:25Z",
             "owner": "aptos-labs",
             "repo": "aptos-core",
-            "stars": 6434
+            "stars": 6433
           }
         }
       ],
@@ -8237,7 +8237,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ensdomains/ens",
           "description": "(👨‍💻 42 · 🔀 510 · 📦 120K · 📋 250 - 36% open · ⏱️ 27.09.2023):",
           "children": [],
           "repo_info": {
@@ -8258,7 +8258,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ensdomains/ens-contracts",
           "description": "(👨‍💻 30 · 🔀 360 · 📦 5 · 📋 85 - 65% open · ⏱️ 01.05.2024):",
           "children": [],
           "repo_info": {
@@ -8279,7 +8279,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ensdomains/ens-app",
           "description": "(👨‍💻 54 · 🔀 270 · 📋 640 - 14% open · ⏱️ 08.05.2024):",
           "children": [],
           "repo_info": {
@@ -8300,7 +8300,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "terra-money/classic-core",
           "description": "(👨‍💻 43 · 🔀 300 · 📥 39K · 📦 13 · 📋 370 - 9% open · ⏱️ 29.08.2023):",
           "children": [],
           "repo_info": {
@@ -8321,7 +8321,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "terra-money/core",
           "description": "(👨‍💻 15 · 🔀 88 · 📥 34K · 📋 79 - 6% open · ⏱️ 07.03.2024):",
           "children": [],
           "repo_info": {
@@ -8342,7 +8342,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "terra-money/terra.js",
           "description": "(👨‍💻 40 · 🔀 150 · 📦 2 · 📋 160 - 9% open · ⏱️ 29.08.2023):",
           "children": [],
           "repo_info": {
@@ -8363,14 +8363,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "celestiaorg/celestia-app",
           "description": "(👨‍💻 71 · 🔀 250 · 📥 2.9K · 📦 140 · 📋 1.4K - 15% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 327696712,
             "language": "Go",
-            "last_commit": "2026-08-24T14:54:23Z",
+            "last_commit": "2026-08-24T23:30:31Z",
             "owner": "celestiaorg",
             "repo": "celestia-app",
             "stars": 416
@@ -8384,14 +8384,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "celestiaorg/celestia-node",
           "description": "(👨‍💻 62 · 🔀 880 · 📥 370 · 📦 63 · 📋 1.4K - 22% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 396780483,
             "language": "Go",
-            "last_commit": "2026-08-24T14:42:24Z",
+            "last_commit": "2026-08-24T15:44:42Z",
             "owner": "celestiaorg",
             "repo": "celestia-node",
             "stars": 996
@@ -8405,14 +8405,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "celestiaorg/celestia-core",
           "description": "(👨‍💻 290 · 🔀 230 · 📦 33 · 📋 470 - 22% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 221931137,
             "language": "Go",
-            "last_commit": "2026-08-24T14:24:07Z",
+            "last_commit": "2026-08-24T21:13:07Z",
             "owner": "celestiaorg",
             "repo": "celestia-core",
             "stars": 552
@@ -8426,7 +8426,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "metaplex-foundation/metaplex-program-library",
           "description": "(👨‍💻 67 · 🔀 510 · 📦 11K · 📋 320 - 12% open · ⏱️ 07.05.2024):",
           "children": [],
           "repo_info": {
@@ -8447,7 +8447,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "metaplex-foundation/js",
           "description": "(👨‍💻 40 · 🔀 180 · 📦 6 · 📋 290 - 20% open · ⏱️ 14.11.2023):",
           "children": [],
           "repo_info": {
@@ -8468,14 +8468,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "MixinNetwork/android-app",
           "description": "(👨‍💻 14 · 🔀 96 · 📥 47K · 📋 90 - 50% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 131245808,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T14:24:32Z",
+            "last_commit": "2026-08-25T04:06:25Z",
             "owner": "MixinNetwork",
             "repo": "android-app",
             "stars": 499
@@ -8489,7 +8489,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "MixinNetwork/mixin",
           "description": "(👨‍💻 21 · 🔀 130 · 📥 57K · 📋 66 - 12% open · ⏱️ 26.05.2024):",
           "children": [],
           "repo_info": {
@@ -8510,14 +8510,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "MixinNetwork/flutter-plugins",
           "description": "(👨‍💻 30 · 🔀 160 · 📦 1.6K · 📋 250 - 44% open · ⏱️ 03.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 375922953,
             "language": "C",
-            "last_commit": "2026-08-20T08:45:10Z",
+            "last_commit": "2026-08-25T02:51:33Z",
             "owner": "MixinNetwork",
             "repo": "flutter-plugins",
             "stars": 512
@@ -8531,7 +8531,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "MixinNetwork/ios-app",
           "description": "(👨‍💻 14 · 🔀 110 · 📋 66 - 50% open · ⏱️ 30.05.2024):",
           "children": [],
           "repo_info": {
@@ -8552,7 +8552,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "MixinNetwork/flutter-app",
           "description": "(👨‍💻 8 · 🔀 57 · 📥 5.1K · 📋 36 - 25% open · ⏱️ 30.05.2024):",
           "children": [],
           "repo_info": {
@@ -8573,7 +8573,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "celo-org/celo-monorepo",
           "description": "(👨‍💻 220 · 🔀 350 · 📥 140 · 📦 2.6K · 📋 5.2K - 1% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -8594,7 +8594,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "celo-org/celo-blockchain",
           "description": "(👨‍💻 720 · 🔀 190 · 📥 400 · 📦 19 · 📋 870 - 9% open · ⏱️ 15.05.2024):",
           "children": [],
           "repo_info": {
@@ -8615,7 +8615,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nimiq/core-js",
           "description": "(👨‍💻 46 · 🔀 210 · 📦 100 · 📋 230 - 6% open · ⏱️ 30.05.2024):",
           "children": [],
           "repo_info": {
@@ -8636,7 +8636,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "matter-labs/zksync",
           "description": "(👨‍💻 65 · 🔀 2.7K · 📋 390 - 22% open · ⏱️ 08.11.2023):",
           "children": [],
           "repo_info": {
@@ -8657,7 +8657,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "matter-labs/zksync-web-era-docs",
           "description": "(👨‍💻 150 · 🔀 820 · 📋 99 - 30% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -8678,7 +8678,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "matter-labs/zksync-wallet-vue",
           "description": "(👨‍💻 24 · 🔀 380 · ⏱️ 26.05.2024):",
           "children": [],
           "repo_info": {
@@ -8699,7 +8699,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "matter-labs/hardhat-zksync",
           "description": "(👨‍💻 30 · 🔀 220 · 📦 3 · 📋 120 - 18% open · ⏱️ 03.06.2024):",
           "children": [],
           "repo_info": {
@@ -8720,7 +8720,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "gitcoinco/web",
           "description": "(👨‍💻 290 · 🔀 860 · 📋 6.1K - 10% open · ⏱️ 01.08.2023):",
           "children": [],
           "repo_info": {
@@ -8741,7 +8741,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "passportxyz/passport",
           "description": "(👨‍💻 33 · 🔀 460 · 📦 1 · 📋 1.7K - 35% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -8762,7 +8762,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "gitcoinco/grants-stack",
           "description": "(👨‍💻 44 · 🔀 130 · 📋 2K - 5% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -8783,7 +8783,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "livepeer/go-livepeer",
           "description": "(👨‍💻 62 · 🔀 160 · 📥 23K · 📦 9 · 📋 1.6K - 15% open · ⏱️ 01.06.2024):",
           "children": [],
           "repo_info": {
@@ -8804,7 +8804,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "livepeer/lpms",
           "description": "(👨‍💻 22 · 🔀 67 · 📦 37 · 📋 160 - 26% open · ⏱️ 28.05.2024):",
           "children": [],
           "repo_info": {
@@ -8825,7 +8825,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cardano-foundation/cardano-token-registry",
           "description": "(👨‍💻 1.9K · 🔀 1.6K · 📋 110 - 9% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -8846,17 +8846,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cardano-foundation/developer-portal",
           "description": "(👨‍💻 220 · 🔀 870 · 📋 120 - 18% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 341583995,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T14:59:55Z",
+            "last_commit": "2026-08-24T16:21:48Z",
             "owner": "cardano-foundation",
             "repo": "developer-portal",
-            "stars": 435
+            "stars": 436
           }
         }
       ],
@@ -8867,7 +8867,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cardano-foundation/CIPs",
           "description": "(👨‍💻 110 · 🔀 270 · 📋 190 - 50% open · ⏱️ 03.06.2024):",
           "children": [],
           "repo_info": {
@@ -8888,14 +8888,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "planetarium/libplanet",
           "description": "(👨‍💻 75 · 🔀 140 · 📥 21K · 📦 45 · 📋 880 - 9% open · ⏱️ 27.05.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 158087990,
             "language": "C#",
-            "last_commit": "2026-08-23T15:05:40Z",
+            "last_commit": "2026-08-24T15:14:10Z",
             "owner": "planetarium",
             "repo": "libplanet",
             "stars": 533
@@ -8909,7 +8909,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "planetarium/NineChronicles",
           "description": "(👨‍💻 54 · 🔀 130 · 📥 9 · 📋 850 - 24% open · ⏱️ 27.05.2024):",
           "children": [],
           "repo_info": {
@@ -8930,7 +8930,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mysteriumnetwork/node",
           "description": "(👨‍💻 54 · 🔀 310 · 📥 5.3M · 📦 6 · 📋 3.5K - 2% open · ⏱️ 16.05.2024):",
           "children": [],
           "repo_info": {
@@ -8940,7 +8940,7 @@
             "last_commit": "2026-08-17T06:27:29Z",
             "owner": "mysteriumnetwork",
             "repo": "node",
-            "stars": 1344
+            "stars": 1345
           }
         }
       ],
@@ -8951,7 +8951,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mysteriumnetwork/mysterium-vpn-mobile",
           "description": "(👨‍💻 27 · 🔀 45 · 📥 76K · 📋 140 - 37% open · ⏱️ 15.12.2023):",
           "children": [],
           "repo_info": {
@@ -8972,7 +8972,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "JoinColony/colonyNetwork",
           "description": "(👨‍💻 41 · 🔀 110 · 📋 420 - 17% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -8993,14 +8993,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Agoric/agoric-sdk",
           "description": "(👨‍💻 77 · 🔀 190 · 📥 1.7K · 📦 150 · 📋 4.4K - 33% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 219012610,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T07:37:44Z",
+            "last_commit": "2026-08-24T20:47:24Z",
             "owner": "Agoric",
             "repo": "agoric-sdk",
             "stars": 357
@@ -9014,17 +9014,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ton-blockchain/ton",
           "description": "(👨‍💻 41 · 🔀 640 · 📥 10K · 📋 440 - 26% open · ⏱️ 25.05.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 206946371,
             "language": "C++",
-            "last_commit": "2026-08-24T14:33:10Z",
+            "last_commit": "2026-08-24T17:15:13Z",
             "owner": "ton-blockchain",
             "repo": "ton",
-            "stars": 4133
+            "stars": 4134
           }
         }
       ],
@@ -9035,17 +9035,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Blockstream/esplora",
           "description": "(👨‍💻 31 · 🔀 370 · 📋 330 - 49% open · ⏱️ 21.05.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 156976304,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T14:13:29Z",
+            "last_commit": "2026-08-24T19:49:04Z",
             "owner": "Blockstream",
             "repo": "esplora",
-            "stars": 1262
+            "stars": 1261
           }
         }
       ],
@@ -9056,14 +9056,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Blockstream/Jade",
           "description": "(👨‍💻 15 · 🔀 38 · 📋 110 - 33% open · ⏱️ 03.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 326499811,
             "language": "C",
-            "last_commit": "2026-08-24T05:21:24Z",
+            "last_commit": "2026-08-25T01:40:06Z",
             "owner": "Blockstream",
             "repo": "Jade",
             "stars": 487
@@ -9077,7 +9077,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Blockstream/satellite",
           "description": "(👨‍💻 6 · 🔀 150 · 📋 66 - 9% open · ⏱️ 23.12.2023):",
           "children": [],
           "repo_info": {
@@ -9098,7 +9098,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "subquery/subql",
           "description": "(👨‍💻 36 · 🔀 310 · 📦 9.9K · 📋 670 - 10% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -9119,14 +9119,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "AudiusProject/apps",
           "description": "(👨‍💻 44 · 🔀 110 · 📥 1.8K · 📦 4 · 📋 72 - 65% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 201821771,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T23:31:11Z",
+            "last_commit": "2026-08-25T02:15:20Z",
             "owner": "AudiusProject",
             "repo": "apps",
             "stars": 615
@@ -9140,7 +9140,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Groestlcoin/groestlcoin",
           "description": "(👨‍💻 1.2K · 🔀 21 · 📥 33K · ⏱️ 31.05.2024):",
           "children": [],
           "repo_info": {
@@ -9161,7 +9161,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "connext/monorepo",
           "description": "(👨‍💻 55 · 🔀 150 · 📦 330 · 📋 2.8K - 7% open · ⏱️ 20.05.2024):",
           "children": [],
           "repo_info": {
@@ -9182,7 +9182,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "klaytn/klaytn",
           "description": "(👨‍💻 69 · 🔀 190 · 📦 78 · 📋 340 - 10% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -9203,7 +9203,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "hummingbot/hummingbot",
           "description": "(👨‍💻 260 · 🔀 2.6K · 📥 30 · 📋 3.1K - 12% open · ⏱️ 31.05.2024):",
           "children": [],
           "repo_info": {
@@ -9213,7 +9213,7 @@
             "last_commit": "2026-08-22T03:17:08Z",
             "owner": "hummingbot",
             "repo": "hummingbot",
-            "stars": 19583
+            "stars": 19588
           }
         }
       ],
@@ -9224,7 +9224,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "opencog/atomspace",
           "description": "(👨‍💻 150 · 🔀 220 · 📋 610 - 12% open · ⏱️ 11.05.2024):",
           "children": [],
           "repo_info": {
@@ -9245,7 +9245,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "opencog/link-grammar",
           "description": "(👨‍💻 42 · 🔀 110 · 📋 370 - 21% open · ⏱️ 31.05.2024):",
           "children": [],
           "repo_info": {
@@ -9266,7 +9266,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "hop-protocol/hop",
           "description": "(👨‍💻 15 · 🔀 180 · 📦 140 · 📋 240 - 13% open · ⏱️ 30.05.2024):",
           "children": [],
           "repo_info": {
@@ -9287,14 +9287,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "MinaProtocol/mina",
           "description": "(👨‍💻 120 · 🔀 500 · 📥 1K · 📦 3 · 📋 6.5K - 20% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 114581326,
             "language": "OCaml",
-            "last_commit": "2026-08-24T11:12:50Z",
+            "last_commit": "2026-08-24T22:58:09Z",
             "owner": "MinaProtocol",
             "repo": "mina",
             "stars": 2115
@@ -9308,7 +9308,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "starcoinorg/starcoin",
           "description": "(👨‍💻 53 · 🔀 290 · 📥 10K · 📦 170 · 📋 1K - 16% open · ⏱️ 30.05.2024):",
           "children": [],
           "repo_info": {
@@ -9329,7 +9329,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "akash-network/node",
           "description": "(👨‍💻 32 · 🔀 200 · 📥 31K · 📦 7 · ⏱️ 28.05.2024):",
           "children": [],
           "repo_info": {
@@ -9339,7 +9339,7 @@
             "last_commit": "2026-07-24T18:07:39Z",
             "owner": "akash-network",
             "repo": "node",
-            "stars": 1107
+            "stars": 1108
           }
         }
       ],
@@ -9350,7 +9350,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ONEARMY/community-platform",
           "description": "(👨‍💻 160 · 🔀 340 · 📋 1.1K - 8% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -9371,7 +9371,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Bitcoin-ABC/bitcoin-abc",
           "description": "(👨‍💻 870 · 🔀 790 · 📥 9.2K · 📦 5 · 📋 380 - 22% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -9392,7 +9392,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "TP-Lab/tokens",
           "description": "(👨‍💻 4K · 🔀 6.1K · 📋 340 - 2% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -9413,14 +9413,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "rsksmart/rskj",
           "description": "(👨‍💻 86 · 🔀 260 · 📥 12K · 📋 510 - 49% open · ⏱️ 29.05.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 91470090,
             "language": "Java",
-            "last_commit": "2026-08-24T14:58:18Z",
+            "last_commit": "2026-08-24T19:51:56Z",
             "owner": "rsksmart",
             "repo": "rskj",
             "stars": 693
@@ -9434,7 +9434,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "spacemeshos/go-spacemesh",
           "description": "(👨‍💻 86 · 🔀 210 · 📥 1.2K · 📦 50 · 📋 2.5K - 8% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
@@ -9455,7 +9455,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "aurora-is-near/aurora-engine",
           "description": "(👨‍💻 26 · 🔀 77 · 📥 2.6K · 📦 310 · 📋 170 - 46% open · ⏱️ 28.05.2024):",
           "children": [],
           "repo_info": {
@@ -9476,7 +9476,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Near-One/rainbow-bridge",
           "description": "(👨‍💻 35 · 🔀 95 · 📦 8 · 📋 390 - 33% open · ⏱️ 28.03.2024):",
           "children": [],
           "repo_info": {
@@ -9497,7 +9497,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "kaspanet/kaspad",
           "description": "(👨‍💻 130 · 🔀 220 · 📥 45K · 📦 81 · 📋 430 - 50% open · ⏱️ 09.05.2024):",
           "children": [],
           "repo_info": {
@@ -9518,14 +9518,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "kaspanet/rusty-kaspa",
           "description": "(👨‍💻 20 · 🔀 100 · 📥 3.2K · 📋 130 - 50% open · ⏱️ 26.05.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 514979191,
             "language": "Rust",
-            "last_commit": "2026-08-24T02:24:54Z",
+            "last_commit": "2026-08-25T05:12:46Z",
             "owner": "kaspanet",
             "repo": "rusty-kaspa",
             "stars": 842
@@ -9539,7 +9539,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "irisnet/irishub",
           "description": "(👨‍💻 74 · 🔀 120 · 📥 3.2K · 📋 640 - 2% open · ⏱️ 31.05.2024):",
           "children": [],
           "repo_info": {
@@ -9560,7 +9560,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "dapphub/dapptools",
           "description": "(👨‍💻 100 · 🔀 340 · 📥 690 · 📋 430 - 39% open · ⏱️ 20.07.2023):",
           "children": [],
           "repo_info": {
@@ -9581,17 +9581,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Superalgos/Superalgos",
           "description": "(👨‍💻 230 · 🔀 5.4K · 📥 8.8K · 📋 460 - 17% open · ⏱️ 31.01.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 201978761,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T04:56:03Z",
+            "last_commit": "2026-08-25T03:35:25Z",
             "owner": "Superalgos",
             "repo": "Superalgos",
-            "stars": 5620
+            "stars": 5621
           }
         }
       ],
@@ -9602,14 +9602,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "namecoin/namecoin-core",
           "description": "(👨‍💻 1.2K · 🔀 150 · 📋 320 - 44% open · ⏱️ 03.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 30645800,
             "language": "C++",
-            "last_commit": "2026-08-17T14:12:01Z",
+            "last_commit": "2026-08-24T18:16:20Z",
             "owner": "namecoin",
             "repo": "namecoin-core",
             "stars": 476
@@ -9623,7 +9623,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Phala-Network/phala-blockchain",
           "description": "(👨‍💻 39 · 🔀 150 · 📥 1.2K · 📦 210 · 📋 300 - 35% open · ⏱️ 31.05.2024):",
           "children": [],
           "repo_info": {
@@ -9644,7 +9644,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "OriginProtocol/origin",
           "description": "(👨‍💻 190 · 🔀 210 · 📋 1.5K - 28% open · ⏱️ 20.09.2023):",
           "children": [],
           "repo_info": {
@@ -9665,14 +9665,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "unlock-protocol/unlock",
           "description": "(👨‍💻 83 · 🔀 230 · 📦 4 · 📋 2.6K - 9% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 112683472,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T06:40:47Z",
+            "last_commit": "2026-08-25T00:06:10Z",
             "owner": "unlock-protocol",
             "repo": "unlock",
             "stars": 881
@@ -9686,7 +9686,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Adamant-im/adamant-im",
           "description": "(👨‍💻 30 · 🔀 56 · 📥 23K · 📋 32 - 40% open · ⏱️ 19.03.2024):",
           "children": [],
           "repo_info": {
@@ -9707,7 +9707,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "saber-hq/stable-swap",
           "description": "(👨‍💻 7 · 🔀 120 · 📥 1.1K · 📦 100 · 📋 15 - 26% open · ⏱️ 01.12.2023):",
           "children": [],
           "repo_info": {
@@ -9728,7 +9728,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "AcalaNetwork/Acala",
           "description": "(👨‍💻 44 · 🔀 240 · 📥 230 · 📋 1K - 16% open · ⏱️ 31.05.2024):",
           "children": [],
           "repo_info": {
@@ -9749,7 +9749,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "dappnode/DAppNode",
           "description": "(👨‍💻 21 · 🔀 93 · 📥 100K · 📋 430 - 17% open · ⏱️ 21.05.2024):",
           "children": [],
           "repo_info": {
@@ -9770,7 +9770,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "gridcoin-community/Gridcoin-Research",
           "description": "(👨‍💻 100 · 🔀 170 · 📥 110K · 📋 1K - 3% open · ⏱️ 08.05.2024):",
           "children": [],
           "repo_info": {
@@ -9791,7 +9791,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "shapeshift/hdwallet",
           "description": "(👨‍💻 45 · 🔀 89 · 📋 120 - 36% open · ⏱️ 17.05.2024):",
           "children": [],
           "repo_info": {
@@ -9812,7 +9812,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Manta-Network/Manta",
           "description": "(👨‍💻 23 · 🔀 120 · 📥 34K · 📦 32 · 📋 680 - 28% open · ⏱️ 22.05.2024):",
           "children": [],
           "repo_info": {
@@ -9833,14 +9833,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "sunflower-land/sunflower-land",
           "description": "(👨‍💻 88 · 🔀 580 · 📋 680 - 6% open · ⏱️ 05.06.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 365367120,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T07:35:32Z",
+            "last_commit": "2026-08-25T05:16:49Z",
             "owner": "sunflower-land",
             "repo": "sunflower-land",
             "stars": 1632
@@ -9854,7 +9854,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "okcashpro/okcash",
           "description": "(👨‍💻 160 · 🔀 840 · 📥 9K · ⏱️ 16.03.2024):",
           "children": [],
           "repo_info": {
@@ -9875,7 +9875,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "zeriontech/defi-sdk",
           "description": "(👨‍💻 12 · 🔀 250 · 📋 71 - 64% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
@@ -9896,7 +9896,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cyberia-to/go-cyber",
           "description": "(👨‍💻 31 · 🔀 84 · 📥 3.2K · 📦 5 · 📋 390 - 20% open · ⏱️ 27.04.2024):",
           "children": [],
           "repo_info": {
@@ -9917,7 +9917,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "darwinia-network/darwinia",
           "description": "(👨‍💻 29 · 🔀 55 · 📥 22K · 📋 580 - 3% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
@@ -9938,7 +9938,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "regen-network/regen-ledger",
           "description": "(👨‍💻 36 · 🔀 98 · 📥 14K · 📦 9 · 📋 710 - 18% open · ⏱️ 03.04.2024):",
           "children": [],
           "repo_info": {
@@ -9959,7 +9959,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "IBAX-io/go-ibax",
           "description": "(👨‍💻 9 · 🔀 6.6K · 📦 9 · 📋 280 - 34% open · ⏱️ 11.04.2024):",
           "children": [],
           "repo_info": {
@@ -9980,7 +9980,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "iExecBlockchainComputing/iexec-sdk",
           "description": "(👨‍💻 19 · 🔀 37 · 📦 140 · 📋 70 - 21% open · ⏱️ 28.05.2024):",
           "children": [],
           "repo_info": {
@@ -10001,7 +10001,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "kleros/kleros",
           "description": "(👨‍💻 26 · 🔀 79 · 📦 25 · 📋 78 - 25% open · ⏱️ 25.02.2024):",
           "children": [],
           "repo_info": {
@@ -10022,7 +10022,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Polkadex-Substrate/Polkadex",
           "description": "(👨‍💻 25 · 🔀 93 · 📥 9.4K · 📋 320 - 2% open · ⏱️ 30.05.2024):",
           "children": [],
           "repo_info": {
@@ -10043,17 +10043,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jito-foundation/jito-solana",
           "description": "(👨‍💻 520 · 🔀 77 · 📥 3.9K · 📋 49 - 16% open · ⏱️ 27.05.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 464691559,
             "language": "Rust",
-            "last_commit": "2026-08-22T19:36:51Z",
+            "last_commit": "2026-08-25T04:29:28Z",
             "owner": "jito-foundation",
             "repo": "jito-solana",
-            "stars": 744
+            "stars": 745
           }
         }
       ],
@@ -10064,7 +10064,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "district0x/ethlance",
           "description": "(👨‍💻 16 · 🔀 130 · 📋 230 - 11% open · ⏱️ 21.05.2024):",
           "children": [],
           "repo_info": {
@@ -10085,7 +10085,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "bitcoin-sv/bitcoin-sv",
           "description": "(👨‍💻 640 · 🔀 290 · 📋 250 - 3% open · ⏱️ 15.02.2024):",
           "children": [],
           "repo_info": {
@@ -10106,7 +10106,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "starknet-io/starknet-devnet",
           "description": "(👨‍💻 32 · 🔀 73 · ⏱️ 15.12.2023):",
           "children": [],
           "repo_info": {
@@ -10127,14 +10127,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "RequestNetwork/requestNetwork",
           "description": "(👨‍💻 39 · 🔀 69 · 📦 80 · 📋 170 - 53% open · ⏱️ 28.05.2024):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 109819542,
             "language": "TypeScript",
-            "last_commit": "2026-08-05T15:22:41Z",
+            "last_commit": "2026-08-24T22:02:58Z",
             "owner": "RequestNetwork",
             "repo": "requestNetwork",
             "stars": 385
@@ -10148,7 +10148,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pokt-network/pocket-core",
           "description": "(👨‍💻 45 · 🔀 96 · 📦 21 · 📋 1K - 6% open · ⏱️ 20.05.2024):",
           "children": [],
           "repo_info": {
@@ -10169,7 +10169,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "dtube/dtube",
           "description": "(👨‍💻 23 · 🔀 190 · 📋 310 - 41% open · ⏱️ 30.06.2023):",
           "children": [],
           "repo_info": {
@@ -10190,7 +10190,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "interlay/interbtc",
           "description": "(👨‍💻 19 · 🔀 77 · 📥 2.7K · 📋 200 - 46% open · ⏱️ 30.05.2024):",
           "children": [],
           "repo_info": {
@@ -10211,7 +10211,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "blocknetdx/blocknet",
           "description": "(👨‍💻 770 · 🔀 100 · 📥 120K · 📋 74 - 86% open · ⏱️ 25.10.2023):",
           "children": [],
           "repo_info": {
@@ -10232,7 +10232,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "thetatoken/theta-protocol-ledger",
           "description": "(👨‍💻 10 · 🔀 86 · 📋 81 - 67% open · ⏱️ 13.11.2023):",
           "children": [],
           "repo_info": {
@@ -10253,7 +10253,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "OrchidTechnologies/orchid",
           "description": "(👨‍💻 21 · 🔀 98 · 📥 12K · 📋 71 - 14% open · ⏱️ 29.05.2024):",
           "children": [],
           "repo_info": {
@@ -10274,7 +10274,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Snowfork/snowbridge",
           "description": "(👨‍💻 26 · 🔀 100 · 📦 4 · 📋 140 - 6% open · ⏱️ 04.06.2024):",
           "children": [],
           "repo_info": {
@@ -10295,7 +10295,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "subsquid/squid-sdk",
           "description": "(👨‍💻 26 · 🔀 140 · 📦 2 · 📋 98 - 39% open · ⏱️ 03.06.2024):",
           "children": [],
           "repo_info": {
@@ -10316,7 +10316,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "functionland/fx-fotos",
           "description": "(👨‍💻 13 · 🔀 71 · 📥 39 · 📋 150 - 48% open · ⏱️ 11.04.2024):",
           "children": [],
           "repo_info": {
@@ -10337,7 +10337,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cardstack/cardstack",
           "description": "(👨‍💻 46 · 🔀 64 · 📦 3 · 📋 530 - 2% open · ⏱️ 21.03.2024):",
           "children": [],
           "repo_info": {
@@ -10358,7 +10358,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "primecoin/primecoin",
           "description": "(👨‍💻 180 · 🔀 79 · 📥 15K · 📋 13 - 46% open · ⏱️ 05.06.2023):",
           "children": [],
           "repo_info": {
@@ -10379,7 +10379,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "hypersign-protocol/hid-node",
           "description": "(👨‍💻 3 · 🔀 23 · 📥 4.6K · 📦 1 · 📋 190 - 1% open · ⏱️ 13.03.2024):",
           "children": [],
           "repo_info": {
@@ -10410,7 +10410,7 @@
             "last_commit": "2024-07-12T09:36:46Z",
             "owner": "lukasmasuch",
             "repo": "best-of-crypto",
-            "stars": 550
+            "stars": 549
           }
         },
         {
@@ -10425,7 +10425,7 @@
             "last_commit": "2024-07-12T09:36:46Z",
             "owner": "lukasmasuch",
             "repo": "best-of-crypto",
-            "stars": 550
+            "stars": 549
           }
         }
       ],
@@ -10433,7 +10433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:05:08.729Z",
+    "last_updated": "2026-08-25T05:17:44.708Z",
     "original_repository": "lukasmasuch/best-of-crypto",
     "original_repository_id": 445931634,
     "original_repository_sha": "902ffb5e8667ec279c6d4480bddef9e97b614e36",
