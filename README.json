@@ -12,11 +12,12 @@
             "archived": false,
             "id": 1181927,
             "language": "C++",
-            "last_commit": "2026-08-27T22:11:53Z",
+            "last_commit": "2026-08-28T11:47:21Z",
             "owner": "bitcoin",
             "repo": "bitcoin",
-            "stars": 90025
-          }
+            "stars": 90026
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "bitcoin (🥇36 · ⭐ 77K) - Bitcoin Core integration/staging tree. MIT"
@@ -33,11 +34,12 @@
             "archived": false,
             "id": 37350472,
             "language": "C",
-            "last_commit": "2026-08-26T14:24:22Z",
+            "last_commit": "2026-08-28T15:40:05Z",
             "owner": "ElementsProject",
             "repo": "lightning",
-            "stars": 3089
-          }
+            "stars": 3088
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "lightning (🥇32 · ⭐ 2.8K) - Core Lightning Lightning Network implementation focusing on.. Unlicensed"
@@ -54,11 +56,12 @@
             "archived": false,
             "id": 14514251,
             "language": "Java",
-            "last_commit": "2026-08-26T20:49:41Z",
+            "last_commit": "2026-08-28T09:13:26Z",
             "owner": "bitcoinj",
             "repo": "bitcoinj",
             "stars": 5228
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "bitcoinj (🥇31 · ⭐ 5K) - A library for working with Bitcoin. Apache-2"
@@ -79,7 +82,8 @@
             "owner": "bitcoinjs",
             "repo": "bitcoinjs-lib",
             "stars": 5997
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "bitcoinjs-lib (🥇30 · ⭐ 5.6K) - A javascript Bitcoin library for node.js and browsers. MIT"
@@ -100,7 +104,8 @@
             "owner": "btcsuite",
             "repo": "btcd",
             "stars": 6704
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "btcd (🥇28 · ⭐ 6.1K) - An alternative full node bitcoin implementation written in Go (golang). ISC"
@@ -121,7 +126,8 @@
             "owner": "btcsuite",
             "repo": "btcwallet",
             "stars": 1256
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "btcwallet (🥇25 · ⭐ 1.1K) - A secure bitcoin wallet daemon written in Go (golang). ISC"
@@ -138,11 +144,12 @@
             "archived": false,
             "id": 37064937,
             "language": "C++",
-            "last_commit": "2026-08-27T12:46:47Z",
+            "last_commit": "2026-08-28T12:47:46Z",
             "owner": "ElementsProject",
             "repo": "elements",
             "stars": 1155
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "elements (🥇25 · ⭐ 1K) - Open Source implementation of advanced blockchain features extending the.. MIT"
@@ -162,8 +169,9 @@
             "last_commit": "2026-08-20T17:14:27Z",
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10928
-          }
+            "stars": 10931
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "bips (🥇23 · ⭐ 9.1K) - Bitcoin Improvement Proposals. Unlicensed"
@@ -183,8 +191,9 @@
             "last_commit": "2026-01-21T23:08:32Z",
             "owner": "bitcoinjs",
             "repo": "bip39",
-            "stars": 1179
-          }
+            "stars": 1180
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "bip39 (🥇22 · ⭐ 1.1K · 💤) - JavaScript implementation of Bitcoin BIP39: Mnemonic code for generating.. ISC"
@@ -205,7 +214,8 @@
             "owner": "bitcoinjs",
             "repo": "bip38",
             "stars": 219
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "bip38 (🥈18 · ⭐ 210 · 💤) - BIP38 is a standard process to encrypt Bitcoin and crypto currency.. MIT"
@@ -226,7 +236,8 @@
             "owner": "BlockstreamResearch",
             "repo": "secp256k1-zkp",
             "stars": 440
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "secp256k1-zkp (🥈16 · ⭐ 350) - A fork of libsecp256k1 with support for advanced and experimental.. MIT"
@@ -247,7 +258,8 @@
             "owner": "ElementsProject",
             "repo": "libwally-core",
             "stars": 307
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "libwally-core (🥈16 · ⭐ 270) - Useful primitives for wallets. Unlicensed"
@@ -264,11 +276,12 @@
             "archived": false,
             "id": 51193526,
             "language": "Go",
-            "last_commit": "2026-08-27T19:56:24Z",
+            "last_commit": "2026-08-28T17:08:30Z",
             "owner": "cosmos",
             "repo": "cosmos-sdk",
-            "stars": 7050
-          }
+            "stars": 7051
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "cosmos-sdk (🥇39 · ⭐ 6K) - A Framework for Building High Value Public Blockchains. Apache-2"
@@ -288,8 +301,9 @@
             "last_commit": "2026-08-25T09:58:56Z",
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1145
-          }
+            "stars": 1144
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "cosmwasm (🥇28 · ⭐ 1K) - Framework for building smart contracts in Wasm for the Cosmos SDK. Apache-2"
@@ -310,7 +324,8 @@
             "owner": "cosmos",
             "repo": "gaia",
             "stars": 573
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "gaia (🥇28 · ⭐ 450) - Cosmos Hub. Apache-2"
@@ -331,7 +346,8 @@
             "owner": "cosmos",
             "repo": "iavl",
             "stars": 446
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "iavl (🥇28 · ⭐ 410) - Merkleized IAVL+ Tree implementation in Go. Apache-2"
@@ -352,7 +368,8 @@
             "owner": "cosmos",
             "repo": "relayer",
             "stars": 413
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "relayer (🥇27 · ⭐ 380) - An IBC relayer for ibc-go. Apache-2"
@@ -369,11 +386,12 @@
             "archived": false,
             "id": 337764594,
             "language": "Go",
-            "last_commit": "2026-08-27T19:47:37Z",
+            "last_commit": "2026-08-28T13:35:03Z",
             "owner": "cosmos",
             "repo": "ibc-go",
-            "stars": 645
-          }
+            "stars": 644
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "ibc-go (🥇25 · ⭐ 510) - Inter-Blockchain Communication Protocol (IBC) implementation in Golang. MIT"
@@ -394,7 +412,8 @@
             "owner": "CosmWasm",
             "repo": "cw-plus",
             "stars": 527
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "cw-plus (🥇25 · ⭐ 500) - Production Quality contracts under open source licenses. Apache-2"
@@ -415,7 +434,8 @@
             "owner": "CosmWasm",
             "repo": "wasmd",
             "stars": 416
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "wasmd (🥇24 · ⭐ 360) - Basic cosmos-sdk app with web assembly smart contracts. Unlicensed"
@@ -436,7 +456,8 @@
             "owner": "cosmos",
             "repo": "sdk-tutorials",
             "stars": 513
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "sdk-tutorials (🥇22 · ⭐ 480) - Tutorials for building modules for the Cosmos SDK. Apache-2"
@@ -457,7 +478,8 @@
             "owner": "cosmos",
             "repo": "cosmos-rust",
             "stars": 346
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "cosmos-rust (🥈21 · ⭐ 290) - The home of all shared Rust resources for the Cosmos ecosystem. Apache-2"
@@ -478,7 +500,8 @@
             "owner": "cosmos",
             "repo": "cosmjs",
             "stars": 699
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "cosmjs (🥈19 · ⭐ 620) - The Swiss Army knife to power JavaScript based client solutions.. Apache-2"
@@ -495,11 +518,12 @@
             "archived": false,
             "id": 370830535,
             "language": "Python",
-            "last_commit": "2026-08-27T11:58:10Z",
+            "last_commit": "2026-08-28T12:50:36Z",
             "owner": "cosmos",
             "repo": "chain-registry",
-            "stars": 572
-          }
+            "stars": 571
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "chain-registry (🥈19 · ⭐ 490) - CC-BY-4.0"
@@ -516,11 +540,12 @@
             "archived": false,
             "id": 169809972,
             "language": "Go",
-            "last_commit": "2026-08-27T00:54:13Z",
+            "last_commit": "2026-08-28T21:51:35Z",
             "owner": "cosmos",
             "repo": "ibc",
             "stars": 1017
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "ibc (🥈16 · ⭐ 900) - Interchain Standards (ICS) for the Cosmos network & interchain.. Unlicensed"
@@ -541,7 +566,8 @@
             "owner": "stellar",
             "repo": "go",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "go (🥇31 · ⭐ 1.3K) - Stellars public monorepo of go code. Apache-2"
@@ -558,11 +584,12 @@
             "archived": false,
             "id": 27085821,
             "language": "C++",
-            "last_commit": "2026-08-27T23:41:51Z",
+            "last_commit": "2026-08-28T20:03:15Z",
             "owner": "stellar",
             "repo": "stellar-core",
             "stars": 3301
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "stellar-core (🥇26 · ⭐ 3.1K) - Reference implementation for the peer-to-peer agent that.. Unlicensed"
@@ -579,11 +606,12 @@
             "archived": false,
             "id": 33684726,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T21:40:56Z",
+            "last_commit": "2026-08-28T20:38:03Z",
             "owner": "stellar",
             "repo": "js-stellar-sdk",
             "stars": 695
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "js-stellar-sdk (🥈21 · ⭐ 610) - Main Stellar client library for the JavaScript language. Apache-2"
@@ -604,7 +632,8 @@
             "owner": "stellar",
             "repo": "stellar-protocol",
             "stars": 633
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "stellar-protocol (🥈17 · ⭐ 510) - Developer discussion about possible changes to the.. Unlicensed"
@@ -621,11 +650,12 @@
             "archived": false,
             "id": 2724167,
             "language": "C++",
-            "last_commit": "2026-08-27T21:22:00Z",
+            "last_commit": "2026-08-28T17:44:36Z",
             "owner": "XRPLF",
             "repo": "rippled",
-            "stars": 5191
-          }
+            "stars": 5190
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "rippled (🥇27 · ⭐ 4.5K) - Decentralized cryptocurrency blockchain daemon implementing the XRP.. ISC"
@@ -646,7 +676,8 @@
             "owner": "XRPLF",
             "repo": "xrpl.js",
             "stars": 1328
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "xrpl.js (🥇27 · ⭐ 1.2K) - A JavaScript/TypeScript API for interacting with the XRP Ledger.. Unlicensed"
@@ -663,11 +694,12 @@
             "archived": false,
             "id": 17273151,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T23:47:24Z",
+            "last_commit": "2026-08-28T20:44:32Z",
             "owner": "XRPLF",
             "repo": "xrpl-dev-portal",
-            "stars": 2131
-          }
+            "stars": 2133
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "xrpl-dev-portal (🥈21 · ⭐ 510) - Source code for xrpl.org including developer.. Unlicensed"
@@ -684,11 +716,12 @@
             "archived": false,
             "id": 191266671,
             "language": "Go",
-            "last_commit": "2026-08-27T18:57:16Z",
+            "last_commit": "2026-08-28T18:58:56Z",
             "owner": "algorand",
             "repo": "go-algorand",
             "stars": 1432
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "go-algorand (🥇29 · ⭐ 1.3K) - Algorands official implementation in Go. Unlicensed"
@@ -705,11 +738,12 @@
             "archived": false,
             "id": 168464345,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T21:10:26Z",
+            "last_commit": "2026-08-28T00:34:19Z",
             "owner": "algorand",
             "repo": "js-algorand-sdk",
             "stars": 298
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "js-algorand-sdk (🥇26 · ⭐ 280) - The official JavaScript SDK for Algorand. MIT"
@@ -730,7 +764,8 @@
             "owner": "algorand",
             "repo": "pyteal",
             "stars": 289
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "pyteal (🥇23 · ⭐ 280) - Algorand Smart Contracts in Python. MIT"
@@ -751,7 +786,8 @@
             "owner": "algorand",
             "repo": "py-algorand-sdk",
             "stars": 275
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "py-algorand-sdk (🥇22 · ⭐ 260) - Algorand Python SDK. MIT"
@@ -772,7 +808,8 @@
             "owner": "dogecoin",
             "repo": "dogecoin",
             "stars": 15260
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "dogecoin (🥇34 · ⭐ 14K) - very currency. MIT"
@@ -789,11 +826,12 @@
             "archived": false,
             "id": 19347340,
             "language": "C++",
-            "last_commit": "2026-08-26T00:11:52Z",
+            "last_commit": "2026-08-28T21:56:39Z",
             "owner": "nanocurrency",
             "repo": "nano-node",
             "stars": 3524
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "nano-node (🥇28 · ⭐ 3.5K) - Nano is digital currency. Its ticker is: XNO and its currency symbol.. BSD-3"
@@ -814,7 +852,8 @@
             "owner": "deso-protocol",
             "repo": "core",
             "stars": 326
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "deso-protocol/core (🥈19 · ⭐ 330) - DeSo core node. MIT"
@@ -835,7 +874,8 @@
             "owner": "deso-protocol",
             "repo": "frontend",
             "stars": 270
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "frontend (🥈16 · ⭐ 270) - DeSo frontend. MIT"
@@ -852,11 +892,12 @@
             "archived": false,
             "id": 4646198,
             "language": "C++",
-            "last_commit": "2026-08-23T01:58:07Z",
+            "last_commit": "2026-08-28T14:19:26Z",
             "owner": "litecoin-project",
             "repo": "litecoin",
-            "stars": 4599
-          }
+            "stars": 4600
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "litecoin (🥇28 · ⭐ 4.3K) - Litecoin source tree. MIT"
@@ -877,7 +918,8 @@
             "owner": "peercoin",
             "repo": "peercoin",
             "stars": 587
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "peercoin (🥇28 · ⭐ 570) - Reference implementation of the Peercoin protocol. MIT"
@@ -898,7 +940,8 @@
             "owner": "steemit",
             "repo": "steem-js",
             "stars": 466
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "steem-js (🥈21 · ⭐ 470) - Steem.js the official JavaScript library for Steem blockchain. MIT"
@@ -915,11 +958,12 @@
             "archived": false,
             "id": 59213335,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T16:21:29Z",
+            "last_commit": "2026-08-28T08:01:17Z",
             "owner": "steemit",
             "repo": "condenser",
             "stars": 502
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "condenser (🥈18 · ⭐ 510) - The greatest application front-end to the Steem Blockchain. Unlicensed"
@@ -940,7 +984,8 @@
             "owner": "RavenProject",
             "repo": "Ravencoin",
             "stars": 1119
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "Ravencoin (🥇26 · ⭐ 1.1K) - Ravencoin Core integration/staging tree. MIT"
@@ -961,7 +1006,8 @@
             "owner": "ArkEcosystem",
             "repo": "core",
             "stars": 345
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "ArkEcosystem/core (🥈20 · ⭐ 340) - The ARK Core Blockchain Framework. Check.. MIT"
@@ -982,7 +1028,8 @@
             "owner": "BananoCoin",
             "repo": "kalium_wallet_flutter",
             "stars": 265
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "kalium_wallet_flutter (🥈15 · ⭐ 260) - Kalium Mobile BANANO Wallet, made with Flutter. Unlicensed"
@@ -1003,7 +1050,8 @@
             "owner": "gcash",
             "repo": "bchd",
             "stars": 291
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "bchd (🥇25 · ⭐ 280) - An alternative full node bitcoin cash implementation written in Go (golang). ISC"
@@ -1024,7 +1072,8 @@
             "owner": "BTCGPU",
             "repo": "BTCGPU",
             "stars": 682
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "BTCGPU (🥇25 · ⭐ 660) - Current work on BTCGPU. MIT"
@@ -1045,7 +1094,8 @@
             "owner": "theQRL",
             "repo": "QRL",
             "stars": 466
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "QRL (🥈20 · ⭐ 410) - Quantum Resistant Ledger. MIT"
@@ -1066,7 +1116,8 @@
             "owner": "XDagger",
             "repo": "xdag",
             "stars": 327
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "xdag (🥈16 · ⭐ 330) - XDAG (Dagger Coin) Official Main Repository. XDAG is a novel DAG based.. MIT"
@@ -1087,7 +1138,8 @@
             "owner": "chainx-org",
             "repo": "ChainX",
             "stars": 325
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "ChainX (🥈18 · ⭐ 320) - Bitcoins layer2 smart contract network has already supported WASM and.. GPL-3.0"
@@ -1104,11 +1156,12 @@
             "archived": false,
             "id": 15452919,
             "language": "Go",
-            "last_commit": "2026-08-27T12:57:55Z",
+            "last_commit": "2026-08-28T15:12:14Z",
             "owner": "ethereum",
             "repo": "go-ethereum",
-            "stars": 51314
-          }
+            "stars": 51313
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "go-ethereum (🥇39 · ⭐ 46K) - Go implementation of the Ethereum protocol. LGPL-3.0"
@@ -1125,11 +1178,12 @@
             "archived": false,
             "id": 64700934,
             "language": "Solidity",
-            "last_commit": "2026-08-27T15:20:16Z",
+            "last_commit": "2026-08-28T09:07:54Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27236
-          }
+            "stars": 27234
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "openzeppelin-contracts (🥇37 · ⭐ 24K) - OpenZeppelin Contracts is a library for secure smart.. MIT"
@@ -1146,11 +1200,12 @@
             "archived": false,
             "id": 40892817,
             "language": "C++",
-            "last_commit": "2026-08-27T13:58:42Z",
+            "last_commit": "2026-08-28T21:18:21Z",
             "owner": "argotorg",
             "repo": "solidity",
             "stars": 25717
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "solidity (🥇36 · ⭐ 23K) - Solidity, the Smart Contract Programming Language. GPL-3.0"
@@ -1167,11 +1222,12 @@
             "archived": false,
             "id": 73461676,
             "language": "Python",
-            "last_commit": "2026-08-27T16:27:40Z",
+            "last_commit": "2026-08-28T15:14:45Z",
             "owner": "vyperlang",
             "repo": "vyper",
             "stars": 5180
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "vyper (🥇33 · ⭐ 4.8K) - Pythonic Smart Contract Language for the EVM. Unlicensed"
@@ -1188,11 +1244,12 @@
             "archived": false,
             "id": 116457726,
             "language": "Markdown",
-            "last_commit": "2026-08-27T18:56:09Z",
+            "last_commit": "2026-08-28T20:17:07Z",
             "owner": "ethereum",
             "repo": "ethereum-org-website",
-            "stars": 5956
-          }
+            "stars": 5957
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "ethereum-org-website (🥇32 · ⭐ 4.9K) - Ethereum.org is a primary online resource for the.. MIT"
@@ -1209,11 +1266,12 @@
             "archived": false,
             "id": 56251096,
             "language": "Python",
-            "last_commit": "2026-08-23T23:05:41Z",
+            "last_commit": "2026-08-28T22:20:34Z",
             "owner": "ApeWorX",
             "repo": "web3.py",
             "stars": 5521
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "web3.py (🥇31 · ⭐ 4.8K) - A python interface for interacting with the Ethereum blockchain and.. MIT"
@@ -1230,11 +1288,12 @@
             "archived": false,
             "id": 248697283,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T16:57:08Z",
+            "last_commit": "2026-08-28T11:50:08Z",
             "owner": "remix-project-org",
             "repo": "remix-project",
-            "stars": 3041
-          }
+            "stars": 3043
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "remix-project (🥇31 · ⭐ 2.3K) - Remix is a browser-based compiler and IDE that enables users to.. MIT"
@@ -1255,7 +1314,8 @@
             "owner": "Consensys",
             "repo": "quorum",
             "stars": 4765
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "quorum (🥇30 · ⭐ 4.6K) - A permissioned implementation of Ethereum supporting data privacy. LGPL-3.0"
@@ -1276,7 +1336,8 @@
             "owner": "Nethereum",
             "repo": "Nethereum",
             "stars": 2257
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "Nethereum (🥇30 · ⭐ 2.1K) - Ethereum .Net cross platform integration library. MIT"
@@ -1293,11 +1354,12 @@
             "archived": false,
             "id": 149554797,
             "language": "Python",
-            "last_commit": "2026-08-26T21:19:04Z",
+            "last_commit": "2026-08-28T22:37:26Z",
             "owner": "ethereum",
             "repo": "consensus-specs",
             "stars": 3957
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "consensus-specs (🥇29 · ⭐ 3.5K) - Ethereum Proof-of-Stake Consensus Specifications. CC0-1.0"
@@ -1314,11 +1376,12 @@
             "archived": false,
             "id": 141754460,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T15:20:56Z",
+            "last_commit": "2026-08-28T09:08:38Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts-upgradeable",
             "stars": 1173
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "openzeppelin-contracts-upgradeable (🥇29 · ⭐ 960) - Upgradeable variant of OpenZeppelin Contracts, meant.. MIT"
@@ -1339,7 +1402,8 @@
             "owner": "dethcrypto",
             "repo": "TypeChain",
             "stars": 2792
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "TypeChain (🥇28 · ⭐ 2.7K · 💤) - TypeScript bindings for Ethereum smart contracts. MIT"
@@ -1360,7 +1424,8 @@
             "owner": "Consensys",
             "repo": "gnark",
             "stars": 1731
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "gnark (🥇28 · ⭐ 1.3K) - gnark is a fast zk-SNARK library that offers a high-level API to.. Apache-2"
@@ -1377,11 +1442,12 @@
             "archived": false,
             "id": 44971752,
             "language": "Python",
-            "last_commit": "2026-08-27T19:58:17Z",
+            "last_commit": "2026-08-28T23:31:52Z",
             "owner": "ethereum",
             "repo": "EIPs",
             "stars": 13972
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "EIPs (🥇27 · ⭐ 13K) - The Ethereum Improvement Proposal repository. CC0-1.0"
@@ -1402,7 +1468,8 @@
             "owner": "remix-project-org",
             "repo": "remix-ide",
             "stars": 2346
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "remix-ide (🥇27 · ⭐ 2.2K) - Documentation for Remix IDE. MIT"
@@ -1423,7 +1490,8 @@
             "owner": "ethereum",
             "repo": "py-evm",
             "stars": 2351
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "py-evm (🥇27 · ⭐ 2.2K) - A Python implementation of the Ethereum Virtual Machine. MIT"
@@ -1444,7 +1512,8 @@
             "owner": "ConsenSysDiligence",
             "repo": "mythril",
             "stars": 4265
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "mythril (🥇26 · ⭐ 3.7K) - Security analysis tool for EVM bytecode. Supports smart contracts built.. MIT"
@@ -1461,11 +1530,12 @@
             "archived": false,
             "id": 273576864,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T16:06:14Z",
+            "last_commit": "2026-08-28T22:00:45Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-upgrades",
             "stars": 660
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "openzeppelin-upgrades (🥇26 · ⭐ 600) - Plugins for Hardhat and Foundry to deploy and manage.. MIT"
@@ -1482,11 +1552,12 @@
             "archived": false,
             "id": 183183290,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:12:44Z",
+            "last_commit": "2026-08-28T05:40:44Z",
             "owner": "argotorg",
             "repo": "sourcify",
             "stars": 948
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "sourcify (🥇25 · ⭐ 740) - Decentralized Solidity contract source code verification service. MIT"
@@ -1507,7 +1578,8 @@
             "owner": "ethereum",
             "repo": "js-ethereum-cryptography",
             "stars": 755
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "js-ethereum-cryptography (🥇25 · ⭐ 670) - Every cryptographic primitive needed to work on.. MIT"
@@ -1524,11 +1596,12 @@
             "archived": false,
             "id": 147802356,
             "language": "Java",
-            "last_commit": "2026-08-27T23:25:08Z",
+            "last_commit": "2026-08-28T13:12:24Z",
             "owner": "Consensys",
             "repo": "teku",
-            "stars": 777
-          }
+            "stars": 776
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "teku (🥇25 · ⭐ 640) - Open-source Ethereum consensus client written in Java. Apache-2"
@@ -1549,7 +1622,8 @@
             "owner": "ethereum",
             "repo": "tests",
             "stars": 625
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "tests (🥇24 · ⭐ 520) - Common tests for all Ethereum implementations. MIT"
@@ -1570,7 +1644,8 @@
             "owner": "Consensys",
             "repo": "gnark-crypto",
             "stars": 601
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "gnark-crypto (🥇24 · ⭐ 460) - gnark-crypto provides elliptic curve and pairing-based.. Apache-2"
@@ -1591,7 +1666,8 @@
             "owner": "ApeWorX",
             "repo": "eth-abi",
             "stars": 255
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "eth-abi (🥇24 · ⭐ 230) - Ethereum ABI utilities for python. MIT"
@@ -1612,7 +1688,8 @@
             "owner": "ethereumjs",
             "repo": "ethereumjs-monorepo",
             "stars": 2756
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "ethereumjs-monorepo (🥇23 · ⭐ 2.5K) - Monorepo for the Ethereum VM TypeScript Implementation. Unlicensed"
@@ -1629,11 +1706,12 @@
             "archived": false,
             "id": 160548111,
             "language": "C++",
-            "last_commit": "2026-08-27T10:24:29Z",
+            "last_commit": "2026-08-28T18:52:30Z",
             "owner": "ipsilon",
             "repo": "evmone",
             "stars": 976
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "evmone (🥇22 · ⭐ 790) - Fast Ethereum Virtual Machine implementation. Apache-2"
@@ -1654,7 +1732,8 @@
             "owner": "ethereum",
             "repo": "beacon-APIs",
             "stars": 389
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "beacon-APIs (🥇22 · ⭐ 320) - Collection of RESTful APIs provided by Ethereum Beacon nodes. CC0-1.0"
@@ -1671,11 +1750,12 @@
             "archived": false,
             "id": 111001784,
             "language": "Solidity",
-            "last_commit": "2026-08-26T19:55:51Z",
+            "last_commit": "2026-08-28T16:43:12Z",
             "owner": "OpenZeppelin",
             "repo": "ethernaut",
-            "stars": 2331
-          }
+            "stars": 2332
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "ethernaut (🥈21 · ⭐ 1.9K) - Web3/Solidity based wargame. MIT"
@@ -1696,7 +1776,8 @@
             "owner": "argotorg",
             "repo": "fe",
             "stars": 1728
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "fe (🥈21 · ⭐ 1.6K) - Emerging smart contract language for the Ethereum blockchain. Unlicensed"
@@ -1717,7 +1798,8 @@
             "owner": "ApeWorX",
             "repo": "eth-tester",
             "stars": 376
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "eth-tester (🥈21 · ⭐ 350) - Tool suite for testing ethereum applications. MIT"
@@ -1738,7 +1820,8 @@
             "owner": "ethereum",
             "repo": "eth-utils",
             "stars": 335
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "eth-utils (🥈21 · ⭐ 300) - Utility functions for working with ethereum related codebases. MIT"
@@ -1759,7 +1842,8 @@
             "owner": "ApeWorX",
             "repo": "eth-account",
             "stars": 312
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "eth-account (🥈21 · ⭐ 250) - Account abstraction library for web3.py. MIT"
@@ -1776,11 +1860,12 @@
             "archived": false,
             "id": 69717712,
             "language": "Python",
-            "last_commit": "2026-08-27T18:03:47Z",
+            "last_commit": "2026-08-28T20:24:27Z",
             "owner": "ethereum",
             "repo": "pm",
-            "stars": 1888
-          }
+            "stars": 1887
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "pm (🥈20 · ⭐ 1.5K) - Project Management: Meeting notes and agenda items. Unlicensed"
@@ -1801,7 +1886,8 @@
             "owner": "argotorg",
             "repo": "solc-js",
             "stars": 1506
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "solc-js (🥈20 · ⭐ 1.4K) - Javascript bindings for the Solidity compiler. MIT"
@@ -1822,7 +1908,8 @@
             "owner": "ethereum",
             "repo": "remix-desktop",
             "stars": 1040
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "remix-desktop (🥈20 · ⭐ 1K) - Remix IDE desktop. Unlicensed"
@@ -1839,11 +1926,12 @@
             "archived": false,
             "id": 397755303,
             "language": "Rust",
-            "last_commit": "2026-08-26T11:26:38Z",
+            "last_commit": "2026-08-28T09:26:59Z",
             "owner": "OpenZeppelin",
             "repo": "cairo-contracts",
             "stars": 909
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "cairo-contracts (🥈20 · ⭐ 790) - OpenZeppelin Contracts written in Cairo for Starknet, a.. MIT"
@@ -1864,7 +1952,8 @@
             "owner": "ethereum",
             "repo": "staking-deposit-cli",
             "stars": 572
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "staking-deposit-cli (🥈20 · ⭐ 520 · 💤) - Secure key generation for deposits. CC0-1.0"
@@ -1885,7 +1974,8 @@
             "owner": "OpenZeppelin",
             "repo": "solidity-docgen",
             "stars": 461
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "solidity-docgen (🥈20 · ⭐ 430 · 💤) - Documentation generator for Solidity projects. MIT"
@@ -1905,8 +1995,9 @@
             "last_commit": "2025-02-26T11:00:49Z",
             "owner": "ethereum",
             "repo": "yellowpaper",
-            "stars": 1715
-          }
+            "stars": 1714
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "yellowpaper (🥈19 · ⭐ 1.6K) - The Yellow Paper: Ethereums formal specification. CC-BY-SA-4.0"
@@ -1923,11 +2014,12 @@
             "archived": false,
             "id": 286791346,
             "language": "Python",
-            "last_commit": "2026-08-27T23:08:23Z",
+            "last_commit": "2026-08-28T23:25:02Z",
             "owner": "ethereum",
             "repo": "execution-specs",
             "stars": 1183
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "execution-specs (🥈19 · ⭐ 800) - Specification for the Execution Layer. Tracking network.. CC0-1.0"
@@ -1948,7 +2040,8 @@
             "owner": "OpenZeppelin",
             "repo": "merkle-tree",
             "stars": 536
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "merkle-tree (🥈19 · ⭐ 420) - A JavaScript library to generate merkle trees and merkle proofs. MIT"
@@ -1969,7 +2062,8 @@
             "owner": "ipsilon",
             "repo": "evmc",
             "stars": 379
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "evmc (🥈19 · ⭐ 320) - EVMC Ethereum Client-VM Connector API. Apache-2"
@@ -1986,11 +2080,12 @@
             "archived": false,
             "id": 337567816,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T21:31:54Z",
+            "last_commit": "2026-08-28T23:09:05Z",
             "owner": "OpenZeppelin",
             "repo": "contracts-wizard",
             "stars": 294
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "contracts-wizard (🥈19 · ⭐ 240) - Interactive smart contract generator based on OpenZeppelin.. MIT"
@@ -2011,7 +2106,8 @@
             "owner": "Consensys",
             "repo": "smart-contract-best-practices",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "smart-contract-best-practices (🥈18 · ⭐ 7.4K) - A guide to smart contract security best practices. Unlicensed"
@@ -2032,7 +2128,8 @@
             "owner": "Consensys",
             "repo": "ethereum-developer-tools-list",
             "stars": 5402
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "ethereum-developer-tools-list (🥈18 · ⭐ 5.2K) - A guide to available tools and platforms for.. Unlicensed"
@@ -2052,8 +2149,9 @@
             "last_commit": "2025-09-23T12:33:24Z",
             "owner": "ethereum",
             "repo": "trin",
-            "stars": 441
-          }
+            "stars": 440
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "trin (🥈18 · ⭐ 340) - An Ethereum portal client: a json-rpc server with nearly instant.. Unlicensed"
@@ -2074,7 +2172,8 @@
             "owner": "ConsenSysDiligence",
             "repo": "scribble",
             "stars": 335
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "scribble (🥈18 · ⭐ 320) - Scribble instrumentation tool. Apache-2"
@@ -2095,7 +2194,8 @@
             "owner": "vyperlang",
             "repo": "titanoboa",
             "stars": 313
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "titanoboa (🥈18 · ⭐ 230) - a vyper interpreter. Unlicensed"
@@ -2116,7 +2216,8 @@
             "owner": "argotorg",
             "repo": "hevm",
             "stars": 355
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "hevm (🥈18 · ⭐ 220) - symbolic EVM evaluator. AGPL-3.0"
@@ -2137,7 +2238,8 @@
             "owner": "ethereum",
             "repo": "research",
             "stars": 1930
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "research (🥈17 · ⭐ 1.7K) - MIT"
@@ -2158,7 +2260,8 @@
             "owner": "ConsenSysDiligence",
             "repo": "surya",
             "stars": 1173
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "surya (🥈17 · ⭐ 1K · 💤) - A set of utilities for exploring Solidity contracts. Apache-2"
@@ -2175,11 +2278,12 @@
             "archived": false,
             "id": 377601306,
             "language": "Io",
-            "last_commit": "2026-08-27T13:16:14Z",
+            "last_commit": "2026-08-28T13:33:44Z",
             "owner": "ethereum",
             "repo": "execution-apis",
             "stars": 1132
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "execution-apis (🥈17 · ⭐ 890) - Collection of APIs provided by Ethereum execution layer.. CC0-1.0"
@@ -2200,7 +2304,8 @@
             "owner": "Consensys",
             "repo": "UniversalToken",
             "stars": 355
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "UniversalToken (🥈17 · ⭐ 340) - Implementation of Universal Token for Assets and Payments. Apache-2"
@@ -2221,7 +2326,8 @@
             "owner": "l2beat",
             "repo": "earl",
             "stars": 277
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "earl (🥈17 · ⭐ 260) - Ergonomic, modern and type-safe assertion library for TypeScript. MIT"
@@ -2242,7 +2348,8 @@
             "owner": "argotorg",
             "repo": "solc-bin",
             "stars": 432
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "solc-bin (🥈16 · ⭐ 390) - This repository contains current and historical builds of the.. GPL-3.0"
@@ -2263,7 +2370,8 @@
             "owner": "OpenZeppelin",
             "repo": "nile",
             "stars": 314
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "nile (🥈15 · ⭐ 320) - CLI tool to develop StarkNet projects written in Cairo. MIT"
@@ -2284,7 +2392,8 @@
             "owner": "ethereum",
             "repo": "staking-launchpad",
             "stars": 303
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "staking-launchpad (🥈15 · ⭐ 260) - The deposit launchpad for staking on Ethereum. CC0-1.0"
@@ -2304,8 +2413,9 @@
             "last_commit": "2025-01-22T19:41:54Z",
             "owner": "solana-labs",
             "repo": "solana",
-            "stars": 14942
-          }
+            "stars": 14939
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "solana (🥇34 · ⭐ 12K) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps.. Apache-2"
@@ -2325,8 +2435,9 @@
             "last_commit": "2025-03-11T10:59:26Z",
             "owner": "solana-labs",
             "repo": "solana-program-library",
-            "stars": 4238
-          }
+            "stars": 4236
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "solana-program-library (🥇34 · ⭐ 3.1K) - A collection of Solana programs maintained by Solana.. Apache-2"
@@ -2343,11 +2454,12 @@
             "archived": false,
             "id": 145759605,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T21:24:20Z",
+            "last_commit": "2026-08-28T00:43:01Z",
             "owner": "solana-foundation",
             "repo": "solana-web3.js",
             "stars": 2749
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "solana-web3.js (🥇33 · ⭐ 1.9K) - Solana JavaScript SDK. MIT"
@@ -2368,7 +2480,8 @@
             "owner": "solana-labs",
             "repo": "rbpf",
             "stars": 330
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "rbpf (🥇24 · ⭐ 250) - Rust virtual machine and JIT compiler for eBPF programs. Apache-2"
@@ -2389,7 +2502,8 @@
             "owner": "anza-xyz",
             "repo": "wallet-adapter",
             "stars": 2028
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "wallet-adapter (🥈21 · ⭐ 1.4K) - Modular TypeScript wallet adapters and components for.. Apache-2"
@@ -2406,11 +2520,12 @@
             "archived": false,
             "id": 418771317,
             "language": "Rust",
-            "last_commit": "2026-08-26T16:30:51Z",
+            "last_commit": "2026-08-28T15:15:30Z",
             "owner": "solana-foundation",
             "repo": "pay",
             "stars": 1764
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "solana-pay (🥈18 · ⭐ 1.3K) - A new standard for decentralized payments. Apache-2"
@@ -2431,7 +2546,8 @@
             "owner": "solana-labs",
             "repo": "governance-ui",
             "stars": 326
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "governance-ui (🥈18 · ⭐ 270) - Apache-2"
@@ -2452,7 +2568,8 @@
             "owner": "solana-labs",
             "repo": "dapp-scaffold",
             "stars": 1815
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "dapp-scaffold (🥈16 · ⭐ 1.7K · 💤) - Scaffolding for a dapp built on Solana. Apache-2"
@@ -2473,7 +2590,8 @@
             "owner": "solana-labs",
             "repo": "example-helloworld",
             "stars": 953
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "example-helloworld (🥈15 · ⭐ 880 · 💤) - Hello world on Solana. MIT"
@@ -2494,7 +2612,8 @@
             "owner": "polkadot-js",
             "repo": "apps",
             "stars": 1820
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "apps (🥇33 · ⭐ 1.7K) - Basic Polkadot/Substrate UI for interacting with a Polkadot and.. Apache-2"
@@ -2515,7 +2634,8 @@
             "owner": "paritytech",
             "repo": "substrate",
             "stars": 8399
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "substrate (🥇31 · ⭐ 8.4K · 💤) - Substrate: The platform for blockchain innovators. Apache-2"
@@ -2536,7 +2656,8 @@
             "owner": "paritytech",
             "repo": "polkadot",
             "stars": 7086
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "polkadot (🥇31 · ⭐ 7.1K · 💤) - Polkadot Node Implementation. GPL-3.0"
@@ -2553,11 +2674,12 @@
             "archived": false,
             "id": 118469706,
             "language": "Rust",
-            "last_commit": "2026-08-11T21:23:31Z",
+            "last_commit": "2026-08-28T10:49:21Z",
             "owner": "wasmi-labs",
             "repo": "wasmi",
-            "stars": 2176
-          }
+            "stars": 2177
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "wasmi (🥇30 · ⭐ 1.5K) - WebAssembly (Wasm) interpreter. Apache-2"
@@ -2578,7 +2700,8 @@
             "owner": "use-ink",
             "repo": "ink",
             "stars": 1455
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "ink (🥇29 · ⭐ 1.3K) - Paritys ink! to write smart contracts. Apache-2"
@@ -2599,7 +2722,8 @@
             "owner": "paritytech",
             "repo": "jsonrpsee",
             "stars": 853
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "jsonrpsee (🥇26 · ⭐ 580) - Rust JSON-RPC library on top of async/await. MIT"
@@ -2620,7 +2744,8 @@
             "owner": "novasamatech",
             "repo": "parity-signer",
             "stars": 611
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "parity-signer (🥇25 · ⭐ 550) - Air-gapped crypto wallet. GPL-3.0"
@@ -2641,7 +2766,8 @@
             "owner": "paritytech",
             "repo": "subxt",
             "stars": 489
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "subxt (🥇25 · ⭐ 380) - Interact with Substrate based nodes in Rust or WebAssembly. Unlicensed"
@@ -2662,7 +2788,8 @@
             "owner": "paritytech",
             "repo": "parity-scale-codec",
             "stars": 286
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "parity-scale-codec (🥇25 · ⭐ 240) - Lightweight, efficient, binary serialization and.. Apache-2"
@@ -2683,7 +2810,8 @@
             "owner": "polkadot-js",
             "repo": "api",
             "stars": 1110
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "api (🥇24 · ⭐ 1.1K) - Promise and RxJS APIs around Polkadot and Substrate based chains via RPC.. Apache-2"
@@ -2704,7 +2832,8 @@
             "owner": "polkadot-js",
             "repo": "extension",
             "stars": 1022
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "extension (🥇24 · ⭐ 960) - Simple browser extension for managing Polkadot and Substrate.. Apache-2"
@@ -2725,7 +2854,8 @@
             "owner": "polkadot-js",
             "repo": "common",
             "stars": 261
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "common (🥇24 · ⭐ 250) - Utilities and base libraries for use across polkadot-js for Polkadot.. Apache-2"
@@ -2746,7 +2876,8 @@
             "owner": "paritytech",
             "repo": "cumulus",
             "stars": 615
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "cumulus (🥇23 · ⭐ 620 · 💤) - Write Parachains on Substrate. GPL-3.0"
@@ -2767,7 +2898,8 @@
             "owner": "w3f",
             "repo": "polkadot-wiki",
             "stars": 434
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "polkadot-wiki (🥇23 · ⭐ 360) - The source of truth for Polkadot. GPL-3.0"
@@ -2788,7 +2920,8 @@
             "owner": "paritytech",
             "repo": "parity-common",
             "stars": 309
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "parity-common (🥇23 · ⭐ 280) - Collection of crates used in Parity projects. Apache-2"
@@ -2809,7 +2942,8 @@
             "owner": "use-ink",
             "repo": "cargo-contract",
             "stars": 280
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "cargo-contract (🥇23 · ⭐ 240) - Setup and deployment tool for developing Wasm based smart.. GPL-3.0"
@@ -2826,11 +2960,12 @@
             "archived": false,
             "id": 279542962,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:19:16Z",
+            "last_commit": "2026-08-28T11:44:42Z",
             "owner": "paritytech",
             "repo": "substrate-connect",
             "stars": 259
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "substrate-connect (🥇23 · ⭐ 220) - Run Wasm Light Clients of any Substrate based chain.. GPL-3.0"
@@ -2851,7 +2986,8 @@
             "owner": "w3f",
             "repo": "Grants-Program",
             "stars": 1186
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "Grants-Program (🥇22 · ⭐ 990) - Web3 Foundation Grants Program. Apache-2"
@@ -2872,7 +3008,8 @@
             "owner": "paritytech",
             "repo": "schnorrkel",
             "stars": 333
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "schnorrkel (🥇22 · ⭐ 300) - Schnorr VRFs and signatures on the Ristretto group. BSD-3"
@@ -2893,7 +3030,8 @@
             "owner": "paritytech",
             "repo": "parity-bridges-common",
             "stars": 280
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "parity-bridges-common (🥈21 · ⭐ 270) - Collection of Useful Bridge Building Tools. GPL-3.0"
@@ -2914,7 +3052,8 @@
             "owner": "paritytech",
             "repo": "substrate-api-sidecar",
             "stars": 268
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "substrate-api-sidecar (🥈21 · ⭐ 230) - REST service that makes it easy to interact with.. GPL-3.0"
@@ -2935,7 +3074,8 @@
             "owner": "polkadot-js",
             "repo": "tools",
             "stars": 280
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "tools (🥈20 · ⭐ 280) - Various cli tools for Polkadot and Substrate chains, including basic.. Apache-2"
@@ -2956,7 +3096,8 @@
             "owner": "paritytech",
             "repo": "parity-db",
             "stars": 286
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "parity-db (🥈20 · ⭐ 260) - Experimental blockchain database. Apache-2"
@@ -2977,7 +3118,8 @@
             "owner": "paritytech",
             "repo": "jsonrpc",
             "stars": 818
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "jsonrpc (🥈19 · ⭐ 780 · 💤) - Rust JSON-RPC implementation. MIT"
@@ -2997,8 +3139,9 @@
             "last_commit": "2026-08-10T23:21:11Z",
             "owner": "polkadot-evm",
             "repo": "frontier",
-            "stars": 615
-          }
+            "stars": 616
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "frontier (🥈18 · ⭐ 540) - Ethereum compatibility layer for Substrate. Apache-2"
@@ -3018,8 +3161,9 @@
             "last_commit": "2025-08-28T18:37:35Z",
             "owner": "paritytech",
             "repo": "substrate-telemetry",
-            "stars": 331
-          }
+            "stars": 332
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "substrate-telemetry (🥈16 · ⭐ 300) - Polkadot Telemetry service. GPL-3.0"
@@ -3036,11 +3180,12 @@
             "archived": false,
             "id": 188299874,
             "language": "Haskell",
-            "last_commit": "2026-08-27T15:33:34Z",
+            "last_commit": "2026-08-28T16:16:41Z",
             "owner": "IntersectMBO",
             "repo": "cardano-node",
             "stars": 3177
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "cardano-node (🥇32 · ⭐ 3K) - The core component that is used to participate in a Cardano.. Apache-2"
@@ -3057,11 +3202,12 @@
             "archived": false,
             "id": 150113380,
             "language": "Haskell",
-            "last_commit": "2026-08-27T22:29:40Z",
+            "last_commit": "2026-08-28T23:24:28Z",
             "owner": "IntersectMBO",
             "repo": "cardano-ledger",
             "stars": 292
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "cardano-ledger (🥇27 · ⭐ 250) - The ledger implementation and specifications of the Cardano.. Apache-2"
@@ -3078,11 +3224,12 @@
             "archived": false,
             "id": 173286031,
             "language": "Haskell",
-            "last_commit": "2026-08-27T17:45:54Z",
+            "last_commit": "2026-08-28T18:09:21Z",
             "owner": "cardano-foundation",
             "repo": "cardano-wallet",
             "stars": 821
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "cardano-wallet (🥇26 · ⭐ 750) - HTTP server & command-line for managing UTxOs and HD wallets.. Apache-2"
@@ -3099,11 +3246,12 @@
             "archived": false,
             "id": 73861563,
             "language": "Haskell",
-            "last_commit": "2026-08-27T18:32:25Z",
+            "last_commit": "2026-08-28T23:01:58Z",
             "owner": "IntersectMBO",
             "repo": "plutus",
             "stars": 1633
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "plutus (🥇25 · ⭐ 1.5K) - The Plutus language implementation and tools. Apache-2"
@@ -3120,11 +3268,12 @@
             "archived": false,
             "id": 70064828,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T21:36:00Z",
+            "last_commit": "2026-08-28T02:01:30Z",
             "owner": "input-output-hk",
             "repo": "daedalus",
             "stars": 1244
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "daedalus (🥇25 · ⭐ 1.2K) - The open source cryptocurrency wallet for ada, built to grow with.. Apache-2"
@@ -3141,11 +3290,12 @@
             "archived": false,
             "id": 130384443,
             "language": "Nix",
-            "last_commit": "2026-08-27T12:30:16Z",
+            "last_commit": "2026-08-28T10:13:44Z",
             "owner": "input-output-hk",
             "repo": "haskell.nix",
             "stars": 632
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "haskell.nix (🥇25 · ⭐ 530) - Alternative Haskell Infrastructure for Nixpkgs. Apache-2"
@@ -3162,11 +3312,12 @@
             "archived": false,
             "id": 243388274,
             "language": "Haskell",
-            "last_commit": "2026-08-13T16:17:36Z",
+            "last_commit": "2026-08-28T15:55:40Z",
             "owner": "IntersectMBO",
             "repo": "cardano-db-sync",
             "stars": 318
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "cardano-db-sync (🥇23 · ⭐ 280) - A component that follows the Cardano chain and stores.. Apache-2"
@@ -3187,7 +3338,8 @@
             "owner": "cardano-foundation",
             "repo": "jormungandr",
             "stars": 368
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "jormungandr (🥇22 · ⭐ 370) - privacy voting blockchain node. Apache-2"
@@ -3208,7 +3360,8 @@
             "owner": "IntersectMBO",
             "repo": "plutus-apps",
             "stars": 296
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "plutus-apps (🥇22 · ⭐ 300) - The Plutus application platform. Apache-2"
@@ -3225,11 +3378,12 @@
             "archived": false,
             "id": 343431081,
             "language": "Haskell",
-            "last_commit": "2026-08-27T18:27:54Z",
+            "last_commit": "2026-08-28T15:10:26Z",
             "owner": "cardano-scaling",
             "repo": "hydra",
             "stars": 336
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "hydra (🥇22 · ⭐ 260) - Implementation of the Hydra Head protocol. Apache-2"
@@ -3250,7 +3404,8 @@
             "owner": "input-output-hk",
             "repo": "cardano-js-sdk",
             "stars": 237
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "cardano-js-sdk (🥇22 · ⭐ 210) - JavaScript SDK for interacting with Cardano, providing.. Apache-2"
@@ -3267,11 +3422,12 @@
             "archived": false,
             "id": 149481615,
             "language": "Haskell",
-            "last_commit": "2026-08-27T14:21:07Z",
+            "last_commit": "2026-08-28T14:33:07Z",
             "owner": "IntersectMBO",
             "repo": "ouroboros-network",
             "stars": 293
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "ouroboros-network (🥈21 · ⭐ 270) - Specifications of network protocols and implementations.. Apache-2"
@@ -3292,7 +3448,8 @@
             "owner": "cardano-foundation",
             "repo": "cardano-graphql",
             "stars": 262
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "cardano-graphql (🥈20 · ⭐ 250) - GraphQL API for Cardano. Apache-2"
@@ -3313,7 +3470,8 @@
             "owner": "input-output-hk",
             "repo": "cardano-documentation",
             "stars": 280
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "cardano-documentation (🥈19 · ⭐ 260) - MIT"
@@ -3334,7 +3492,8 @@
             "owner": "IntersectMBO",
             "repo": "essential-cardano",
             "stars": 732
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "essential-cardano (🥈16 · ⭐ 740) - Repository for the Essential Cardano list. Apache-2"
@@ -3355,7 +3514,8 @@
             "owner": "input-output-hk",
             "repo": "plutus-pioneer-program",
             "stars": 1366
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "plutus-pioneer-program (🥈15 · ⭐ 1.4K) - This repository hosts the lectures of the Plutus.. Unlicensed"
@@ -3376,7 +3536,8 @@
             "owner": "near",
             "repo": "near-api-js",
             "stars": 427
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "near-api-js (🥇29 · ⭐ 390) - JavaScript library to interact with NEAR Protocol via RPC API. MIT"
@@ -3393,11 +3554,12 @@
             "archived": false,
             "id": 151331938,
             "language": "Rust",
-            "last_commit": "2026-08-27T19:21:55Z",
+            "last_commit": "2026-08-28T21:09:35Z",
             "owner": "near",
             "repo": "nearcore",
             "stars": 2612
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "nearcore (🥇28 · ⭐ 2.3K) - Reference client for NEAR Protocol. GPL-3.0"
@@ -3418,7 +3580,8 @@
             "owner": "near",
             "repo": "near-sdk-rs",
             "stars": 514
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "near-sdk-rs (🥇25 · ⭐ 440) - Rust library for writing NEAR smart contracts. Apache-2"
@@ -3439,7 +3602,8 @@
             "owner": "near",
             "repo": "create-near-app",
             "stars": 365
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "create-near-app (🥇23 · ⭐ 350) - Create a starter app hooked up to the NEAR blockchain. MIT"
@@ -3460,7 +3624,8 @@
             "owner": "near",
             "repo": "borsh-rs",
             "stars": 430
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "borsh-rs (🥇23 · ⭐ 270) - Rust implementation of Binary Object Representation Serializer for.. Apache-2"
@@ -3481,7 +3646,8 @@
             "owner": "near",
             "repo": "near-wallet",
             "stars": 235
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "near-wallet (🥈20 · ⭐ 210) - Web wallet for NEAR Protocol which stores keys in browsers.. MIT"
@@ -3502,7 +3668,8 @@
             "owner": "near",
             "repo": "borsh",
             "stars": 624
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "borsh (🥈18 · ⭐ 460) - Binary Object Representation Serializer for Hashing. Unlicensed"
@@ -3519,11 +3686,12 @@
             "archived": false,
             "id": 197153676,
             "language": "Python",
-            "last_commit": "2026-08-27T21:04:15Z",
+            "last_commit": "2026-08-27T23:51:44Z",
             "owner": "Chia-Network",
             "repo": "chia-blockchain",
             "stars": 10799
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "chia-blockchain (🥇37 · ⭐ 11K) - Chia blockchain python implementation (full node, farmer,.. Apache-2"
@@ -3544,7 +3712,8 @@
             "owner": "Chia-Network",
             "repo": "chiapos",
             "stars": 268
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "chiapos (🥇24 · ⭐ 270) - Chia Proof of Space library. Apache-2"
@@ -3565,7 +3734,8 @@
             "owner": "Chia-Network",
             "repo": "bls-signatures",
             "stars": 306
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "Chia-Network/bls-signatures (🥇23 · ⭐ 290) - BLS signatures in C++, using the blst library for.. Apache-2"
@@ -3582,11 +3752,12 @@
             "archived": false,
             "id": 336877862,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T19:22:32Z",
+            "last_commit": "2026-08-28T16:53:56Z",
             "owner": "Chia-Network",
             "repo": "chia-blockchain-gui",
             "stars": 342
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "chia-blockchain-gui (🥈20 · ⭐ 330) - Chia blockchain GUI in electron/react. Apache-2"
@@ -3603,11 +3774,12 @@
             "archived": false,
             "id": 384646890,
             "language": "C",
-            "last_commit": "2026-08-27T19:32:54Z",
+            "last_commit": "2026-08-28T20:02:15Z",
             "owner": "Chia-Network",
             "repo": "bladebit",
             "stars": 325
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "bladebit (🥈19 · ⭐ 340) - A high-performance k32-only, Chia (XCH) plotter supporting in-RAM.. Apache-2"
@@ -3628,7 +3800,8 @@
             "owner": "Chia-Network",
             "repo": "pool-reference",
             "stars": 428
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "pool-reference (🥈18 · ⭐ 440) - Reference python implementation of Chia pool operations for.. Apache-2"
@@ -3649,7 +3822,8 @@
             "owner": "Chia-Network",
             "repo": "chia-docker",
             "stars": 213
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "chia-docker (🥈17 · ⭐ 210) - Apache-2"
@@ -3670,7 +3844,8 @@
             "owner": "CityOfZion",
             "repo": "neon-wallet",
             "stars": 1013
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "neon-wallet (🥇28 · ⭐ 1.1K) - Light wallet for the NEO blockchain. MIT"
@@ -3687,11 +3862,12 @@
             "archived": false,
             "id": 97105528,
             "language": "C#",
-            "last_commit": "2026-08-27T15:59:15Z",
+            "last_commit": "2026-08-28T07:15:24Z",
             "owner": "neo-project",
             "repo": "neo-node",
             "stars": 231
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "neo-node (🥈20 · ⭐ 230) - MIT"
@@ -3708,11 +3884,12 @@
             "archived": false,
             "id": 145102495,
             "language": "Go",
-            "last_commit": "2026-08-27T14:00:41Z",
+            "last_commit": "2026-08-28T17:27:41Z",
             "owner": "multiversx",
             "repo": "mx-chain-go",
-            "stars": 951
-          }
+            "stars": 952
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "mx-chain-go (🥇27 · ⭐ 910) - The official implementation of the MultiversX blockchain.. GPL-3.0"
@@ -3732,8 +3909,9 @@
             "last_commit": "2026-08-24T06:54:38Z",
             "owner": "tronprotocol",
             "repo": "java-tron",
-            "stars": 4147
-          }
+            "stars": 4148
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "java-tron (🥇30 · ⭐ 3.6K) - Java implementation of the Tron whitepaper. LGPL-3.0"
@@ -3754,7 +3932,8 @@
             "owner": "tronprotocol",
             "repo": "tronweb",
             "stars": 567
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "tronweb (🥇27 · ⭐ 380) - Javascript API Library for interacting with the TRON Network. MIT"
@@ -3771,11 +3950,12 @@
             "archived": false,
             "id": 119688315,
             "language": "Java",
-            "last_commit": "2026-08-27T10:49:27Z",
+            "last_commit": "2026-08-28T09:46:57Z",
             "owner": "tronprotocol",
             "repo": "wallet-cli",
-            "stars": 820
-          }
+            "stars": 821
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "wallet-cli (🥈20 · ⭐ 560) - Wallet CLI. LGPL-3.0"
@@ -3795,8 +3975,9 @@
             "last_commit": "2026-08-26T07:13:54Z",
             "owner": "tronprotocol",
             "repo": "tips",
-            "stars": 331
-          }
+            "stars": 333
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "tips (🥈16 · ⭐ 210) - TRON Improvement Proposals. Unlicensed"
@@ -3817,7 +3998,8 @@
             "owner": "tronprotocol",
             "repo": "documentation",
             "stars": 656
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "tronprotocol/documentation (🥈15 · ⭐ 550) - Documentations of project TRON. LGPL-3.0"
@@ -3834,11 +4016,12 @@
             "archived": false,
             "id": 218343552,
             "language": "Go",
-            "last_commit": "2026-08-27T20:50:14Z",
+            "last_commit": "2026-08-28T22:08:12Z",
             "owner": "0xPolygon",
             "repo": "bor",
             "stars": 1103
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "bor (🥇30 · ⭐ 980) - Official repository for the Polygon Blockchain. LGPL-3.0"
@@ -3859,7 +4042,8 @@
             "owner": "0xPolygon",
             "repo": "heimdall",
             "stars": 273
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "heimdall (🥇25 · ⭐ 250) - Validator node for Polygon PoS. GPL-3.0"
@@ -3880,7 +4064,8 @@
             "owner": "availproject",
             "repo": "avail",
             "stars": 795
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "avail (🥇22 · ⭐ 760) - Unlicensed"
@@ -3901,7 +4086,8 @@
             "owner": "0xPolygon",
             "repo": "matic.js",
             "stars": 563
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "matic.js (🥈19 · ⭐ 540) - Javascript developer library to interact with Matic Network. MIT"
@@ -3922,7 +4108,8 @@
             "owner": "maticnetwork",
             "repo": "contracts",
             "stars": 1168
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "contracts (🥈18 · ⭐ 1.1K) - Smart contracts comprising the business logic of the Matic Network. GPL-3.0"
@@ -3943,7 +4130,8 @@
             "owner": "maticnetwork",
             "repo": "pos-portal",
             "stars": 424
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "pos-portal (🥈16 · ⭐ 330) - Smart contracts that powers the PoS (proof-of-stake) based bridge.. GPL-3.0"
@@ -3964,7 +4152,8 @@
             "owner": "LiskArchive",
             "repo": "lisk-sdk",
             "stars": 2685
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "lisk-sdk (🥇29 · ⭐ 2.7K) - Lisk software development kit. Apache-2"
@@ -3985,7 +4174,8 @@
             "owner": "LiskHQ",
             "repo": "lisk-desktop",
             "stars": 571
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "lisk-desktop (🥇27 · ⭐ 590) - Lisk graphical user interface for desktop. GPL-3.0"
@@ -4006,7 +4196,8 @@
             "owner": "hiero-ledger",
             "repo": "hiero-sdk-js",
             "stars": 328
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "hedera-sdk-js (🥇26 · ⭐ 250) - Hedera Hashgraph SDK for JavaScript/TypeScript. Apache-2"
@@ -4023,11 +4214,12 @@
             "archived": false,
             "id": 261828887,
             "language": "Java",
-            "last_commit": "2026-08-27T23:13:11Z",
+            "last_commit": "2026-08-28T23:25:53Z",
             "owner": "hiero-ledger",
             "repo": "hiero-consensus-node",
             "stars": 404
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "hedera-services (🥇25 · ⭐ 260) - Crypto, token, consensus, file, and smart contract.. Apache-2"
@@ -4044,11 +4236,12 @@
             "archived": false,
             "id": 152455526,
             "language": "Java",
-            "last_commit": "2026-08-27T12:46:58Z",
+            "last_commit": "2026-08-28T07:52:49Z",
             "owner": "hiero-ledger",
             "repo": "hiero-sdk-java",
-            "stars": 261
-          }
+            "stars": 262
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "hedera-sdk-java (🥈21 · ⭐ 200) - Hedera Hashgraph SDK for Java. Apache-2"
@@ -4065,11 +4258,12 @@
             "archived": false,
             "id": 127488838,
             "language": "Go",
-            "last_commit": "2026-08-26T14:17:19Z",
+            "last_commit": "2026-08-28T12:50:09Z",
             "owner": "oasisprotocol",
             "repo": "oasis-core",
             "stars": 368
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "oasis-core (🥇30 · ⭐ 330) - Performant and Confidentiality-Preserving Smart Contracts +.. Apache-2"
@@ -4086,11 +4280,12 @@
             "archived": false,
             "id": 241638997,
             "language": "Go",
-            "last_commit": "2026-08-25T06:59:43Z",
+            "last_commit": "2026-08-28T18:31:09Z",
             "owner": "etclabscore",
             "repo": "core-geth",
             "stars": 307
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "core-geth (🥇25 · ⭐ 260) - A highly configurable Go implementation of the Ethereum protocol. LGPL-3.0"
@@ -4111,7 +4306,8 @@
             "owner": "harmony-one",
             "repo": "harmony",
             "stars": 1445
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "harmony (🥇28 · ⭐ 1.5K) - The core protocol of harmony. LGPL-3.0"
@@ -4132,7 +4328,8 @@
             "owner": "ontio",
             "repo": "ontology",
             "stars": 892
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "ontology (🥇26 · ⭐ 820) - Official Go implementation of the Ontology protocol. https://dev-.. LGPL-3.0"
@@ -4149,11 +4346,12 @@
             "archived": false,
             "id": 177367936,
             "language": "Rust",
-            "last_commit": "2026-08-27T14:07:27Z",
+            "last_commit": "2026-08-28T15:51:21Z",
             "owner": "AstarNetwork",
             "repo": "Astar",
             "stars": 771
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "Astar (🥇22 · ⭐ 730) - The dApp hub for blockchains of the future. GPL-3.0"
@@ -4174,7 +4372,8 @@
             "owner": "DeFiCh",
             "repo": "ain",
             "stars": 397
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "ain (🥇27 · ⭐ 400) - DeFi Blockchain - enabling decentralized finance on Bitcoin. MIT"
@@ -4195,7 +4394,8 @@
             "owner": "GLEECBTC",
             "repo": "komodo-wallet-desktop",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "atomicDEX-Desktop (🥇25 · ⭐ 240) - Komodo Wallet Desktop GUI. GPL-2.0"
@@ -4216,7 +4416,8 @@
             "owner": "Zilliqa",
             "repo": "zq1",
             "stars": 1118
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "Zilliqa (🥇22 · ⭐ 1.1K) - Zilliqa is the worlds first high-throughput public blockchain.. GPL-3.0"
@@ -4237,7 +4438,8 @@
             "owner": "Zilliqa",
             "repo": "scilla",
             "stars": 251
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "scilla (🥈18 · ⭐ 240) - Scilla - A Smart Contract Intermediate Level Language. GPL-3.0"
@@ -4258,7 +4460,8 @@
             "owner": "moonbeam-foundation",
             "repo": "moonbeam",
             "stars": 932
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "moonbeam (🥇24 · ⭐ 910) - An Ethereum-compatible smart contract parachain on Polkadot. GPL-3.0"
@@ -4279,7 +4482,8 @@
             "owner": "radixdlt",
             "repo": "radixdlt-scrypto",
             "stars": 410
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "radixdlt-scrypto (🥇23 · ⭐ 400) - Scrypto is the asset-oriented smart contract.. Unlicensed"
@@ -4300,7 +4504,8 @@
             "owner": "casper-network",
             "repo": "casper-node",
             "stars": 400
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "casper-node (🥇26 · ⭐ 390) - Reference client for CASPER protocol. Apache-2"
@@ -4321,7 +4526,8 @@
             "owner": "kadena-io",
             "repo": "pact",
             "stars": 607
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "pact (🥇22 · ⭐ 580) - The Pact Smart Contract Language. BSD-3"
@@ -4342,7 +4548,8 @@
             "owner": "kadena-io",
             "repo": "chainweb-node",
             "stars": 255
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "chainweb-node (🥇22 · ⭐ 250) - Chainweb: A Proof-of-Work Parallel-Chain Architecture for.. BSD-3"
@@ -4363,7 +4570,8 @@
             "owner": "CosmosContracts",
             "repo": "juno",
             "stars": 329
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "CosmosContracts/juno (🥇25 · ⭐ 310) - Open Source Platform for Interoperable Smart Contracts. Apache-2"
@@ -4380,11 +4588,12 @@
             "archived": false,
             "id": 67414376,
             "language": "JavaScript",
-            "last_commit": "2026-08-04T09:19:17Z",
+            "last_commit": "2026-08-28T12:23:02Z",
             "owner": "byteball",
             "repo": "obyte-gui-wallet",
             "stars": 430
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "obyte-gui-wallet (🥇22 · ⭐ 430) - Smart payments made simple. MIT"
@@ -4405,7 +4614,8 @@
             "owner": "CounterpartyXCP",
             "repo": "counterparty-lib",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "counterparty-lib (🐣) - Unlicensed"
@@ -4426,7 +4636,8 @@
             "owner": "aave",
             "repo": "aave-v3-core",
             "stars": 1117
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "aave-v3-core (🥇24 · ⭐ 780) - This repository contains the core smart contracts of the.. Unlicensed"
@@ -4443,11 +4654,12 @@
             "archived": false,
             "id": 447602725,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T16:35:36Z",
+            "last_commit": "2026-08-28T20:03:53Z",
             "owner": "aave",
             "repo": "interface",
             "stars": 536
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "aave/interface (🥈19 · ⭐ 380) - An open source interface for the decentralized liquidity.. Unlicensed"
@@ -4468,7 +4680,8 @@
             "owner": "gnosisguild",
             "repo": "zodiac",
             "stars": 481
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "zodiac (🥈19 · ⭐ 450) - A library for composable tooling for onchain entities. LGPL-3.0"
@@ -4489,7 +4702,8 @@
             "owner": "cowprotocol",
             "repo": "ethcontract-rs",
             "stars": 318
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "ethcontract-rs (🥈19 · ⭐ 300) - Generate type-safe bindings for interacting with Ethereum.. Apache-2"
@@ -4510,7 +4724,8 @@
             "owner": "synpress-io",
             "repo": "synpress",
             "stars": 889
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "synpress (🥈20 · ⭐ 550) - Synpress is e2e testing framework based on Cypress.io and playwright with.. MIT"
@@ -4531,7 +4746,8 @@
             "owner": "0xProject",
             "repo": "protocol",
             "stars": 403
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "0xProject/protocol (🥈17 · ⭐ 350) - Unlicensed"
@@ -4552,7 +4768,8 @@
             "owner": "0xProject",
             "repo": "0x-mesh",
             "stars": 261
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "0x-mesh (🥈17 · ⭐ 260 · 💤) - A peer-to-peer network for sharing 0x orders. Unlicensed"
@@ -4573,7 +4790,8 @@
             "owner": "consenlabs",
             "repo": "token-profile",
             "stars": 916
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "token-profile (🥇23 · ⭐ 820) - Blockchain coin and token profile collection. MIT"
@@ -4594,7 +4812,8 @@
             "owner": "electroneum",
             "repo": "electroneum",
             "stars": 386
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "electroneum (🥇23 · ⭐ 390) - Electroneum: The Legacy L1 Repository. Unlicensed"
@@ -4615,7 +4834,8 @@
             "owner": "enzymefinance",
             "repo": "protocol",
             "stars": 555
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "enzymefinance/protocol (🥇22 · ⭐ 370) - Enzyme Protocol Implementation. GPL-3.0"
@@ -4636,7 +4856,8 @@
             "owner": "VenusProtocol",
             "repo": "venus-protocol",
             "stars": 277
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "venus-protocol (🥇23 · ⭐ 250) - BNB Smart Chain Venus Protocol. BSD-3"
@@ -4657,7 +4878,8 @@
             "owner": "diadata-org",
             "repo": "diadata",
             "stars": 255
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "diadata (🥇22 · ⭐ 230) - DIAdata.org platform. Unlicensed"
@@ -4678,7 +4900,8 @@
             "owner": "blocto",
             "repo": "solana-go-sdk",
             "stars": 480
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "solana-go-sdk (🥈19 · ⭐ 330) - Solana Golang SDK. MIT"
@@ -4699,7 +4922,8 @@
             "owner": "OlympusDAO",
             "repo": "olympus-frontend",
             "stars": 284
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "olympus-frontend (🥈18 · ⭐ 290) - MIT"
@@ -4720,7 +4944,8 @@
             "owner": "UMAprotocol",
             "repo": "protocol",
             "stars": 483
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "UMAprotocol/protocol (🥈19 · ⭐ 360) - UMA Protocol Running on Ethereum. AGPL-3.0"
@@ -4741,7 +4966,8 @@
             "owner": "liquity",
             "repo": "dev",
             "stars": 358
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "liquity/dev (🥈16 · ⭐ 310) - Liquity monorepo containing the contracts, SDK and Dev UI frontend. GPL-3.0"
@@ -4761,8 +4987,9 @@
             "last_commit": "2026-08-27T07:41:31Z",
             "owner": "bnb-chain",
             "repo": "bsc",
-            "stars": 3279
-          }
+            "stars": 3280
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "bsc (🥇31 · ⭐ 2.6K) - A BNB Smart Chain client based on the go-ethereum fork. LGPL-3.0"
@@ -4783,7 +5010,8 @@
             "owner": "bnb-chain",
             "repo": "javascript-sdk",
             "stars": 397
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "javascript-sdk (🥇23 · ⭐ 380) - Javascript SDK to communicate with BNB Beacon Chain. Apache-2"
@@ -4804,7 +5032,8 @@
             "owner": "bnb-chain",
             "repo": "tss-lib",
             "stars": 1039
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "tss-lib (🥈21 · ⭐ 730) - Threshold Signature Scheme, for ECDSA and EDDSA. MIT"
@@ -4825,7 +5054,8 @@
             "owner": "bnb-chain",
             "repo": "go-sdk",
             "stars": 202
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "bnb-chain/go-sdk (🥈19 · ⭐ 200) - Apache-2"
@@ -4846,7 +5076,8 @@
             "owner": "bnb-chain",
             "repo": "bsc-genesis-contract",
             "stars": 777
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "bsc-genesis-contract (🥈18 · ⭐ 630) - The genesis contracts of BNB Smart Chain. Unlicensed"
@@ -4867,7 +5098,8 @@
             "owner": "bnb-chain",
             "repo": "BEPs",
             "stars": 975
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "BEPs (🥈15 · ⭐ 760) - BNB Evolution Proposals. Unlicensed"
@@ -4884,11 +5116,12 @@
             "archived": false,
             "id": 201546443,
             "language": "Go",
-            "last_commit": "2026-08-27T16:09:32Z",
+            "last_commit": "2026-08-28T21:40:05Z",
             "owner": "trustwallet",
             "repo": "assets",
-            "stars": 5377
-          }
+            "stars": 5378
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "trustwallet/assets (🥇29 · ⭐ 4.4K) - A comprehensive, up-to-date collection of information about.. MIT"
@@ -4905,11 +5138,12 @@
             "archived": false,
             "id": 170738310,
             "language": "C++",
-            "last_commit": "2026-08-21T09:26:42Z",
+            "last_commit": "2026-08-28T19:51:38Z",
             "owner": "trustwallet",
             "repo": "wallet-core",
             "stars": 3562
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "wallet-core (🥇29 · ⭐ 2.7K) - Cross-platform, cross-blockchain wallet library. Apache-2"
@@ -4930,7 +5164,8 @@
             "owner": "trustwallet",
             "repo": "trust-web3-provider",
             "stars": 915
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "trust-web3-provider (🥈20 · ⭐ 700) - Web3 javascript wrapper provider for iOS and Android.. MIT"
@@ -4951,7 +5186,8 @@
             "owner": "trustwallet",
             "repo": "developer",
             "stars": 477
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "developer (🥈16 · ⭐ 310) - Trust Developer documentation: developer.trustwallet.com. MIT"
@@ -4972,7 +5208,8 @@
             "owner": "bitshares",
             "repo": "bitshares-ui",
             "stars": 520
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "bitshares-ui (🥇27 · ⭐ 520) - Fully featured Graphical User Interface / Reference Wallet for the.. MIT"
@@ -4992,8 +5229,9 @@
             "last_commit": "2026-02-16T13:02:51Z",
             "owner": "bitshares",
             "repo": "bitshares-core",
-            "stars": 1187
-          }
+            "stars": 1186
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "bitshares-core (🥇23 · ⭐ 1.2K) - BitShares Blockchain node and command-line wallet. Unlicensed"
@@ -5014,7 +5252,8 @@
             "owner": "crypto-org-chain",
             "repo": "cronos",
             "stars": 335
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "cronos (🥇26 · ⭐ 280) - Cronos is the first Ethereum-compatible blockchain network built.. Unlicensed"
@@ -5035,7 +5274,8 @@
             "owner": "crypto-org-chain",
             "repo": "chain-main",
             "stars": 522
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "chain-main (🥈20 · ⭐ 490) - Crypto.org Chain: Croeseid Testnet and beyond development. Unlicensed"
@@ -5056,7 +5296,8 @@
             "owner": "dydxprotocol",
             "repo": "dydx-v3-python",
             "stars": 311
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "dydx-v3-python (🥈17 · ⭐ 300) - Python client for dYdX (API v3). Apache-2"
@@ -5077,7 +5318,8 @@
             "owner": "Loopring",
             "repo": "protocols",
             "stars": 335
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "protocols (🥈15 · ⭐ 320) - A zkRollup DEX & Payment Protocol. Unlicensed"
@@ -5098,7 +5340,8 @@
             "owner": "VeloraDEX",
             "repo": "paraswap-dex-lib",
             "stars": 810
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "paraswap-dex-lib (🥈18 · ⭐ 710) - DexLib is a library used by ParaSwap backend to integrate.. GPL-3.0"
@@ -5119,7 +5362,8 @@
             "owner": "VeloraDEX",
             "repo": "sdk",
             "stars": 775
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "paraswap-sdk (🥈18 · ⭐ 670) - ParaSwap allows dApps and traders to get the best DEX.. Unlicensed"
@@ -5140,7 +5384,8 @@
             "owner": "airswap",
             "repo": "airswap-protocols",
             "stars": 242
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "airswap-protocols (🥈21 · ⭐ 230) - AirSwap Contracts and Tools. MIT"
@@ -5160,8 +5405,9 @@
             "last_commit": "2026-08-27T00:28:58Z",
             "owner": "filecoin-project",
             "repo": "lotus",
-            "stars": 2987
-          }
+            "stars": 2986
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "lotus (🥇29 · ⭐ 2.8K) - Reference implementation of the Filecoin protocol, written in Go. Unlicensed"
@@ -5181,8 +5427,9 @@
             "last_commit": "2026-07-30T02:54:34Z",
             "owner": "filecoin-project",
             "repo": "venus",
-            "stars": 2054
-          }
+            "stars": 2053
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "venus (🥇28 · ⭐ 2.1K) - Filecoin Full Node Implementation in Go. Unlicensed"
@@ -5203,7 +5450,8 @@
             "owner": "bacalhau-project",
             "repo": "bacalhau",
             "stars": 870
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "bacalhau (🥇28 · ⭐ 630) - Compute over Data framework for public, transparent, and optionally.. Apache-2"
@@ -5224,7 +5472,8 @@
             "owner": "filecoin-project",
             "repo": "rust-fil-proofs",
             "stars": 504
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "rust-fil-proofs (🥇22 · ⭐ 490) - Proofs for Filecoin in Rust. Unlicensed"
@@ -5245,7 +5494,8 @@
             "owner": "filecoin-project",
             "repo": "ref-fvm",
             "stars": 423
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "ref-fvm (🥈18 · ⭐ 370) - Reference implementation of the Filecoin Virtual Machine. Unlicensed"
@@ -5266,7 +5516,8 @@
             "owner": "filecoin-project",
             "repo": "specs",
             "stars": 363
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "specs (🥈18 · ⭐ 370 · 💤) - The Filecoin protocol specification. Unlicensed"
@@ -5287,7 +5538,8 @@
             "owner": "filecoin-project",
             "repo": "filecoin-docs",
             "stars": 228
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "filecoin-docs (🥈18 · ⭐ 220) - Filecoin Docs. Unlicensed"
@@ -5308,7 +5560,8 @@
             "owner": "filecoin-project",
             "repo": "devgrants",
             "stars": 409
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "devgrants (🥈17 · ⭐ 370) - Apply for a Filecoin devgrant. Help build the Filecoin.. Unlicensed"
@@ -5329,7 +5582,8 @@
             "owner": "lurk-lab",
             "repo": "neptune",
             "stars": 345
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "neptune (🥈16 · ⭐ 260) - Rust Poseidon implementation. Unlicensed"
@@ -5346,11 +5600,12 @@
             "archived": false,
             "id": 179189941,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-27T16:42:21Z",
+            "last_commit": "2026-08-28T17:47:06Z",
             "owner": "filecoin-project",
             "repo": "FIPs",
             "stars": 338
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "FIPs (🥈15 · ⭐ 310) - The Filecoin Improvement Proposal repository. Unlicensed"
@@ -5371,7 +5626,8 @@
             "owner": "status-im",
             "repo": "status-legacy",
             "stars": 4020
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "status-mobile (🥇30 · ⭐ 3.8K) - a free (libre) open source, mobile OS for Ethereum. MPL-2.0"
@@ -5388,11 +5644,12 @@
             "archived": false,
             "id": 61047867,
             "language": "Go",
-            "last_commit": "2026-08-27T17:14:55Z",
+            "last_commit": "2026-08-28T23:34:35Z",
             "owner": "status-im",
             "repo": "status-go",
             "stars": 761
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "status-go (🥇27 · ⭐ 720) - The Status module that consumes go-ethereum. MPL-2.0"
@@ -5409,11 +5666,12 @@
             "archived": false,
             "id": 261270348,
             "language": "QML",
-            "last_commit": "2026-08-27T22:10:22Z",
+            "last_commit": "2026-08-28T19:46:34Z",
             "owner": "status-im",
             "repo": "status-app",
-            "stars": 372
-          }
+            "stars": 371
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "status-desktop (🥇27 · ⭐ 260) - Status Desktop client made in Nim & QML. MPL-2.0"
@@ -5430,11 +5688,12 @@
             "archived": false,
             "id": 141717232,
             "language": "Nim",
-            "last_commit": "2026-08-27T21:55:16Z",
+            "last_commit": "2026-08-28T22:39:15Z",
             "owner": "status-im",
             "repo": "nimbus-eth2",
             "stars": 661
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "nimbus-eth2 (🥇24 · ⭐ 500) - Nim implementation of the Ethereum Beacon Chain. Unlicensed"
@@ -5451,11 +5710,12 @@
             "archived": false,
             "id": 158147798,
             "language": "Nim",
-            "last_commit": "2026-08-27T23:00:45Z",
+            "last_commit": "2026-08-28T18:16:01Z",
             "owner": "vacp2p",
             "repo": "nim-libp2p",
             "stars": 320
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "nim-libp2p (🥈21 · ⭐ 240) - libp2p implementation in Nim. MIT"
@@ -5472,11 +5732,12 @@
             "archived": false,
             "id": 116221698,
             "language": "Nim",
-            "last_commit": "2026-08-27T10:16:49Z",
+            "last_commit": "2026-08-28T20:41:13Z",
             "owner": "status-im",
             "repo": "nimbus-eth1",
             "stars": 628
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "nimbus-eth1 (🥈19 · ⭐ 560) - Nimbus: an Ethereum Execution Client for Resource-Restricted.. Apache-2"
@@ -5493,11 +5754,12 @@
             "archived": false,
             "id": 133633453,
             "language": "Nim",
-            "last_commit": "2026-08-27T18:56:23Z",
+            "last_commit": "2026-08-28T13:42:05Z",
             "owner": "status-im",
             "repo": "nim-chronos",
             "stars": 413
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "nim-chronos (🥈16 · ⭐ 350) - Chronos - An efficient library for asynchronous programming. Apache-2"
@@ -5518,7 +5780,8 @@
             "owner": "keycard-tech",
             "repo": "status-keycard",
             "stars": 259
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "status-keycard (🥈16 · ⭐ 210 · 💤) - Our Javacard Implementation for making secure.. Apache-2"
@@ -5535,11 +5798,12 @@
             "archived": false,
             "id": 111455867,
             "language": "Go",
-            "last_commit": "2026-08-27T22:53:24Z",
+            "last_commit": "2026-08-28T22:08:57Z",
             "owner": "smartcontractkit",
             "repo": "chainlink",
-            "stars": 8236
-          }
+            "stars": 8237
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "chainlink (🥇33 · ⭐ 6.8K) - node of the decentralized oracle network, bridging on and off-chain.. MIT"
@@ -5556,11 +5820,12 @@
             "archived": false,
             "id": 258228323,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T16:27:33Z",
+            "last_commit": "2026-08-28T18:22:10Z",
             "owner": "smartcontractkit",
             "repo": "external-adapters-js",
             "stars": 289
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "external-adapters-js (🥇24 · ⭐ 260) - Monorepo containing JavaScript implementation of external.. MIT"
@@ -5577,11 +5842,12 @@
             "archived": false,
             "id": 352717417,
             "language": "MDX",
-            "last_commit": "2026-08-27T22:40:34Z",
+            "last_commit": "2026-08-28T22:22:59Z",
             "owner": "smartcontractkit",
             "repo": "documentation",
             "stars": 525
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "documentation (🥈21 · ⭐ 360) - https://docs.chain.link The Chainlink developer documentation.. MIT"
@@ -5602,7 +5868,8 @@
             "owner": "smartcontractkit",
             "repo": "hardhat-starter-kit",
             "stars": 1281
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "hardhat-starter-kit (🥈20 · ⭐ 1.2K) - A repo for boilerplate code for testing, deploying, and.. MIT"
@@ -5622,8 +5889,9 @@
             "last_commit": "2024-06-12T05:10:25Z",
             "owner": "smartcontractkit",
             "repo": "full-blockchain-solidity-course-js",
-            "stars": 14036
-          }
+            "stars": 14038
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "full-blockchain-solidity-course-js (🥈19 · ⭐ 12K) - Learn Blockchain, Solidity, and Full Stack Web3.. Unlicensed"
@@ -5644,7 +5912,8 @@
             "owner": "smartcontractkit",
             "repo": "full-blockchain-solidity-course-py",
             "stars": 11214
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "full-blockchain-solidity-course-py (🥈18 · ⭐ 11K) - Ultimate Solidity, Blockchain, and Smart Contract -.. MIT"
@@ -5661,11 +5930,12 @@
             "archived": false,
             "id": 24375248,
             "language": "Rust",
-            "last_commit": "2026-08-27T22:05:15Z",
+            "last_commit": "2026-08-28T19:02:24Z",
             "owner": "stacks-network",
             "repo": "stacks-core",
             "stars": 3062
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "stacks-blockchain (🥇30 · ⭐ 2.9K) - The Stacks blockchain implementation. GPL-3.0"
@@ -5686,7 +5956,8 @@
             "owner": "stacks-network",
             "repo": "stacks",
             "stars": 2056
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "stacks (🥈17 · ⭐ 2K) - Overview of Bitcoins Stacks layer. Unlicensed"
@@ -5707,7 +5978,8 @@
             "owner": "graphprotocol",
             "repo": "graph-node",
             "stars": 3146
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "graph-node (🥇26 · ⭐ 2.8K) - Graph Node indexes data from blockchains such as Ethereum and.. Apache-2"
@@ -5724,11 +5996,12 @@
             "archived": false,
             "id": 137467117,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T15:09:11Z",
+            "last_commit": "2026-08-28T04:31:19Z",
             "owner": "graphprotocol",
             "repo": "graph-tooling",
             "stars": 423
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "graph-tooling (🥇24 · ⭐ 370) - Monorepo for various tools used by subgraph developers. Apache-2"
@@ -5749,7 +6022,8 @@
             "owner": "graphprotocol",
             "repo": "indexer",
             "stars": 260
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "graphprotocol/indexer (🥇24 · ⭐ 230) - Graph Protocol indexer components and infrastructure. MIT"
@@ -5770,7 +6044,8 @@
             "owner": "graphprotocol",
             "repo": "contracts",
             "stars": 372
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "graphprotocol/contracts (🥈19 · ⭐ 320) - Contracts repository for The Graph protocol. GPL-2.0"
@@ -5787,11 +6062,12 @@
             "archived": false,
             "id": 233632633,
             "language": "Rust",
-            "last_commit": "2026-08-27T18:39:07Z",
+            "last_commit": "2026-08-28T17:07:07Z",
             "owner": "holochain",
             "repo": "holochain",
-            "stars": 1392
-          }
+            "stars": 1393
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "holochain (🥇26 · ⭐ 1.1K) - The current, performant & industrial strength version of.. Unlicensed"
@@ -5812,7 +6088,8 @@
             "owner": "holochain",
             "repo": "launcher",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "launcher (🥈18 · ⭐ 260) - Desktop launcher to install and use Holochain apps locally. Unlicensed"
@@ -5833,7 +6110,8 @@
             "owner": "holochain",
             "repo": "holochain-client-js",
             "stars": 266
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "holochain-client-js (🥈17 · ⭐ 260) - A JavaScript client for the Holochain Conductor API. Unlicensed"
@@ -5850,11 +6128,12 @@
             "archived": false,
             "id": 234530887,
             "language": "Go",
-            "last_commit": "2026-08-27T19:28:09Z",
+            "last_commit": "2026-08-28T11:35:23Z",
             "owner": "ethersphere",
             "repo": "bee",
             "stars": 1482
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "ethersphere/bee (🥇30 · ⭐ 1.4K) - Bee is a Swarm client implemented in Go. Its the basic.. BSD-3"
@@ -5875,7 +6154,8 @@
             "owner": "lbryio",
             "repo": "lbry.com",
             "stars": 261
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "lbry.com (🥈18 · ⭐ 260 · 💤) - lbry.com, the website for the LBRY protocol. MIT"
@@ -5896,7 +6176,8 @@
             "owner": "aragon",
             "repo": "use-wallet",
             "stars": 729
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "use-wallet (🥇23 · ⭐ 740 · 💤) - useWallet() All-in-one solution to connect a dapp to an Ethereum.. MIT"
@@ -5917,7 +6198,8 @@
             "owner": "aragon",
             "repo": "client",
             "stars": 826
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "client (🥈20 · ⭐ 830 · 💤) - (Aragon 1) Create and manage decentralized organizations on.. AGPL-3.0"
@@ -5934,11 +6216,12 @@
             "archived": false,
             "id": 99802036,
             "language": "Erlang",
-            "last_commit": "2026-08-27T22:34:58Z",
+            "last_commit": "2026-08-28T14:15:15Z",
             "owner": "aeternity",
             "repo": "aeternity",
             "stars": 1085
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "aeternity (🥇25 · ⭐ 1.1K) - ternity blockchain - scalable blockchain for the people - smart.. ISC"
@@ -5959,7 +6242,8 @@
             "owner": "aeternity",
             "repo": "protocol",
             "stars": 210
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "aeternity/protocol (🥈15 · ⭐ 200) - Specification of the ternity blockchain protocol. Unlicensed"
@@ -5980,7 +6264,8 @@
             "owner": "protofire",
             "repo": "solhint",
             "stars": 1127
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "solhint (🥇30 · ⭐ 1K) - Solhint is an open-source project to provide a linting utility for Solidity.. MIT"
@@ -6001,7 +6286,8 @@
             "owner": "ArweaveTeam",
             "repo": "arweave",
             "stars": 1072
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "arweave (🥇22 · ⭐ 890) - The Arweave server and App Developer Toolkit. GPL-2.0"
@@ -6018,11 +6304,12 @@
             "archived": false,
             "id": 157877072,
             "language": "TypeScript",
-            "last_commit": "2025-04-01T04:24:06Z",
+            "last_commit": "2026-08-28T11:30:48Z",
             "owner": "ArweaveTeam",
             "repo": "arweave-js",
             "stars": 633
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "arweave-js (🥈19 · ⭐ 580) - Browser and Nodejs client for general interaction with the arweave.. MIT"
@@ -6043,7 +6330,8 @@
             "owner": "rocket-pool",
             "repo": "rocketpool",
             "stars": 985
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "rocketpool (🥈20 · ⭐ 870 · 💤) - Decentralised Ethereum Liquid Staking Protocol. GPL-3.0"
@@ -6064,7 +6352,8 @@
             "owner": "storj",
             "repo": "drpc",
             "stars": 1631
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "drpc (🥈15 · ⭐ 1.4K) - drpc is a lightweight, drop-in replacement for gRPC. MIT"
@@ -6085,7 +6374,8 @@
             "owner": "skycoin",
             "repo": "skycoin",
             "stars": 588
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "skycoin (🥈21 · ⭐ 590 · 💤) - Skycoin Core and Wallet. Unlicensed"
@@ -6106,7 +6396,8 @@
             "owner": "raiden-network",
             "repo": "raiden",
             "stars": 1833
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "raiden (🥇24 · ⭐ 1.8K · 💤) - Raiden Network. Unlicensed"
@@ -6127,7 +6418,8 @@
             "owner": "AElfProject",
             "repo": "AElf",
             "stars": 1266
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "AElf (🥇29 · ⭐ 820) - A scalable cloud computing blockchain platform. MIT"
@@ -6148,7 +6440,8 @@
             "owner": "handshake-org",
             "repo": "hsd",
             "stars": 2073
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "hsd (🥇22 · ⭐ 1.9K) - Handshake Daemon & Full Node. Unlicensed"
@@ -6169,7 +6462,8 @@
             "owner": "handshake-org",
             "repo": "hnsd",
             "stars": 309
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "hnsd (🥈15 · ⭐ 280) - Handshake SPV name resolver. Unlicensed"
@@ -6190,7 +6484,8 @@
             "owner": "bittorrent",
             "repo": "go-btfs",
             "stars": 301
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "go-btfs (🥈21 · ⭐ 210) - BTFS - The First Scalable Decentralized Storage System - A.. Unlicensed"
@@ -6211,7 +6506,8 @@
             "owner": "PlatONnetwork",
             "repo": "PlatON-Go",
             "stars": 426
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "PlatON-Go (🥇24 · ⭐ 450) - Golang implementation of the PlatON protocol. LGPL-3.0"
@@ -6232,7 +6528,8 @@
             "owner": "loomnetwork",
             "repo": "loom-js",
             "stars": 202
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "loom-js (🥈19 · ⭐ 200 · 💤) - JS library for building browser apps & NodeJS services that interact.. BSD-3"
@@ -6253,7 +6550,8 @@
             "owner": "openhive-network",
             "repo": "hive",
             "stars": 377
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "openhive-network/hive (🥈17 · ⭐ 320) - Fast. Scalable. Powerful. The Blockchain for Web3. Unlicensed"
@@ -6274,7 +6572,8 @@
             "owner": "crustio",
             "repo": "crust",
             "stars": 538
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "crust (🥈18 · ⭐ 490) - Official Rust implementation of the Crust protocol. Apache-2"
@@ -6295,7 +6594,8 @@
             "owner": "lidofinance",
             "repo": "core",
             "stars": 496
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "lido-dao (🥈18 · ⭐ 350) - Lido DAO smart contracts. GPL-3.0"
@@ -6316,7 +6616,8 @@
             "owner": "decred",
             "repo": "dcrd",
             "stars": 775
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "dcrd (🥇29 · ⭐ 730) - Decred daemon in Go (golang). ISC"
@@ -6337,7 +6638,8 @@
             "owner": "decred",
             "repo": "dcrwallet",
             "stars": 239
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "dcrwallet (🥇24 · ⭐ 210) - A secure Decred wallet daemon written in Go (golang). ISC"
@@ -6358,7 +6660,8 @@
             "owner": "scrtlabs",
             "repo": "SecretNetwork",
             "stars": 584
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "SecretNetwork (🥇29 · ⭐ 520) - The Secret Network. Unlicensed"
@@ -6375,11 +6678,12 @@
             "archived": false,
             "id": 19316619,
             "language": "C++",
-            "last_commit": "2026-08-27T18:00:47Z",
+            "last_commit": "2026-08-28T07:58:27Z",
             "owner": "monero-project",
             "repo": "monero",
-            "stars": 10804
-          }
+            "stars": 10805
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "monero (🥇31 · ⭐ 8.7K) - Monero: the secure, private, untraceable cryptocurrency. Unlicensed"
@@ -6399,8 +6703,9 @@
             "last_commit": "2026-08-06T07:09:30Z",
             "owner": "monero-project",
             "repo": "monero-gui",
-            "stars": 2289
-          }
+            "stars": 2291
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "monero-gui (🥇24 · ⭐ 1.7K) - Monero: the secure, private, untraceable cryptocurrency. Unlicensed"
@@ -6421,7 +6726,8 @@
             "owner": "monero-project",
             "repo": "monero-site",
             "stars": 344
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "monero-site (🥈20 · ⭐ 260) - BSD-3"
@@ -6442,7 +6748,8 @@
             "owner": "zcash",
             "repo": "zcash",
             "stars": 5484
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "zcash (🥇27 · ⭐ 4.9K) - Zcash - Internet Money. Unlicensed"
@@ -6459,11 +6766,12 @@
             "archived": false,
             "id": 85334928,
             "language": "Rust",
-            "last_commit": "2026-08-27T23:40:44Z",
+            "last_commit": "2026-08-28T23:11:16Z",
             "owner": "zcash",
             "repo": "librustzcash",
             "stars": 398
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "librustzcash (🥇25 · ⭐ 320) - Rust-language assets for Zcash. Unlicensed"
@@ -6484,7 +6792,8 @@
             "owner": "zcash",
             "repo": "halo2",
             "stars": 916
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "halo2 (🥈19 · ⭐ 670) - The Halo2 zero-knowledge proving system. Unlicensed"
@@ -6505,7 +6814,8 @@
             "owner": "zcash",
             "repo": "zips",
             "stars": 305
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "zips (🥈19 · ⭐ 270) - Zcash Improvement Proposals. MIT"
@@ -6526,7 +6836,8 @@
             "owner": "oxen-io",
             "repo": "session-desktop",
             "stars": 1569
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "session-desktop (🥇30 · ⭐ 1.4K) - Session Desktop - Onion routing based messenger. GPL-3.0"
@@ -6547,7 +6858,8 @@
             "owner": "oxen-io",
             "repo": "session-android",
             "stars": 1938
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "session-android (🥇28 · ⭐ 1.7K) - A private messenger for Android. GPL-3.0"
@@ -6568,7 +6880,8 @@
             "owner": "oxen-io",
             "repo": "lokinet",
             "stars": 2085
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "lokinet (🥇23 · ⭐ 1.7K · 💤) - Lokinet is an anonymous, decentralized and IP based overlay.. GPL-3.0"
@@ -6589,7 +6902,8 @@
             "owner": "oxen-io",
             "repo": "session-ios",
             "stars": 425
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "session-ios (🥇22 · ⭐ 380) - A private messenger for iOS. GPL-3.0"
@@ -6610,7 +6924,8 @@
             "owner": "HorizenOfficial",
             "repo": "zen",
             "stars": 274
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "zen (🥇22 · ⭐ 260) - Horizen. Unlicensed"
@@ -6631,7 +6946,8 @@
             "owner": "ergoplatform",
             "repo": "ergo",
             "stars": 520
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "ergo (🥇24 · ⭐ 500) - Ergo protocol description & reference client implementation. CC0-1.0"
@@ -6652,7 +6968,8 @@
             "owner": "mobilecoinfoundation",
             "repo": "mobilecoin",
             "stars": 1172
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "mobilecoin (🥇24 · ⭐ 1.2K) - Private payments for mobile devices. Unlicensed"
@@ -6669,11 +6986,12 @@
             "archived": false,
             "id": 222721751,
             "language": "Rust",
-            "last_commit": "2026-08-27T12:08:44Z",
+            "last_commit": "2026-08-28T08:20:58Z",
             "owner": "dusk-network",
             "repo": "plonk",
             "stars": 643
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "plonk (🥇22 · ⭐ 520) - Pure Rust implementation of the PLONK ZKProof System done by the Dusk-.. MPL-2.0"
@@ -6690,11 +7008,12 @@
             "archived": false,
             "id": 237962641,
             "language": "Rust",
-            "last_commit": "2026-08-27T14:49:03Z",
+            "last_commit": "2026-08-28T09:58:06Z",
             "owner": "dusk-network",
             "repo": "Poseidon252",
             "stars": 221
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "Poseidon252 (🥈20 · ⭐ 200) - Reference implementation for the Poseidon Snark-friendly Hash.. MPL-2.0"
@@ -6715,7 +7034,8 @@
             "owner": "DimensionDev",
             "repo": "Maskbook",
             "stars": 1584
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "Maskbook (🥇27 · ⭐ 1.5K) - The portal to the new, open Internet. ([I:b]). AGPL-3.0"
@@ -6732,11 +7052,12 @@
             "archived": false,
             "id": 50223128,
             "language": "C++",
-            "last_commit": "2026-07-30T23:38:10Z",
+            "last_commit": "2026-08-28T22:07:46Z",
             "owner": "vergecurrency",
             "repo": "verge",
             "stars": 1561
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "verge (🥇28 · ⭐ 1.4K) - Official Verge Core Source Code Repository. MIT"
@@ -6757,7 +7078,8 @@
             "owner": "nucypher",
             "repo": "nucypher",
             "stars": 706
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "nucypher (🥇26 · ⭐ 690 · 📈) - Threshold Access Control (TACo) runtimes for the Threshold.. AGPL-3.0"
@@ -6778,7 +7100,8 @@
             "owner": "BeamMW",
             "repo": "beam",
             "stars": 721
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "BeamMW/beam (🥇27 · ⭐ 700) - Beam: Scalable Confidential Cryptocurrency. Leading the way to.. Apache-2"
@@ -6799,7 +7122,8 @@
             "owner": "vertcoin-project",
             "repo": "vertcoin-core",
             "stars": 351
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "vertcoin-core (🥇22 · ⭐ 350 · 💤) - A digital currency with mining decentralisation and ASIC.. MIT"
@@ -6816,11 +7140,12 @@
             "archived": false,
             "id": 67837600,
             "language": "C++",
-            "last_commit": "2026-08-27T19:16:02Z",
+            "last_commit": "2026-08-28T13:47:04Z",
             "owner": "firoorg",
             "repo": "firo",
             "stars": 794
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "firoorg/firo (🥇26 · ⭐ 710) - The privacy-focused cryptocurrency. MIT"
@@ -6837,11 +7162,12 @@
             "archived": false,
             "id": 286462146,
             "language": "Rust",
-            "last_commit": "2026-08-27T17:47:27Z",
+            "last_commit": "2026-08-28T08:45:55Z",
             "owner": "hoprnet",
             "repo": "hoprnet",
             "stars": 258
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "hoprnet (🥇23 · ⭐ 210) - HOPR is an open incentivized mixnet which enables privacy-preserving.. GPL-3.0"
@@ -6862,7 +7188,8 @@
             "owner": "Uniswap",
             "repo": "interface",
             "stars": 5532
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "interface (🥇26 · ⭐ 4.8K) - Open source interfaces for the Uniswap protocol. GPL-3.0"
@@ -6883,7 +7210,8 @@
             "owner": "Uniswap",
             "repo": "web3-react",
             "stars": 5684
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "web3-react (🥇25 · ⭐ 5.5K · 💤) - A simple, maximally extensible, dependency minimized.. GPL-3.0"
@@ -6904,7 +7232,8 @@
             "owner": "Uniswap",
             "repo": "default-token-list",
             "stars": 417
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "default-token-list (🥈18 · ⭐ 310) - The Uniswap default token list. GPL-3.0"
@@ -6924,8 +7253,9 @@
             "last_commit": "2026-03-10T19:41:15Z",
             "owner": "Uniswap",
             "repo": "token-lists",
-            "stars": 1724
-          }
+            "stars": 1725
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "token-lists (🥈17 · ⭐ 1.3K) - The Token Lists specification. MIT"
@@ -6946,7 +7276,8 @@
             "owner": "Uniswap",
             "repo": "smart-order-router",
             "stars": 516
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "smart-order-router (🥈17 · ⭐ 380) - GPL-3.0"
@@ -6967,7 +7298,8 @@
             "owner": "Uniswap",
             "repo": "v3-periphery",
             "stars": 1333
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "v3-periphery (🥈16 · ⭐ 1.1K · 💤) - Peripheral smart contracts for interacting with Uniswap v3. GPL-2.0"
@@ -6988,7 +7320,8 @@
             "owner": "Uniswap",
             "repo": "v3-subgraph",
             "stars": 377
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "v3-subgraph (🥈16 · ⭐ 320) - Subgraph for Uniswap V3. GPL-3.0"
@@ -7009,7 +7342,8 @@
             "owner": "Uniswap",
             "repo": "v3-sdk",
             "stars": 564
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "v3-sdk (🥈15 · ⭐ 550) - An SDK for building applications on top of Uniswap V3. MIT"
@@ -7030,7 +7364,8 @@
             "owner": "Uniswap",
             "repo": "v2-sdk",
             "stars": 437
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "v2-sdk (🥈15 · ⭐ 420) - An SDK for building applications on top of Uniswap V2. MIT"
@@ -7051,7 +7386,8 @@
             "owner": "Uniswap",
             "repo": "v2-subgraph",
             "stars": 436
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "v2-subgraph (🥈15 · ⭐ 400) - Uniswap V2 subgraph. GPL-3.0"
@@ -7072,7 +7408,8 @@
             "owner": "Uniswap",
             "repo": "v3-staker",
             "stars": 380
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "v3-staker (🥈15 · ⭐ 350) - Canonical liquidity mining contract for Uniswap V3. GPL-3.0"
@@ -7093,7 +7430,8 @@
             "owner": "Uniswap",
             "repo": "info",
             "stars": 329
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "info (🥈15 · ⭐ 320) - Uniswap v1+v2 analytics. GPL-3.0"
@@ -7113,8 +7451,9 @@
             "last_commit": "2026-08-19T08:06:45Z",
             "owner": "osmosis-labs",
             "repo": "osmosis",
-            "stars": 960
-          }
+            "stars": 961
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "osmosis (🥇31 · ⭐ 870) - The AMM Laboratory. Apache-2"
@@ -7135,7 +7474,8 @@
             "owner": "osmosis-labs",
             "repo": "osmosis-frontend",
             "stars": 247
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "osmosis-frontend (🥇25 · ⭐ 210) - Web interface for Osmosis Zone. Apache-2"
@@ -7152,11 +7492,12 @@
             "archived": false,
             "id": 289845062,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T23:40:27Z",
+            "last_commit": "2026-08-28T23:06:36Z",
             "owner": "sushi-labs",
             "repo": "sushiswap",
             "stars": 1941
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "sushiswap (🥇27 · ⭐ 1.9K) - Sushi 2.0. MIT"
@@ -7177,7 +7518,8 @@
             "owner": "1inch",
             "repo": "limit-order-protocol",
             "stars": 312
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "limit-order-protocol (🥈16 · ⭐ 220) - MIT"
@@ -7198,7 +7540,8 @@
             "owner": "balancer",
             "repo": "balancer-v2-monorepo",
             "stars": 364
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "balancer-v2-monorepo (🥈20 · ⭐ 290) - Balancer V2 Monorepo. GPL-3.0"
@@ -7219,7 +7562,8 @@
             "owner": "curvefi",
             "repo": "curve-dao-contracts",
             "stars": 362
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "curve-dao-contracts (🥈16 · ⭐ 340 · 💤) - Vyper contracts to be used by Curve DAO. MIT"
@@ -7240,7 +7584,8 @@
             "owner": "bancorprotocol",
             "repo": "contracts-solidity",
             "stars": 897
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "contracts-solidity (🥈17 · ⭐ 830 · 💤) - Bancor Protocol Contracts. Unlicensed"
@@ -7257,11 +7602,12 @@
             "archived": false,
             "id": 365701873,
             "language": "Rust",
-            "last_commit": "2026-08-27T22:51:03Z",
+            "last_commit": "2026-08-28T19:54:43Z",
             "owner": "dfinity",
             "repo": "ic",
             "stars": 1786
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "ic (🥇26 · ⭐ 1.5K) - Internet Computer blockchain source: the client/replica software run.. Unlicensed"
@@ -7282,7 +7628,8 @@
             "owner": "dfinity",
             "repo": "candid",
             "stars": 301
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "candid (🥇26 · ⭐ 270) - Candid Library for the Internet Computer. Apache-2"
@@ -7299,11 +7646,12 @@
             "archived": false,
             "id": 133029963,
             "language": "OCaml",
-            "last_commit": "2026-08-27T11:44:02Z",
+            "last_commit": "2026-08-28T12:05:01Z",
             "owner": "caffeinelabs",
             "repo": "motoko",
             "stars": 589
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "motoko (🥇25 · ⭐ 490) - Simple high-level language for writing Internet Computer canisters. Apache-2"
@@ -7320,11 +7668,12 @@
             "archived": false,
             "id": 356347737,
             "language": "Rust",
-            "last_commit": "2026-08-27T22:19:06Z",
+            "last_commit": "2026-08-28T20:08:20Z",
             "owner": "dfinity",
             "repo": "internet-identity",
-            "stars": 532
-          }
+            "stars": 533
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "internet-identity (🥇23 · ⭐ 370) - Internet Identity, a blockchain authentication system.. Unlicensed"
@@ -7345,7 +7694,8 @@
             "owner": "dfinity",
             "repo": "examples",
             "stars": 613
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "dfinity/examples (🥈20 · ⭐ 500) - Example applications, microservices, and code samples for.. Apache-2"
@@ -7366,7 +7716,8 @@
             "owner": "caffeinelabs",
             "repo": "motoko-base",
             "stars": 492
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "motoko-base (🥈15 · ⭐ 480) - The Motoko base library. Apache-2"
@@ -7387,7 +7738,8 @@
             "owner": "nervosnetwork",
             "repo": "ckb",
             "stars": 1219
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "ckb (🥇32 · ⭐ 1.1K) - The Nervos CKB is a public permissionless blockchain, and the layer 1 of.. MIT"
@@ -7407,8 +7759,9 @@
             "last_commit": "2026-08-21T07:28:59Z",
             "owner": "nervosnetwork",
             "repo": "ckb-vm",
-            "stars": 422
-          }
+            "stars": 423
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "ckb-vm (🥇22 · ⭐ 340) - CKBs vm, based on open source RISC-V ISA. MIT"
@@ -7429,7 +7782,8 @@
             "owner": "nervosnetwork",
             "repo": "rfcs",
             "stars": 270
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "rfcs (🥈17 · ⭐ 260) - This repository contains proposals, standards and documentations related to.. MIT"
@@ -7446,11 +7800,12 @@
             "archived": false,
             "id": 226880692,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T21:54:19Z",
+            "last_commit": "2026-08-28T14:25:13Z",
             "owner": "decentraland",
             "repo": "marketplace",
-            "stars": 1197
-          }
+            "stars": 1198
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "marketplace (🥇24 · ⭐ 1.1K) - Decentralands NFT Marketplace. Unlicensed"
@@ -7471,7 +7826,8 @@
             "owner": "Conflux-Chain",
             "repo": "conflux-rust",
             "stars": 718
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "conflux-rust (🥇24 · ⭐ 640) - The official Rust implementation of Conflux protocol... GPL-3.0"
@@ -7492,7 +7848,8 @@
             "owner": "aavegotchi",
             "repo": "aavegotchi-contracts",
             "stars": 324
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "aavegotchi-contracts (🥈17 · ⭐ 310) - Aavegotchi diamond and its facets, deployment and.. MIT"
@@ -7513,7 +7870,8 @@
             "owner": "iotaledger",
             "repo": "wasp",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "wasp (🥇28 · ⭐ 290) - Node for IOTA Smart Contracts. Apache-2"
@@ -7534,7 +7892,8 @@
             "owner": "iotaledger",
             "repo": "hornet",
             "stars": 303
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "hornet (🥇25 · ⭐ 310) - HORNET is a powerful IOTA fullnode software. Apache-2"
@@ -7551,11 +7910,12 @@
             "archived": false,
             "id": 260261978,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T20:26:43Z",
+            "last_commit": "2026-08-28T20:54:54Z",
             "owner": "iotaledger",
             "repo": "firefly",
             "stars": 478
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "firefly (🥇24 · ⭐ 480) - The official IOTA and Shimmer wallet. Apache-2"
@@ -7576,7 +7936,8 @@
             "owner": "iotaledger-archive",
             "repo": "goshimmer",
             "stars": 381
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "goshimmer (🥇24 · ⭐ 390 · 💤) - Prototype implementation of IOTA 2.0. Apache-2"
@@ -7597,7 +7958,8 @@
             "owner": "iotaledger",
             "repo": "iota.go",
             "stars": 348
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "iota.go (🥇24 · ⭐ 360) - IOTA Go API Library. Find documentation on.. MIT"
@@ -7618,7 +7980,8 @@
             "owner": "iotaledger",
             "repo": "identity",
             "stars": 347
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "identity.rs (🥇24 · ⭐ 290) - Implementation of the Decentralized Identity standards such as.. Apache-2"
@@ -7639,7 +8002,8 @@
             "owner": "iotaledger",
             "repo": "stronghold.rs",
             "stars": 662
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "stronghold.rs (🥈21 · ⭐ 500 · 💤) - Stronghold is a secret management engine written in rust. Apache-2"
@@ -7660,7 +8024,8 @@
             "owner": "iotaledger-archive",
             "repo": "iota.rs",
             "stars": 221
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "iota.rs (🥈19 · ⭐ 230 · 💤) - Official IOTA Rust library. Apache-2"
@@ -7681,7 +8046,8 @@
             "owner": "helium",
             "repo": "gateway-rs",
             "stars": 298
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "gateway-rs (🥇24 · ⭐ 270 · 💤) - The Helium Gateway. Apache-2"
@@ -7702,7 +8068,8 @@
             "owner": "helium",
             "repo": "HIP",
             "stars": 588
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "HIP (🥈20 · ⭐ 580) - Helium Improvement Proposals. Apache-2"
@@ -7723,7 +8090,8 @@
             "owner": "helium",
             "repo": "helium-wallet-rs",
             "stars": 277
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "helium-wallet-rs (🥈20 · ⭐ 250) - Rust implementation of a helium wallet CLI. Apache-2"
@@ -7740,11 +8108,12 @@
             "archived": false,
             "id": 136573514,
             "language": "Go",
-            "last_commit": "2026-08-24T21:04:45Z",
+            "last_commit": "2026-08-28T09:04:25Z",
             "owner": "vechain",
             "repo": "thor",
             "stars": 810
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "thor (🥇23 · ⭐ 790) - A general purpose blockchain highly compatible with Ethereums ecosystem. LGPL-3.0"
@@ -7761,11 +8130,12 @@
             "archived": false,
             "id": 130281002,
             "language": "Go",
-            "last_commit": "2026-08-27T02:29:16Z",
+            "last_commit": "2026-08-28T15:41:13Z",
             "owner": "iotexproject",
             "repo": "iotex-core",
             "stars": 1612
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "iotex-core (🥇29 · ⭐ 1.5K) - Official implementation of IoTeX blockchain protocol in Go. Apache-2"
@@ -7786,7 +8156,8 @@
             "owner": "streamr-dev",
             "repo": "network",
             "stars": 577
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "network (🥈18 · ⭐ 570) - Monorepo containing all the main components of Streamr Network. Unlicensed"
@@ -7807,7 +8178,8 @@
             "owner": "iost-official",
             "repo": "go-iost",
             "stars": 567
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "go-iost (🥈18 · ⭐ 570) - Official Go implementation of the IOST blockchain. LGPL-3.0"
@@ -7828,7 +8200,8 @@
             "owner": "airalab",
             "repo": "robonomics",
             "stars": 227
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "robonomics (🥈18 · ⭐ 220 · 💤) - Robonomics node implementation for Polkadot ecosystem. Kusama.. Apache-2"
@@ -7845,11 +8218,12 @@
             "archived": false,
             "id": 238797860,
             "language": "Go",
-            "last_commit": "2026-08-27T20:52:32Z",
+            "last_commit": "2026-08-28T20:22:56Z",
             "owner": "ethereum-optimism",
             "repo": "optimism",
             "stars": 6466
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "optimism (🥇35 · ⭐ 5.2K) - Optimism is Ethereum, scaled. MIT"
@@ -7870,7 +8244,8 @@
             "owner": "ethereum-optimism",
             "repo": "op-geth",
             "stars": 399
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "op-geth (🥇23 · ⭐ 240) - LGPL-3.0"
@@ -7891,7 +8266,8 @@
             "owner": "ethereum-optimism",
             "repo": "ethereum-optimism.github.io",
             "stars": 338
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "ethereum-optimism.github.io (🥈21 · ⭐ 240) - Unified token list for OP Mainnet, Base, and other OP.. Unlicensed"
@@ -7912,7 +8288,8 @@
             "owner": "ethereum-optimism",
             "repo": "community-hub",
             "stars": 438
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "community-hub (🥈17 · ⭐ 310) - Optimism Governance Docs. MIT"
@@ -7933,7 +8310,8 @@
             "owner": "ethereum-optimism",
             "repo": "cannon",
             "stars": 583
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "cannon (🥈15 · ⭐ 580 · 💤) - On chain interactive fault prover for Ethereum. MIT"
@@ -7950,11 +8328,12 @@
             "archived": false,
             "id": 297778512,
             "language": "Go",
-            "last_commit": "2026-08-27T22:11:51Z",
+            "last_commit": "2026-08-28T17:44:26Z",
             "owner": "onflow",
             "repo": "flow-go",
             "stars": 573
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "flow-go (🥇29 · ⭐ 530) - A fast, secure, and developer-friendly blockchain built to support.. AGPL-3.0"
@@ -7975,7 +8354,8 @@
             "owner": "onflow",
             "repo": "flow-cli",
             "stars": 209
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "flow-cli (🥇29 · ⭐ 200) - The Flow CLI is a command-line interface that provides useful.. Apache-2"
@@ -7996,7 +8376,8 @@
             "owner": "onflow",
             "repo": "cadence",
             "stars": 548
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "cadence (🥇28 · ⭐ 520) - Cadence, the resource-oriented smart contract programming language. Apache-2"
@@ -8017,7 +8398,8 @@
             "owner": "onflow",
             "repo": "fcl-js",
             "stars": 333
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "fcl-js (🥇26 · ⭐ 320) - FCL (Flow Client Library) - The best tool for building JavaScript.. Apache-2"
@@ -8038,7 +8420,8 @@
             "owner": "onflow",
             "repo": "flow-go-sdk",
             "stars": 213
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "flow-go-sdk (🥇25 · ⭐ 210) - Tools for building Go applications on Flow. Apache-2"
@@ -8059,7 +8442,8 @@
             "owner": "onflow",
             "repo": "flow-nft",
             "stars": 457
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "flow-nft (🥈19 · ⭐ 460) - The non-fungible token standard on the Flow blockchain. Unlicense"
@@ -8076,11 +8460,12 @@
             "archived": false,
             "id": 246387644,
             "language": "Go",
-            "last_commit": "2026-08-27T23:45:32Z",
+            "last_commit": "2026-08-28T22:39:33Z",
             "owner": "ava-labs",
             "repo": "avalanchego",
             "stars": 2356
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "avalanchego (🥇34 · ⭐ 2.1K) - Go implementation of an Avalanche node. BSD-3"
@@ -8101,7 +8486,8 @@
             "owner": "ava-labs",
             "repo": "subnet-evm",
             "stars": 273
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "subnet-evm (🥇28 · ⭐ 240) - Launch your own EVM as an Avalanche Subnet. LGPL-3.0"
@@ -8118,11 +8504,12 @@
             "archived": false,
             "id": 235468439,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T20:40:27Z",
+            "last_commit": "2026-08-28T00:15:04Z",
             "owner": "ava-labs",
             "repo": "avalanchejs",
             "stars": 358
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "avalanchejs (🥈19 · ⭐ 310) - The Avalanche Platform JavaScript Library. Unlicensed"
@@ -8143,7 +8530,8 @@
             "owner": "ava-labs",
             "repo": "avalanche-faucet",
             "stars": 495
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "avalanche-faucet (🥈18 · ⭐ 470) - Avalanche Faucet for Fuji Network and Subnets. BSD-3"
@@ -8164,7 +8552,8 @@
             "owner": "ava-labs",
             "repo": "avalanche-wallet",
             "stars": 247
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "avalanche-wallet (🥈15 · ⭐ 230 · 💤) - The Avalanche web wallet. BSD-3"
@@ -8185,7 +8574,8 @@
             "owner": "ProvableHQ",
             "repo": "leo",
             "stars": 4821
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "leo (🥇28 · ⭐ 4.8K) - The Leo Programming Language. A Programming Language for Formally.. GPL-3.0"
@@ -8206,7 +8596,8 @@
             "owner": "ProvableHQ",
             "repo": "sdk",
             "stars": 633
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "aleo (🥇23 · ⭐ 560) - A Software Development Kit (SDK) for Zero-Knowledge Transactions. GPL-3.0"
@@ -8227,7 +8618,8 @@
             "owner": "ProvableHQ",
             "repo": "leo-docs-source",
             "stars": 328
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "AleoHQ/welcome (🥈17 · ⭐ 310) - Welcome to Provable! Zero-Knowledge is Finally Here. GPL-3.0"
@@ -8244,11 +8636,12 @@
             "archived": false,
             "id": 462597790,
             "language": "Rust",
-            "last_commit": "2026-08-27T23:36:40Z",
+            "last_commit": "2026-08-28T23:03:27Z",
             "owner": "aptos-labs",
             "repo": "aptos-core",
-            "stars": 6430
-          }
+            "stars": 6429
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "aptos-core (🥇34 · ⭐ 5.9K) - Aptos is a layer 1 blockchain built to support the.. Unlicensed"
@@ -8269,7 +8662,8 @@
             "owner": "ensdomains",
             "repo": "ens",
             "stars": 1148
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "ens (🥇27 · ⭐ 1.2K · 💤) - Implementations for ENS core functionality: The registry, registrars,.. BSD-2"
@@ -8290,7 +8684,8 @@
             "owner": "ensdomains",
             "repo": "ens-contracts",
             "stars": 724
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "ens-contracts (🥈20 · ⭐ 540) - The core contracts of the ENS protocol. MIT"
@@ -8311,7 +8706,8 @@
             "owner": "ensdomains",
             "repo": "ens-app",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "ens-app (🥈18 · ⭐ 220) - Legacy ENS manager app. BSD-2"
@@ -8332,7 +8728,8 @@
             "owner": "terra-money",
             "repo": "classic-core",
             "stars": 955
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "classic-core (🥈20 · ⭐ 990 · 💤) - GO implementation of the Terra Protocol. Unlicensed"
@@ -8353,7 +8750,8 @@
             "owner": "terra-money",
             "repo": "core",
             "stars": 383
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "terra-money/core (🥈18 · ⭐ 380) - GO implementation of the Terra Protocol. Unlicensed"
@@ -8374,7 +8772,8 @@
             "owner": "terra-money",
             "repo": "terra.js",
             "stars": 256
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "terra.js (🥈17 · ⭐ 260 · 💤) - JavaScript SDK for Terra, written in TypeScript. MIT"
@@ -8391,11 +8790,12 @@
             "archived": false,
             "id": 327696712,
             "language": "Go",
-            "last_commit": "2026-08-27T22:34:54Z",
+            "last_commit": "2026-08-28T21:09:02Z",
             "owner": "celestiaorg",
             "repo": "celestia-app",
             "stars": 416
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "celestia-app (🥇27 · ⭐ 320) - PoS application for the consensus portion of the Celestia.. Apache-2"
@@ -8412,11 +8812,12 @@
             "archived": false,
             "id": 396780483,
             "language": "Go",
-            "last_commit": "2026-08-27T17:34:16Z",
+            "last_commit": "2026-08-28T14:54:41Z",
             "owner": "celestiaorg",
             "repo": "celestia-node",
             "stars": 996
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "celestia-node (🥇26 · ⭐ 900) - Celestia Data Availability Nodes. Apache-2"
@@ -8433,11 +8834,12 @@
             "archived": false,
             "id": 221931137,
             "language": "Go",
-            "last_commit": "2026-08-27T03:07:32Z",
+            "last_commit": "2026-08-28T13:52:17Z",
             "owner": "celestiaorg",
             "repo": "celestia-core",
             "stars": 552
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "celestia-core (🥇26 · ⭐ 460) - Celestia node software based on Tendermint. Apache-2"
@@ -8458,7 +8860,8 @@
             "owner": "metaplex-foundation",
             "repo": "metaplex-program-library",
             "stars": 646
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "metaplex-program-library (🥈20 · ⭐ 570) - Smart contracts maintained by the Metaplex team. Unlicensed"
@@ -8479,7 +8882,8 @@
             "owner": "metaplex-foundation",
             "repo": "js",
             "stars": 376
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "js (🥈15 · ⭐ 350 · 💤) - A JavaScript SDK for interacting with Metaplexs programs. Unlicensed"
@@ -8496,11 +8900,12 @@
             "archived": false,
             "id": 131245808,
             "language": "Kotlin",
-            "last_commit": "2026-08-27T17:37:50Z",
+            "last_commit": "2026-08-28T11:59:00Z",
             "owner": "MixinNetwork",
             "repo": "android-app",
             "stars": 500
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "android-app (🥇23 · ⭐ 450) - Android private messenger, crypto wallet and light node to Mixin.. GPL-3.0"
@@ -8521,7 +8926,8 @@
             "owner": "MixinNetwork",
             "repo": "mixin",
             "stars": 519
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "mixin (🥇22 · ⭐ 500) - The Mixin TEE-BFT-DAG network reference implementation. GPL-3.0"
@@ -8542,7 +8948,8 @@
             "owner": "MixinNetwork",
             "repo": "flutter-plugins",
             "stars": 512
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "flutter-plugins (🥇22 · ⭐ 410) - Flutter plugins used in Mixin Messenger. MIT"
@@ -8559,11 +8966,12 @@
             "archived": false,
             "id": 131245864,
             "language": "Swift",
-            "last_commit": "2026-08-27T14:24:44Z",
+            "last_commit": "2026-08-28T11:51:05Z",
             "owner": "MixinNetwork",
             "repo": "ios-app",
             "stars": 525
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "ios-app (🥈20 · ⭐ 500) - iOS private messenger, crypto wallet and light node to Mixin Network. GPL-3.0"
@@ -8580,11 +8988,12 @@
             "archived": false,
             "id": 232283668,
             "language": "Dart",
-            "last_commit": "2026-08-24T07:08:50Z",
+            "last_commit": "2026-08-28T08:25:04Z",
             "owner": "MixinNetwork",
             "repo": "flutter-app",
-            "stars": 328
-          }
+            "stars": 329
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "flutter-app (🥈19 · ⭐ 270) - Mixin Messenger desktop app for macOS, iPadOS, Linux, and Windows.. GPL-3.0"
@@ -8605,7 +9014,8 @@
             "owner": "celo-org",
             "repo": "celo-monorepo",
             "stars": 803
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "celo-monorepo (🥇28 · ⭐ 680) - Official repository for core projects comprising the Celo.. Apache-2"
@@ -8622,11 +9032,12 @@
             "archived": false,
             "id": 126412552,
             "language": "Go",
-            "last_commit": "2026-08-26T10:55:38Z",
+            "last_commit": "2026-08-28T18:58:08Z",
             "owner": "celo-org",
             "repo": "celo-blockchain",
             "stars": 627
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "celo-blockchain (🥇25 · ⭐ 540) - Official repository for the golang Celo Blockchain. LGPL-3.0"
@@ -8647,7 +9058,8 @@
             "owner": "nimiq",
             "repo": "core-js",
             "stars": 988
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "core-js (🥈20 · ⭐ 990) - Official JavaScript implementation of the Nimiq protocol. Unlicensed"
@@ -8668,7 +9080,8 @@
             "owner": "matter-labs",
             "repo": "zksync",
             "stars": 4924
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "zksync (🥇23 · ⭐ 4.8K · 💤) - zkSync: trustless scaling and privacy engine for Ethereum. Apache-2"
@@ -8689,7 +9102,8 @@
             "owner": "matter-labs",
             "repo": "zksync-web-era-docs",
             "stars": 961
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "zksync-web-v2-docs (🥈21 · ⭐ 970) - zkSync Era Documentation. MIT"
@@ -8710,7 +9124,8 @@
             "owner": "matter-labs",
             "repo": "zksync-wallet-vue",
             "stars": 502
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "zksync-wallet-vue (🥈19 · ⭐ 520) - zkSync Lite web wallet. Apache-2"
@@ -8731,7 +9146,8 @@
             "owner": "matter-labs",
             "repo": "hardhat-zksync",
             "stars": 284
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "hardhat-zksync (🥈19 · ⭐ 280) - Apache-2"
@@ -8751,8 +9167,9 @@
             "last_commit": "2024-08-09T22:35:57Z",
             "owner": "gitcoinco",
             "repo": "web",
-            "stars": 1821
-          }
+            "stars": 1822
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "web (🥈21 · ⭐ 1.8K · 💤) - Grow Open Source. Unlicensed"
@@ -8769,11 +9186,12 @@
             "archived": false,
             "id": 469847426,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:10:14Z",
+            "last_commit": "2026-08-28T13:36:55Z",
             "owner": "passportxyz",
             "repo": "passport",
             "stars": 1226
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "passport (🥈21 · ⭐ 920) - Passport allows users to prove their identity through a secure,.. Unlicensed"
@@ -8794,7 +9212,8 @@
             "owner": "gitcoinco",
             "repo": "grants-stack",
             "stars": 354
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "grants-round (🥈18 · ⭐ 310) - Round Manager & Grant Explorer & Project Builder of the.. Unlicensed"
@@ -8815,7 +9234,8 @@
             "owner": "livepeer",
             "repo": "go-livepeer",
             "stars": 586
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "go-livepeer (🥇26 · ⭐ 530) - Official Go implementation of the Livepeer protocol. MIT"
@@ -8836,7 +9256,8 @@
             "owner": "livepeer",
             "repo": "lpms",
             "stars": 283
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "lpms (🥈16 · ⭐ 280) - Livepeer media server. MIT"
@@ -8853,11 +9274,12 @@
             "archived": false,
             "id": 339785037,
             "language": "Nix",
-            "last_commit": "2026-08-26T09:39:40Z",
+            "last_commit": "2026-08-28T10:28:33Z",
             "owner": "cardano-foundation",
             "repo": "cardano-token-registry",
             "stars": 303
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "cardano-token-registry (🥇22 · ⭐ 260) - Unlicensed"
@@ -8878,7 +9300,8 @@
             "owner": "cardano-foundation",
             "repo": "developer-portal",
             "stars": 436
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "developer-portal (🥈19 · ⭐ 370) - The Cardano Developer Portal. MIT"
@@ -8899,7 +9322,8 @@
             "owner": "cardano-foundation",
             "repo": "CIPs",
             "stars": 567
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "CIPs (🥈15 · ⭐ 460) - CC-BY-4.0"
@@ -8916,11 +9340,12 @@
             "archived": false,
             "id": 158087990,
             "language": "C#",
-            "last_commit": "2026-08-27T18:32:43Z",
+            "last_commit": "2026-08-28T19:04:29Z",
             "owner": "planetarium",
             "repo": "libplanet",
             "stars": 534
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "libplanet (🥇29 · ⭐ 500) - Blockchain in C#/.NET for on-chain, decentralized gaming. LGPL-2.1"
@@ -8937,11 +9362,12 @@
             "archived": false,
             "id": 307293958,
             "language": "C#",
-            "last_commit": "2026-08-27T09:33:17Z",
+            "last_commit": "2026-08-28T08:16:34Z",
             "owner": "planetarium",
             "repo": "NineChronicles",
             "stars": 411
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "NineChronicles (🥈21 · ⭐ 350) - Unity client application for Nine Chronicles, a fully.. AGPL-3.0"
@@ -8962,7 +9388,8 @@
             "owner": "mysteriumnetwork",
             "repo": "node",
             "stars": 1348
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "mysteriumnetwork/node (🥇30 · ⭐ 1.1K) - Mysterium Network Node - official implementation of.. GPL-3.0"
@@ -8983,7 +9410,8 @@
             "owner": "mysteriumnetwork",
             "repo": "mysterium-vpn-mobile",
             "stars": 241
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "mysterium-vpn-mobile (🥈20 · ⭐ 200) - Mobile client for Mysterium Network. GPL-3.0"
@@ -9004,7 +9432,8 @@
             "owner": "JoinColony",
             "repo": "colonyNetwork",
             "stars": 446
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "colonyNetwork (🥈20 · ⭐ 440) - Colony Network smart contracts. GPL-3.0"
@@ -9021,11 +9450,12 @@
             "archived": false,
             "id": 219012610,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T20:23:08Z",
+            "last_commit": "2026-08-28T22:01:14Z",
             "owner": "Agoric",
             "repo": "agoric-sdk",
             "stars": 357
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "agoric-sdk (🥇30 · ⭐ 300) - monorepo for the Agoric Javascript smart contract platform. Apache-2"
@@ -9045,8 +9475,9 @@
             "last_commit": "2026-08-26T18:36:57Z",
             "owner": "ton-blockchain",
             "repo": "ton",
-            "stars": 4135
-          }
+            "stars": 4136
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "ton (🥇22 · ⭐ 2.5K) - Main TON monorepo. Unlicensed"
@@ -9067,7 +9498,8 @@
             "owner": "Blockstream",
             "repo": "esplora",
             "stars": 1261
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "esplora (🥈17 · ⭐ 950) - Explorer for Bitcoin and Liquid. MIT"
@@ -9087,8 +9519,9 @@
             "last_commit": "2026-08-25T10:28:19Z",
             "owner": "Blockstream",
             "repo": "Jade",
-            "stars": 489
-          }
+            "stars": 490
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "Jade (🥈17 · ⭐ 280) - Jade hardware wallet. MIT"
@@ -9109,7 +9542,8 @@
             "owner": "Blockstream",
             "repo": "satellite",
             "stars": 1041
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "satellite (🥈15 · ⭐ 970) - Blockstream Satellite. GPL-3.0"
@@ -9130,7 +9564,8 @@
             "owner": "subquery",
             "repo": "subql",
             "stars": 18752
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "subql (🥇29 · ⭐ 19K) - SubQuery is an Open, Flexible, Fast and Universal data indexing.. GPL-3.0"
@@ -9147,11 +9582,12 @@
             "archived": false,
             "id": 201821771,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T02:15:20Z",
+            "last_commit": "2026-08-28T23:10:19Z",
             "owner": "AudiusProject",
             "repo": "apps",
             "stars": 615
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "audius-protocol (🥇23 · ⭐ 540) - The Audius Protocol - Freedom to share, monetize, and.. Unlicensed"
@@ -9168,11 +9604,12 @@
             "archived": false,
             "id": 39260193,
             "language": "C++",
-            "last_commit": "2026-08-23T18:32:29Z",
+            "last_commit": "2026-08-28T18:32:09Z",
             "owner": "Groestlcoin",
             "repo": "groestlcoin",
             "stars": 705
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "groestlcoin (🥇26 · ⭐ 800) - Groestlcoin Core integration/staging tree. MIT"
@@ -9193,7 +9630,8 @@
             "owner": "connext",
             "repo": "monorepo",
             "stars": 304
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "monorepo (🥇28 · ⭐ 280) - Connext is a modular stack for trust-minimized, generalized communication.. MIT"
@@ -9214,7 +9652,8 @@
             "owner": "klaytn",
             "repo": "klaytn",
             "stars": 368
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "klaytn (🥇26 · ⭐ 370) - Official Go implementation of the Klaytn protocol. LGPL-3.0"
@@ -9231,11 +9670,12 @@
             "archived": false,
             "id": 179163124,
             "language": "Python",
-            "last_commit": "2026-08-27T19:32:19Z",
+            "last_commit": "2026-08-28T14:53:45Z",
             "owner": "hummingbot",
             "repo": "hummingbot",
-            "stars": 19665
-          }
+            "stars": 19687
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "hummingbot (🥇28 · ⭐ 7.5K) - Open source software that helps you create and deploy high-.. Apache-2"
@@ -9256,7 +9696,8 @@
             "owner": "opencog",
             "repo": "atomspace",
             "stars": 992
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "atomspace (🥈21 · ⭐ 790) - The OpenCog (hyper-)graph database and graph rewriting system. Unlicensed"
@@ -9277,7 +9718,8 @@
             "owner": "opencog",
             "repo": "link-grammar",
             "stars": 418
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "link-grammar (🥈20 · ⭐ 380) - The CMU Link Grammar natural language parser. LGPL-2.1"
@@ -9298,7 +9740,8 @@
             "owner": "hop-protocol",
             "repo": "hop",
             "stars": 2824
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "hop (🥇28 · ⭐ 2.8K) - Hop Protocol Monorepo. MIT"
@@ -9315,11 +9758,12 @@
             "archived": false,
             "id": 114581326,
             "language": "OCaml",
-            "last_commit": "2026-08-27T21:23:02Z",
+            "last_commit": "2026-08-28T22:36:11Z",
             "owner": "MinaProtocol",
             "repo": "mina",
             "stars": 2117
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "mina (🥇29 · ⭐ 2K) - Mina is a cryptocurrency protocol with a constant size blockchain,.. Apache-2"
@@ -9340,7 +9784,8 @@
             "owner": "starcoinorg",
             "repo": "starcoin",
             "stars": 1152
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "starcoin (🥇29 · ⭐ 1.4K) - Starcoin - A Move smart contract blockchain network that scales by.. Apache-2"
@@ -9361,7 +9806,8 @@
             "owner": "akash-network",
             "repo": "node",
             "stars": 1108
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "node (🥇24 · ⭐ 860) - Source code for Akash node, a secure, transparent, and peer-to-peer cloud.. Apache-2"
@@ -9378,11 +9824,12 @@
             "archived": false,
             "id": 150581418,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:57:30Z",
+            "last_commit": "2026-08-28T14:59:59Z",
             "owner": "ONEARMY",
             "repo": "community-platform",
             "stars": 1398
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "community-platform (🥇26 · ⭐ 1K) - A platform to build useful communities that aim to tackle.. MIT"
@@ -9399,11 +9846,12 @@
             "archived": false,
             "id": 89913655,
             "language": "C++",
-            "last_commit": "2026-08-27T13:46:20Z",
+            "last_commit": "2026-08-28T13:43:49Z",
             "owner": "Bitcoin-ABC",
             "repo": "bitcoin-abc",
             "stars": 1301
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "bitcoin-abc (🥇30 · ⭐ 1.3K) - Bitcoin ABC develops node software and infrastructure for the eCash.. MIT"
@@ -9424,7 +9872,8 @@
             "owner": "TP-Lab",
             "repo": "tokens",
             "stars": 389
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "TP-Lab/tokens (🥇23 · ⭐ 310) - Token assets for TokenPocket. Unlicensed"
@@ -9441,11 +9890,12 @@
             "archived": false,
             "id": 91470090,
             "language": "Java",
-            "last_commit": "2026-08-27T20:55:27Z",
+            "last_commit": "2026-08-28T21:30:18Z",
             "owner": "rsksmart",
             "repo": "rskj",
             "stars": 693
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "rskj (🥇22 · ⭐ 670) - RSKj is a Java implementation of the RSK protocol. LGPL-3.0"
@@ -9466,7 +9916,8 @@
             "owner": "spacemeshos",
             "repo": "go-spacemesh",
             "stars": 776
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "go-spacemesh (🥇29 · ⭐ 740) - Go Implementation of the Spacemesh protocol full node. MIT"
@@ -9487,7 +9938,8 @@
             "owner": "aurora-is-near",
             "repo": "aurora-engine",
             "stars": 361
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "aurora-engine (🥇22 · ⭐ 320) - Aurora Engine implements an Ethereum Virtual Machine.. Unlicensed"
@@ -9508,7 +9960,8 @@
             "owner": "Near-One",
             "repo": "rainbow-bridge",
             "stars": 328
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "rainbow-bridge (🥈17 · ⭐ 320) - NEAR Ethereum Decentralized Bridge. GPL-3.0"
@@ -9529,7 +9982,8 @@
             "owner": "kaspanet",
             "repo": "kaspad",
             "stars": 528
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "kaspad (🥇25 · ⭐ 430) - Kaspad is the reference full node Kaspa implementation written in Go.. ISC"
@@ -9546,11 +10000,12 @@
             "archived": false,
             "id": 514979191,
             "language": "Rust",
-            "last_commit": "2026-08-25T05:12:46Z",
+            "last_commit": "2026-08-28T04:15:01Z",
             "owner": "kaspanet",
             "repo": "rusty-kaspa",
             "stars": 841
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "rusty-kaspa (🥈20 · ⭐ 360) - Kaspa full-node and related libraries in the Rust programming.. ISC"
@@ -9571,7 +10026,8 @@
             "owner": "irisnet",
             "repo": "irishub",
             "stars": 303
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "irishub (🥇23 · ⭐ 300) - A BPoS blockchain that enables cross-chain interoperability through a.. Apache-2"
@@ -9592,7 +10048,8 @@
             "owner": "dapphub",
             "repo": "dapptools",
             "stars": 2121
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "dapptools (🥈17 · ⭐ 2.1K · 💤) - Dapp, Seth, Hevm, and more. Unlicensed"
@@ -9609,11 +10066,12 @@
             "archived": false,
             "id": 201978761,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T19:02:08Z",
+            "last_commit": "2026-08-28T19:03:23Z",
             "owner": "Superalgos",
             "repo": "Superalgos",
-            "stars": 5626
-          }
+            "stars": 5629
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "Superalgos (🥇27 · ⭐ 3.9K) - Free, open-source crypto trading bot, automated bitcoin /.. Apache-2"
@@ -9634,7 +10092,8 @@
             "owner": "namecoin",
             "repo": "namecoin-core",
             "stars": 476
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "namecoin-core (🥇25 · ⭐ 460) - Namecoin full node + wallet based on the current Bitcoin Core.. MIT"
@@ -9655,7 +10114,8 @@
             "owner": "Phala-Network",
             "repo": "phala-blockchain",
             "stars": 371
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "phala-blockchain (🥇25 · ⭐ 330) - The Phala Network Blockchain, pRuntime and the bridge. Apache-2"
@@ -9676,7 +10136,8 @@
             "owner": "OriginProtocol",
             "repo": "origin",
             "stars": 649
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "OriginProtocol/origin (🥈21 · ⭐ 650 · 💤) - Monorepo for our developer tools and decentralized.. MIT"
@@ -9693,11 +10154,12 @@
             "archived": false,
             "id": 112683472,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T02:17:53Z",
+            "last_commit": "2026-08-28T20:51:34Z",
             "owner": "unlock-protocol",
             "repo": "unlock",
-            "stars": 881
-          }
+            "stars": 882
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "unlock (🥇26 · ⭐ 820) - nlock is a protocol for memberships built on a blockchain. MIT"
@@ -9714,11 +10176,12 @@
             "archived": false,
             "id": 104517377,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T03:19:29Z",
+            "last_commit": "2026-08-28T14:22:21Z",
             "owner": "Adamant-im",
             "repo": "adamant-im",
             "stars": 783
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "adamant-im (🥈20 · ⭐ 560) - ADAMANT Decentralized Messenger. Progressive Web Application (PWA). GPL-3.0"
@@ -9739,7 +10202,8 @@
             "owner": "saber-hq",
             "repo": "stable-swap",
             "stars": 419
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "stable-swap (🥈17 · ⭐ 400) - StableSwap by Saber: an automated market maker for mean-.. Apache-2"
@@ -9760,7 +10224,8 @@
             "owner": "AcalaNetwork",
             "repo": "Acala",
             "stars": 760
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "Acala (🥈21 · ⭐ 730) - Acala - cross-chain DeFi hub and stablecoin based on Substrate for.. GPL-3.0"
@@ -9777,11 +10242,12 @@
             "archived": false,
             "id": 123174249,
             "language": "Shell",
-            "last_commit": "2026-08-21T08:11:24Z",
+            "last_commit": "2026-08-28T11:45:16Z",
             "owner": "dappnode",
             "repo": "DAppNode",
             "stars": 625
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "DAppNode (🥈21 · ⭐ 570) - General repository of the project dappnode. GPL-3.0"
@@ -9798,11 +10264,12 @@
             "archived": false,
             "id": 23332350,
             "language": "HTML",
-            "last_commit": "2026-08-27T21:08:10Z",
+            "last_commit": "2026-08-28T14:36:09Z",
             "owner": "gridcoin-community",
             "repo": "Gridcoin-Research",
             "stars": 611
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "Gridcoin-Research (🥇25 · ⭐ 580) - Gridcoin-Research. MIT"
@@ -9823,7 +10290,8 @@
             "owner": "shapeshift",
             "repo": "hdwallet",
             "stars": 208
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "shapeshift/hdwallet (🥈15 · ⭐ 210) - A library for interacting with hardware wallets from JS/TS. MIT"
@@ -9844,7 +10312,8 @@
             "owner": "Manta-Network",
             "repo": "Manta",
             "stars": 236
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "Manta (🥇23 · ⭐ 240) - The main repo for manta blockchain nodes. GPL-3.0"
@@ -9861,11 +10330,12 @@
             "archived": false,
             "id": 365367120,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T23:23:55Z",
+            "last_commit": "2026-08-28T12:50:27Z",
             "owner": "sunflower-land",
             "repo": "sunflower-land",
-            "stars": 1634
-          }
+            "stars": 1635
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "sunflower-land (🥇22 · ⭐ 1.5K) - Unlicensed"
@@ -9886,7 +10356,8 @@
             "owner": "okcashpro",
             "repo": "okcash",
             "stars": 431
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "okcash (🥇24 · ⭐ 1.1K) - Okcash: Your Eco-Friendly, Multi-Chain Digital Currency. Open-source and.. MIT"
@@ -9907,7 +10378,8 @@
             "owner": "zeriontech",
             "repo": "defi-sdk",
             "stars": 842
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "defi-sdk (🥈15 · ⭐ 780) - DeFi SDK Makes Money Lego Work. LGPL-3.0"
@@ -9921,14 +10393,15 @@
           "description": "(👨‍💻 31 · 🔀 84 · 📥 3.2K · 📦 5 · 📋 390 - 20% open · ⏱️ 27.04.2024):",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "id": 123866297,
             "language": "TypeScript",
             "last_commit": "2026-06-05T17:21:06Z",
             "owner": "cyberia-to",
             "repo": "go-cyber",
             "stars": 361
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "go-cyber (🥇22 · ⭐ 350) - Your Superintelligence. Unlicensed"
@@ -9949,7 +10422,8 @@
             "owner": "darwinia-network",
             "repo": "darwinia",
             "stars": 245
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "darwinia (🥇22 · ⭐ 240) - Darwinia Chain, EVM+, Polkadot parachain and integrating with XCMP. GPL-3.0"
@@ -9969,8 +10443,9 @@
             "last_commit": "2026-08-27T11:39:51Z",
             "owner": "regen-network",
             "repo": "regen-ledger",
-            "stars": 222
-          }
+            "stars": 223
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "regen-ledger (🥈21 · ⭐ 210) - Blockchain for planetary regeneration. Unlicensed"
@@ -9991,7 +10466,8 @@
             "owner": "IBAX-io",
             "repo": "go-ibax",
             "stars": 7851
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "go-ibax (🥈20 · ⭐ 7.9K) - An innovative Blockchain Protocol Platform, which everyone can.. Apache-2"
@@ -10012,7 +10488,8 @@
             "owner": "iExecBlockchainComputing",
             "repo": "iexec-sdk",
             "stars": 423
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "iexec-sdk (🥈21 · ⭐ 410) - CLI and JS library allowing developers to easily interact with.. Unlicensed"
@@ -10033,7 +10510,8 @@
             "owner": "kleros",
             "repo": "kleros",
             "stars": 255
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "kleros (🥈16 · ⭐ 240) - Kleros smart contracts. MIT"
@@ -10054,7 +10532,8 @@
             "owner": "Polkadex-Substrate",
             "repo": "Polkadex",
             "stars": 292
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "Polkadex (🥇23 · ⭐ 280) - An Orderbook-based Decentralized Exchange using the Substrate.. GPL-3.0"
@@ -10071,11 +10550,12 @@
             "archived": false,
             "id": 464691559,
             "language": "Rust",
-            "last_commit": "2026-08-27T20:14:01Z",
+            "last_commit": "2026-08-28T22:02:22Z",
             "owner": "jito-foundation",
             "repo": "jito-solana",
-            "stars": 746
-          }
+            "stars": 745
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "jito-solana (🥇24 · ⭐ 260) - Jito Foundation MEV Solana Client. Apache-2"
@@ -10096,7 +10576,8 @@
             "owner": "district0x",
             "repo": "ethlance",
             "stars": 716
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "ethlance (🥈17 · ⭐ 700) - Ethlance is the first job market platform built entirely on the.. GPL-3.0"
@@ -10117,7 +10598,8 @@
             "owner": "bitcoin-sv",
             "repo": "bitcoin-sv",
             "stars": 699
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "bitcoin-sv (🥈21 · ⭐ 640) - Bitcoin SV (Satoshi Vision) is the original Bitcoin. This.. Unlicensed"
@@ -10138,7 +10620,8 @@
             "owner": "starknet-io",
             "repo": "starknet-devnet",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "starknet-devnet (🥈16 · ⭐ 210) - A local testnet for Starknet. MIT"
@@ -10159,7 +10642,8 @@
             "owner": "RequestNetwork",
             "repo": "requestNetwork",
             "stars": 385
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "requestNetwork (🥇23 · ⭐ 380) - A JavaScript library for interacting with the Request Network.. MIT"
@@ -10180,7 +10664,8 @@
             "owner": "pokt-network",
             "repo": "pocket-core",
             "stars": 218
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "pocket-core (🥈21 · ⭐ 200) - Official implementation of the Pocket Network Protocol. MIT"
@@ -10201,7 +10686,8 @@
             "owner": "dtube",
             "repo": "dtube",
             "stars": 827
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "dtube (🥈17 · ⭐ 800 · 💤) - d.tube app. A full-featured video sharing website, decentralized. GPL-3.0"
@@ -10222,7 +10708,8 @@
             "owner": "interlay",
             "repo": "interbtc",
             "stars": 254
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "interbtc (🥈19 · ⭐ 240) - interBTC: Bitcoin Anywhere. Apache-2"
@@ -10243,7 +10730,8 @@
             "owner": "blocknetdx",
             "repo": "blocknet",
             "stars": 214
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "blocknet (🥈21 · ⭐ 220 · 💤) - Official Blocknet cryptocurrency wallet. MIT"
@@ -10264,7 +10752,8 @@
             "owner": "thetatoken",
             "repo": "theta-protocol-ledger",
             "stars": 364
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "theta-protocol-ledger (🥈16 · ⭐ 360 · 💤) - Reference implementation of the Theta Blockchain.. GPL-3.0"
@@ -10285,7 +10774,8 @@
             "owner": "OrchidTechnologies",
             "repo": "orchid",
             "stars": 704
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "orchid (🥈20 · ⭐ 650) - Orchid: VPN, Personal Firewall. AGPL-3.0"
@@ -10306,7 +10796,8 @@
             "owner": "Snowfork",
             "repo": "snowbridge",
             "stars": 311
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "snowbridge (🥈20 · ⭐ 280) - A trustless bridge between Polkadot and Ethereum. Apache-2"
@@ -10323,11 +10814,12 @@
             "archived": false,
             "id": 436957635,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:06:32Z",
+            "last_commit": "2026-08-28T10:36:24Z",
             "owner": "subsquid",
             "repo": "squid-sdk",
-            "stars": 1337
-          }
+            "stars": 1336
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "squid-sdk (🥈18 · ⭐ 1.2K) - The main repo of the squid SDK. GPL-3.0"
@@ -10348,7 +10840,8 @@
             "owner": "functionland",
             "repo": "fx-fotos",
             "stars": 689
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "fx-fotos (🥈16 · ⭐ 660) - Fx Fotos is an opensource gallery app in react native with the same.. MIT"
@@ -10369,7 +10862,8 @@
             "owner": "cardstack",
             "repo": "cardstack",
             "stars": 326
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "cardstack (🥈20 · ⭐ 330) - The mono-repo for the core Cardstack framework. MIT"
@@ -10390,7 +10884,8 @@
             "owner": "primecoin",
             "repo": "primecoin",
             "stars": 321
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "primecoin (🥈17 · ⭐ 320 · 💤) - Primecoin - Cryptocurrency with Useful PoW Consensus. Unlicensed"
@@ -10411,7 +10906,8 @@
             "owner": "hypersign-protocol",
             "repo": "hid-node",
             "stars": 220
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "hid-node (🥈18 · ⭐ 220) - A permissionless blockchain network to manage digital identity and.. Apache-2"
@@ -10432,7 +10928,8 @@
             "owner": "lukasmasuch",
             "repo": "best-of-crypto",
             "stars": 549
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         },
         {
           "node_type": "item",
@@ -10447,14 +10944,15 @@
             "owner": "lukasmasuch",
             "repo": "best-of-crypto",
             "stars": 549
-          }
+          },
+          "first_seen": "2026-08-28T23:34:58.536Z"
         }
       ],
       "title": "Contribution"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:49:42.958Z",
+    "last_updated": "2026-08-28T23:34:58.536Z",
     "original_repository_info": {
       "archived": false,
       "id": 445931634,
