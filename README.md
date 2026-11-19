@@ -20,7 +20,7 @@
 
 This curated list contains 3.1K awesome open-source projects with a total of 1.2M stars grouped into 11 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/LukasMasuch/best-of-crypto/issues/new/choose), submit a [pull request](https://github.com/LukasMasuch/best-of-crypto/pulls), or directly edit the [projects.yaml](https://github.com/LukasMasuch/best-of-crypto/edit/main/projects.yaml). Contributions are very welcome!
 
-> 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md) ⭐ 1,920 | 🐛 27 | 📅 2026-11-12.
+> 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md) ⭐ 1,919 | 🐛 27 | 📅 2026-11-12.
 
 ## Contents
 
@@ -78,7 +78,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/bitcoin/bitcoin">bitcoin</a></b> (🥇36 ·  ⭐ 77K) - Bitcoin Core integration/staging tree. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/bitcoin/bitcoin) ⭐ 90,703 | 🐛 812 | 🌐 C++ | 📅 2026-11-18 (👨‍💻 1.2K · 🔀 35K · 📦 21 · 📋 8.3K - 8% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/bitcoin/bitcoin) ⭐ 90,710 | 🐛 814 | 🌐 C++ | 📅 2026-11-19 (👨‍💻 1.2K · 🔀 35K · 📦 21 · 📋 8.3K - 8% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/bitcoin/bitcoin
@@ -87,7 +87,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/ElementsProject/lightning">lightning</a></b> (🥇32 ·  ⭐ 2.8K) - Core Lightning Lightning Network implementation focusing on.. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/ElementsProject/lightning) ⭐ 3,108 | 🐛 410 | 🌐 C | 📅 2026-11-18 (👨‍💻 270 · 🔀 870 · 📥 240K · 📦 68 · 📋 2.9K - 22% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/ElementsProject/lightning) ⭐ 3,106 | 🐛 412 | 🌐 C | 📅 2026-11-19 (👨‍💻 270 · 🔀 870 · 📥 240K · 📦 68 · 📋 2.9K - 22% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/ElementsProject/lightning
@@ -96,7 +96,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/bitcoinj/bitcoinj">bitcoinj</a></b> (🥇31 ·  ⭐ 5K) - A library for working with Bitcoin. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/bitcoinj/bitcoinj) ⭐ 5,239 | 🐛 594 | 🌐 Java | 📅 2026-11-17 (👨‍💻 150 · 🔀 2.4K · 📦 1.7K · 📋 1.3K - 34% open · ⏱️ 01.06.2024):
+* [GitHub](https://github.com/bitcoinj/bitcoinj) ⭐ 5,237 | 🐛 596 | 🌐 Java | 📅 2026-11-19 (👨‍💻 150 · 🔀 2.4K · 📦 1.7K · 📋 1.3K - 34% open · ⏱️ 01.06.2024):
 
   ```
   git clone https://github.com/bitcoinj/bitcoinj
@@ -105,7 +105,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/bitcoinjs/bitcoinjs-lib">bitcoinjs-lib</a></b> (🥇30 ·  ⭐ 5.6K) - A javascript Bitcoin library for node.js and browsers. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/bitcoinjs/bitcoinjs-lib) ⭐ 6,007 | 🐛 59 | 🌐 JavaScript | 📅 2026-10-26 (👨‍💻 110 · 🔀 2.1K · 📦 19K · 📋 1.2K - 4% open · ⏱️ 17.05.2024):
+* [GitHub](https://github.com/bitcoinjs/bitcoinjs-lib) ⭐ 6,004 | 🐛 59 | 🌐 JavaScript | 📅 2026-10-26 (👨‍💻 110 · 🔀 2.1K · 📦 19K · 📋 1.2K - 4% open · ⏱️ 17.05.2024):
 
   ```
   git clone https://github.com/bitcoinjs/bitcoinjs-lib
@@ -114,7 +114,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/btcsuite/btcd">btcd</a></b> (🥇28 ·  ⭐ 6.1K) - An alternative full node bitcoin implementation written in Go (golang). <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
-* [GitHub](https://github.com/btcsuite/btcd) ⭐ 6,721 | 🐛 386 | 🌐 Go | 📅 2026-11-18 (👨‍💻 220 · 🔀 2.3K · 📥 14K · 📦 3 · 📋 870 - 30% open · ⏱️ 03.06.2024):
+* [GitHub](https://github.com/btcsuite/btcd) ⭐ 6,720 | 🐛 388 | 🌐 Go | 📅 2026-11-18 (👨‍💻 220 · 🔀 2.3K · 📥 14K · 📦 3 · 📋 870 - 30% open · ⏱️ 03.06.2024):
 
   ```
   git clone https://github.com/btcsuite/btcd
@@ -123,7 +123,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/btcsuite/btcwallet">btcwallet</a></b> (🥇25 ·  ⭐ 1.1K) - A secure bitcoin wallet daemon written in Go (golang). <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
-* [GitHub](https://github.com/btcsuite/btcwallet) ⭐ 1,262 | 🐛 219 | 🌐 Go | 📅 2026-11-18 (👨‍💻 63 · 🔀 560 · 📥 780 · 📦 910 · 📋 360 - 37% open · ⏱️ 10.04.2024):
+* [GitHub](https://github.com/btcsuite/btcwallet) ⭐ 1,261 | 🐛 221 | 🌐 Go | 📅 2026-11-19 (👨‍💻 63 · 🔀 560 · 📥 780 · 📦 910 · 📋 360 - 37% open · ⏱️ 10.04.2024):
 
   ```
   git clone https://github.com/btcsuite/btcwallet
@@ -132,7 +132,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/ElementsProject/elements">elements</a></b> (🥇25 ·  ⭐ 1K) - Open Source implementation of advanced blockchain features extending the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/ElementsProject/elements) ⭐ 1,173 | 🐛 186 | 🌐 C++ | 📅 2026-11-05 (👨‍💻 1.1K · 🔀 380 · 📥 97K · 📋 470 - 36% open · ⏱️ 14.05.2024):
+* [GitHub](https://github.com/ElementsProject/elements) ⭐ 1,172 | 🐛 186 | 🌐 C++ | 📅 2026-11-05 (👨‍💻 1.1K · 🔀 380 · 📥 97K · 📋 470 - 36% open · ⏱️ 14.05.2024):
 
   ```
   git clone https://github.com/ElementsProject/elements
@@ -141,7 +141,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/bitcoin/bips">bips</a></b> (🥇23 ·  ⭐ 9.1K) - Bitcoin Improvement Proposals. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/bitcoin/bips) ⭐ 11,037 | 🐛 59 | 🌐 Wikitext | 📅 2026-11-17 (👨‍💻 390 · 🔀 5.2K · 📦 21 · ⏱️ 31.05.2024):
+* [GitHub](https://github.com/bitcoin/bips) ⭐ 11,042 | 🐛 59 | 🌐 Wikitext | 📅 2026-11-17 (👨‍💻 390 · 🔀 5.2K · 📦 21 · ⏱️ 31.05.2024):
 
   ```
   git clone https://github.com/bitcoin/bips
@@ -168,7 +168,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/BlockstreamResearch/secp256k1-zkp">secp256k1-zkp</a></b> (🥈16 ·  ⭐ 350) - A fork of libsecp256k1 with support for advanced and experimental.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/BlockstreamResearch/secp256k1-zkp) ⭐ 445 | 🐛 53 | 🌐 C | 📅 2026-11-18 (👨‍💻 110 · 🔀 130 · 📋 63 - 31% open · ⏱️ 22.05.2024):
+* [GitHub](https://github.com/BlockstreamResearch/secp256k1-zkp) ⭐ 443 | 🐛 54 | 🌐 C | 📅 2026-11-19 (👨‍💻 110 · 🔀 130 · 📋 63 - 31% open · ⏱️ 22.05.2024):
 
   ```
   git clone https://github.com/ElementsProject/secp256k1-zkp
@@ -198,7 +198,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/cosmos/cosmos-sdk">cosmos-sdk</a></b> (🥇39 ·  ⭐ 6K) - A Framework for Building High Value Public Blockchains. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/cosmos/cosmos-sdk) ⭐ 7,089 | 🐛 244 | 🌐 Go | 📅 2026-11-17 (👨‍💻 610 · 🔀 3.4K · 📥 49K · 📦 14K · 📋 6.7K - 6% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/cosmos/cosmos-sdk) ⭐ 7,088 | 🐛 248 | 🌐 Go | 📅 2026-11-17 (👨‍💻 610 · 🔀 3.4K · 📥 49K · 📦 14K · 📋 6.7K - 6% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/cosmos/cosmos-sdk
@@ -207,7 +207,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/CosmWasm/cosmwasm">cosmwasm</a></b> (🥇28 ·  ⭐ 1K) - Framework for building smart contracts in Wasm for the Cosmos SDK. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/CosmWasm/cosmwasm) ⭐ 1,146 | 🐛 45 | 🌐 Rust | 📅 2026-11-13 (👨‍💻 57 · 🔀 320 · 📥 3.9K · 📦 100 · 📋 800 - 11% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/CosmWasm/cosmwasm) ⭐ 1,145 | 🐛 45 | 🌐 Rust | 📅 2026-11-13 (👨‍💻 57 · 🔀 320 · 📥 3.9K · 📦 100 · 📋 800 - 11% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/CosmWasm/cosmwasm
@@ -216,7 +216,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/cosmos/gaia">gaia</a></b> (🥇28 ·  ⭐ 450) - Cosmos Hub. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/cosmos/gaia) ⭐ 575 | 🐛 44 | 🌐 Go | 📅 2026-11-18 (👨‍💻 120 · 🔀 660 · 📥 290K · 📦 18 · 📋 920 - 3% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/cosmos/gaia) ⭐ 573 | 🐛 33 | 🌐 Go | 📅 2026-11-19 (👨‍💻 120 · 🔀 660 · 📥 290K · 📦 18 · 📋 920 - 3% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/cosmos/gaia
@@ -252,7 +252,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/CosmWasm/cw-plus">cw-plus</a></b> (🥇25 ·  ⭐ 500) - Production Quality contracts under open source licenses. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/CosmWasm/cw-plus) ⭐ 526 | 🐛 22 | 🌐 Rust | 📅 2026-06-26 (👨‍💻 54 · 🔀 350 · 📥 35K · 📦 5 · 📋 310 - 5% open · ⏱️ 27.03.2024):
+* [GitHub](https://github.com/CosmWasm/cw-plus) ⭐ 525 | 🐛 22 | 🌐 Rust | 📅 2026-06-26 (👨‍💻 54 · 🔀 350 · 📥 35K · 📦 5 · 📋 310 - 5% open · ⏱️ 27.03.2024):
 
   ```
   git clone https://github.com/CosmWasm/cw-plus
@@ -261,7 +261,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/CosmWasm/wasmd">wasmd</a></b> (🥇24 ·  ⭐ 360) - Basic cosmos-sdk app with web assembly smart contracts. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/CosmWasm/wasmd) ⭐ 417 | 🐛 108 | 🌐 Go | 📅 2026-11-17 (👨‍💻 81 · 🔀 380 · 📥 430 · 📦 2K · 📋 560 - 11% open · ⏱️ 22.05.2024):
+* [GitHub](https://github.com/CosmWasm/wasmd) ⭐ 416 | 🐛 108 | 🌐 Go | 📅 2026-11-17 (👨‍💻 81 · 🔀 380 · 📥 430 · 📦 2K · 📋 560 - 11% open · ⏱️ 22.05.2024):
 
   ```
   git clone https://github.com/CosmWasm/wasmd
@@ -279,7 +279,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/cosmos/cosmos-rust">cosmos-rust</a></b> (🥈21 ·  ⭐ 290) - The home of all shared Rust resources for the Cosmos ecosystem. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/cosmos/cosmos-rust) ⭐ 348 | 🐛 16 | 🌐 Rust | 📅 2025-09-18 (👨‍💻 34 · 🔀 110 · 📦 860 · 📋 73 - 23% open · ⏱️ 31.05.2024):
+* [GitHub](https://github.com/cosmos/cosmos-rust) ⭐ 347 | 🐛 16 | 🌐 Rust | 📅 2025-09-18 (👨‍💻 34 · 🔀 110 · 📦 860 · 📋 73 - 23% open · ⏱️ 31.05.2024):
 
   ```
   git clone https://github.com/cosmos/cosmos-rust
@@ -288,7 +288,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/cosmos/cosmjs">cosmjs</a></b> (🥈19 ·  ⭐ 620) - The Swiss Army knife to power JavaScript based client solutions.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/cosmos/cosmjs) ⭐ 700 | 🐛 195 | 🌐 TypeScript | 📅 2026-05-04 (👨‍💻 54 · 🔀 310 · 📦 3 · 📋 690 - 23% open · ⏱️ 22.04.2024):
+* [GitHub](https://github.com/cosmos/cosmjs) ⭐ 699 | 🐛 195 | 🌐 TypeScript | 📅 2026-05-04 (👨‍💻 54 · 🔀 310 · 📦 3 · 📋 690 - 23% open · ⏱️ 22.04.2024):
 
   ```
   git clone https://github.com/cosmos/cosmjs
@@ -297,7 +297,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/cosmos/chain-registry">chain-registry</a></b> (🥈19 ·  ⭐ 490) -  <code><a href="https://tldrlegal.com/search?q=CC-BY-4.0">CC-BY-4.0</a></code></summary>
 
-* [GitHub](https://github.com/cosmos/chain-registry) ⭐ 571 | 🐛 144 | 🌐 Python | 📅 2026-11-18 (👨‍💻 820 · 🔀 1.1K · 📋 190 - 42% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/cosmos/chain-registry) ⭐ 571 | 🐛 142 | 🌐 Python | 📅 2026-11-19 (👨‍💻 820 · 🔀 1.1K · 📋 190 - 42% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/cosmos/chain-registry
@@ -306,7 +306,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/cosmos/ibc">ibc</a></b> (🥈16 ·  ⭐ 900) - Interchain Standards (ICS) for the Cosmos network & interchain.. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/cosmos/ibc) ⭐ 1,024 | 🐛 117 | 🌐 Go | 📅 2026-11-18 (👨‍💻 67 · 🔀 360 · 📋 530 - 17% open · ⏱️ 16.05.2024):
+* [GitHub](https://github.com/cosmos/ibc) ⭐ 1,023 | 🐛 117 | 🌐 Go | 📅 2026-11-19 (👨‍💻 67 · 🔀 360 · 📋 530 - 17% open · ⏱️ 16.05.2024):
 
   ```
   git clone https://github.com/cosmos/ibc
@@ -336,7 +336,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/stellar/stellar-core">stellar-core</a></b> (🥇26 ·  ⭐ 3.1K) - Reference implementation for the peer-to-peer agent that.. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/stellar/stellar-core) ⭐ 3,317 | 🐛 332 | 🌐 C++ | 📅 2026-11-18 (👨‍💻 120 · 🔀 1K · 📋 1.7K - 16% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/stellar/stellar-core) ⭐ 3,318 | 🐛 333 | 🌐 C++ | 📅 2026-11-18 (👨‍💻 120 · 🔀 1K · 📋 1.7K - 16% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/stellar/stellar-core
@@ -345,7 +345,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/stellar/js-stellar-sdk">js-stellar-sdk</a></b> (🥈21 ·  ⭐ 610) - Main Stellar client library for the JavaScript language. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/stellar/js-stellar-sdk) ⭐ 696 | 🐛 131 | 🌐 TypeScript | 📅 2026-11-14 (👨‍💻 81 · 🔀 290 · 📋 400 - 19% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/stellar/js-stellar-sdk) ⭐ 695 | 🐛 136 | 🌐 TypeScript | 📅 2026-11-14 (👨‍💻 81 · 🔀 290 · 📋 400 - 19% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/stellar/js-stellar-sdk
@@ -375,7 +375,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/XRPLF/rippled">rippled</a></b> (🥇27 ·  ⭐ 4.5K) - Decentralized cryptocurrency blockchain daemon implementing the XRP.. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
-* [GitHub](https://github.com/XRPLF/rippled) ⭐ 5,247 | 🐛 1,087 | 🌐 C++ | 📅 2026-11-18 (👨‍💻 150 · 🔀 1.4K · 📋 1.4K - 26% open · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/XRPLF/rippled) ⭐ 5,247 | 🐛 1,087 | 🌐 C++ | 📅 2026-11-19 (👨‍💻 150 · 🔀 1.4K · 📋 1.4K - 26% open · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/XRPLF/rippled
@@ -384,7 +384,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/XRPLF/xrpl.js">xrpl.js</a></b> (🥇27 ·  ⭐ 1.2K) - A JavaScript/TypeScript API for interacting with the XRP Ledger.. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/XRPLF/xrpl.js) ⭐ 1,336 | 🐛 238 | 🌐 TypeScript | 📅 2026-11-16 (👨‍💻 140 · 🔀 500 · 📥 560 · 📦 5.2K · 📋 590 - 12% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/XRPLF/xrpl.js) ⭐ 1,335 | 🐛 244 | 🌐 TypeScript | 📅 2026-11-19 (👨‍💻 140 · 🔀 500 · 📥 560 · 📦 5.2K · 📋 590 - 12% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/XRPLF/xrpl.js
@@ -393,7 +393,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/XRPLF/xrpl-dev-portal">xrpl-dev-portal</a></b> (🥈21 ·  ⭐ 510) - Source code for xrpl.org including developer.. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/XRPLF/xrpl-dev-portal) ⭐ 2,285 | 🐛 281 | 🌐 JavaScript | 📅 2026-11-18 (👨‍💻 170 · 🔀 1K · 📋 600 - 37% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/XRPLF/xrpl-dev-portal) ⭐ 2,284 | 🐛 283 | 🌐 JavaScript | 📅 2026-11-19 (👨‍💻 170 · 🔀 1K · 📋 600 - 37% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/XRPLF/xrpl-dev-portal
@@ -414,7 +414,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/algorand/go-algorand">go-algorand</a></b> (🥇29 ·  ⭐ 1.3K) - Algorands official implementation in Go. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/algorand/go-algorand) ⭐ 1,436 | 🐛 269 | 🌐 Go | 📅 2026-11-18 (👨‍💻 110 · 🔀 440 · 📥 55K · 📦 110 · 📋 1.7K - 18% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/algorand/go-algorand) ⭐ 1,437 | 🐛 271 | 🌐 Go | 📅 2026-11-19 (👨‍💻 110 · 🔀 440 · 📥 55K · 📦 110 · 📋 1.7K - 18% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/algorand/go-algorand
@@ -423,7 +423,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/algorand/js-algorand-sdk">js-algorand-sdk</a></b> (🥇26 ·  ⭐ 280) - The official JavaScript SDK for Algorand. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/algorand/js-algorand-sdk) ⭐ 296 | 🐛 66 | 🌐 TypeScript | 📅 2026-10-31 (👨‍💻 65 · 🔀 190 · 📦 13K · 📋 330 - 13% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/algorand/js-algorand-sdk) ⭐ 296 | 🐛 67 | 🌐 TypeScript | 📅 2026-10-31 (👨‍💻 65 · 🔀 190 · 📦 13K · 📋 330 - 13% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/algorand/js-algorand-sdk
@@ -462,7 +462,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/dogecoin/dogecoin">dogecoin</a></b> (🥇34 ·  ⭐ 14K) - very currency. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/dogecoin/dogecoin) ⭐ 15,210 | 🐛 325 | 🌐 C++ | 📅 2026-11-09 (👨‍💻 660 · 🔀 2.8K · 📥 8.8M · 📦 21 · 📋 1.3K - 16% open · ⏱️ 27.02.2024):
+* [GitHub](https://github.com/dogecoin/dogecoin) ⭐ 15,209 | 🐛 327 | 🌐 C++ | 📅 2026-11-09 (👨‍💻 660 · 🔀 2.8K · 📥 8.8M · 📦 21 · 📋 1.3K - 16% open · ⏱️ 27.02.2024):
 
   ```
   git clone https://github.com/dogecoin/dogecoin
@@ -483,7 +483,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/nanocurrency/nano-node">nano-node</a></b> (🥇28 ·  ⭐ 3.5K) - Nano is digital currency. Its ticker is: XNO and its currency symbol.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/nanocurrency/nano-node) ⭐ 3,533 | 🐛 353 | 🌐 C++ | 📅 2026-11-18 (👨‍💻 99 · 🔀 780 · 📥 430K · 📋 1.3K - 24% open · ⏱️ 25.05.2024):
+* [GitHub](https://github.com/nanocurrency/nano-node) ⭐ 3,532 | 🐛 354 | 🌐 C++ | 📅 2026-11-18 (👨‍💻 99 · 🔀 780 · 📥 430K · 📋 1.3K - 24% open · ⏱️ 25.05.2024):
 
   ```
   git clone https://github.com/nanocurrency/nano-node
@@ -534,7 +534,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/litecoin-project/litecoin">litecoin</a></b> (🥇28 ·  ⭐ 4.3K) - Litecoin source tree. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/litecoin-project/litecoin) ⭐ 4,618 | 🐛 116 | 🌐 C++ | 📅 2026-11-13 (👨‍💻 950 · 🔀 3.1K · 📥 11K · 📋 570 - 13% open · ⏱️ 28.03.2024):
+* [GitHub](https://github.com/litecoin-project/litecoin) ⭐ 4,619 | 🐛 116 | 🌐 C++ | 📅 2026-11-13 (👨‍💻 950 · 🔀 3.1K · 📥 11K · 📋 570 - 13% open · ⏱️ 28.03.2024):
 
   ```
   git clone https://github.com/litecoin-project/litecoin
@@ -583,7 +583,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/steemit/steem-js">steem-js</a></b> (🥈21 ·  ⭐ 470) - Steem.js the official JavaScript library for Steem blockchain. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/steemit/steem-js) ⭐ 466 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-18 (👨‍💻 40 · 🔀 220 · 📥 23K · 📦 3 · 📋 300 - 44% open · ⏱️ 06.12.2023):
+* [GitHub](https://github.com/steemit/steem-js) ⭐ 464 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-18 (👨‍💻 40 · 🔀 220 · 📥 23K · 📦 3 · 📋 300 - 44% open · ⏱️ 06.12.2023):
 
   ```
   git clone https://github.com/steemit/steem-js
@@ -592,7 +592,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/steemit/condenser">condenser</a></b> (🥈18 ·  ⭐ 510) - The greatest application front-end to the Steem Blockchain. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/steemit/condenser) ⭐ 504 | 🐛 290 | 🌐 JavaScript | 📅 2026-11-13 (👨‍💻 120 · 🔀 430 · 📋 2.1K - 13% open · ⏱️ 07.05.2024):
+* [GitHub](https://github.com/steemit/condenser) ⭐ 503 | 🐛 290 | 🌐 JavaScript | 📅 2026-11-13 (👨‍💻 120 · 🔀 430 · 📋 2.1K - 13% open · ⏱️ 07.05.2024):
 
   ```
   git clone https://github.com/steemit/condenser
@@ -634,7 +634,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/ArkEcosystem/core">ArkEcosystem/core</a></b> (🥈20 ·  ⭐ 340) - The ARK Core Blockchain Framework. Check.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/ArkEcosystem/core) ⭐ 345 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-11 (👨‍💻 54 · 🔀 300 · 📋 990 - 0% open · ⏱️ 01.02.2024):
+* [GitHub](https://github.com/ArkEcosystem/core) ⭐ 344 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-11 (👨‍💻 54 · 🔀 300 · 📋 990 - 0% open · ⏱️ 01.02.2024):
 
   ```
   git clone https://github.com/ArkEcosystem/core
@@ -725,7 +725,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/theQRL/QRL">QRL</a></b> (🥈20 ·  ⭐ 410) - Quantum Resistant Ledger. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/theQRL/QRL) ⭐ 468 | 🐛 49 | 🌐 Python | 📅 2026-11-18 (👨‍💻 34 · 🔀 100 · 📋 220 - 9% open · ⏱️ 14.04.2024):
+* [GitHub](https://github.com/theQRL/QRL) ⭐ 468 | 🐛 49 | 🌐 Python | 📅 2026-11-19 (👨‍💻 34 · 🔀 100 · 📋 220 - 9% open · ⏱️ 14.04.2024):
 
   ```
   git clone https://github.com/theQRL/QRL
@@ -833,7 +833,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/ethereum/go-ethereum">go-ethereum</a></b> (🥇39 ·  ⭐ 46K) - Go implementation of the Ethereum protocol. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/ethereum/go-ethereum) ⭐ 51,477 | 🐛 507 | 🌐 Go | 📅 2026-11-17 (👨‍💻 1K · 🔀 20K · 📦 31K · 📋 8.1K - 4% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/ethereum/go-ethereum) ⭐ 51,478 | 🐛 507 | 🌐 Go | 📅 2026-11-19 (👨‍💻 1K · 🔀 20K · 📦 31K · 📋 8.1K - 4% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/ethereum/go-ethereum
@@ -842,7 +842,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/OpenZeppelin/openzeppelin-contracts">openzeppelin-contracts</a></b> (🥇37 ·  ⭐ 24K) - OpenZeppelin Contracts is a library for secure smart.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/OpenZeppelin/openzeppelin-contracts) ⭐ 27,371 | 🐛 343 | 🌐 Solidity | 📅 2026-11-18 (👨‍💻 440 · 🔀 12K · 📦 22K · 📋 1.9K - 12% open · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/OpenZeppelin/openzeppelin-contracts) ⭐ 27,371 | 🐛 340 | 🌐 Solidity | 📅 2026-11-19 (👨‍💻 440 · 🔀 12K · 📦 22K · 📋 1.9K - 12% open · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/OpenZeppelin/openzeppelin-contracts
@@ -851,7 +851,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/ethereum/solidity">solidity</a></b> (🥇36 ·  ⭐ 23K) - Solidity, the Smart Contract Programming Language. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/ethereum/solidity) ⭐ 25,776 | 🐛 871 | 🌐 C++ | 📅 2026-11-18 (👨‍💻 710 · 🔀 5.6K · 📥 3.5M · 📦 21 · 📋 6K - 7% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/ethereum/solidity) ⭐ 25,775 | 🐛 874 | 🌐 C++ | 📅 2026-11-19 (👨‍💻 710 · 🔀 5.6K · 📥 3.5M · 📦 21 · 📋 6K - 7% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/ethereum/solidity
@@ -860,7 +860,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/vyperlang/vyper">vyper</a></b> (🥇33 ·  ⭐ 4.8K) - Pythonic Smart Contract Language for the EVM. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/vyperlang/vyper) ⭐ 5,186 | 🐛 642 | 🌐 Python | 📅 2026-11-18 (👨‍💻 230 · 🔀 780 · 📥 1.3M · 📦 1.4K · 📋 1.6K - 21% open · ⏱️ 02.06.2024):
+* [GitHub](https://github.com/vyperlang/vyper) ⭐ 5,185 | 🐛 645 | 🌐 Python | 📅 2026-11-19 (👨‍💻 230 · 🔀 780 · 📥 1.3M · 📦 1.4K · 📋 1.6K - 21% open · ⏱️ 02.06.2024):
 
   ```
   git clone https://github.com/vyperlang/vyper
@@ -869,7 +869,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/ethereum/ethereum-org-website">ethereum-org-website</a></b> (🥇32 ·  ⭐ 4.9K) - Ethereum.org is a primary online resource for the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/ethereum/ethereum-org-website) ⭐ 6,009 | 🐛 219 | 🌐 Markdown | 📅 2026-11-18 (👨‍💻 1.7K · 🔀 4.6K · 📋 3.1K - 10% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/ethereum/ethereum-org-website) ⭐ 6,009 | 🐛 221 | 🌐 Markdown | 📅 2026-11-19 (👨‍💻 1.7K · 🔀 4.6K · 📋 3.1K - 10% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/ethereum/ethereum-org-website
@@ -878,7 +878,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/ethereum/web3.py">web3.py</a></b> (🥇31 ·  ⭐ 4.8K) - A python interface for interacting with the Ethereum blockchain and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/ethereum/web3.py) ⭐ 5,542 | 🐛 189 | 🌐 Python | 📅 2026-10-30 (👨‍💻 260 · 🔀 1.6K · 📦 20K · 📋 1.5K - 7% open · ⏱️ 30.05.2024):
+* [GitHub](https://github.com/ethereum/web3.py) ⭐ 5,542 | 🐛 190 | 🌐 Python | 📅 2026-10-30 (👨‍💻 260 · 🔀 1.6K · 📦 20K · 📋 1.5K - 7% open · ⏱️ 30.05.2024):
 
   ```
   git clone https://github.com/ethereum/web3.py
@@ -887,7 +887,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/ethereum/remix-project">remix-project</a></b> (🥇31 ·  ⭐ 2.3K) - Remix is a browser-based compiler and IDE that enables users to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/ethereum/remix-project) ⭐ 3,110 | 🐛 935 | 🌐 TypeScript | 📅 2026-11-18 (👨‍💻 220 · 🔀 860 · 📥 250K · 📦 2 · 📋 2.1K - 38% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/ethereum/remix-project) ⭐ 3,110 | 🐛 934 | 🌐 TypeScript | 📅 2026-11-19 (👨‍💻 220 · 🔀 860 · 📥 250K · 📦 2 · 📋 2.1K - 38% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/ethereum/remix-project
@@ -905,7 +905,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/Nethereum/Nethereum">Nethereum</a></b> (🥇30 ·  ⭐ 2.1K) - Ethereum .Net cross platform integration library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/Nethereum/Nethereum) ⭐ 2,259 | 🐛 107 | 🌐 C# | 📅 2026-11-05 (👨‍💻 88 · 🔀 700 · 📥 12K · 📦 2.3K · 📋 810 - 13% open · ⏱️ 01.06.2024):
+* [GitHub](https://github.com/Nethereum/Nethereum) ⭐ 2,257 | 🐛 107 | 🌐 C# | 📅 2026-11-05 (👨‍💻 88 · 🔀 700 · 📥 12K · 📦 2.3K · 📋 810 - 13% open · ⏱️ 01.06.2024):
 
   ```
   git clone https://github.com/Nethereum/Nethereum
@@ -914,7 +914,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/ethereum/consensus-specs">consensus-specs</a></b> (🥇29 ·  ⭐ 3.5K) - Ethereum Proof-of-Stake Consensus Specifications. <code><a href="https://tldrlegal.com/search?q=CC0-1.0">CC0-1.0</a></code></summary>
 
-* [GitHub](https://github.com/ethereum/consensus-specs) ⭐ 3,979 | 🐛 103 | 🌐 Python | 📅 2026-11-18 (👨‍💻 160 · 🔀 890 · 📦 39 · 📋 990 - 22% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/ethereum/consensus-specs) ⭐ 3,978 | 🐛 105 | 🌐 Python | 📅 2026-11-19 (👨‍💻 160 · 🔀 890 · 📦 39 · 📋 990 - 22% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/ethereum/consensus-specs
@@ -923,7 +923,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable">openzeppelin-contracts-upgradeable</a></b> (🥇29 ·  ⭐ 960) - Upgradeable variant of OpenZeppelin Contracts, meant.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable) ⭐ 1,177 | 🐛 12 | 🌐 JavaScript | 📅 2026-11-17 (👨‍💻 220 · 🔀 420 · 📦 36K · 📋 100 - 5% open · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable) ⭐ 1,177 | 🐛 12 | 🌐 JavaScript | 📅 2026-11-19 (👨‍💻 220 · 🔀 420 · 📦 36K · 📋 100 - 5% open · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable
@@ -941,7 +941,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/Consensys/gnark">gnark</a></b> (🥇28 ·  ⭐ 1.3K) - gnark is a fast zk-SNARK library that offers a high-level API to.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/Consensys/gnark) ⭐ 1,746 | 🐛 92 | 🌐 Go | 📅 2026-11-18 (👨‍💻 37 · 🔀 330 · 📦 640 · 📋 460 - 24% open · ⏱️ 03.06.2024):
+* [GitHub](https://github.com/Consensys/gnark) ⭐ 1,745 | 🐛 94 | 🌐 Go | 📅 2026-11-19 (👨‍💻 37 · 🔀 330 · 📦 640 · 📋 460 - 24% open · ⏱️ 03.06.2024):
 
   ```
   git clone https://github.com/ConsenSys/gnark
@@ -950,7 +950,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/ethereum/EIPs">EIPs</a></b> (🥇27 ·  ⭐ 13K) - The Ethereum Improvement Proposal repository. <code><a href="https://tldrlegal.com/search?q=CC0-1.0">CC0-1.0</a></code></summary>
 
-* [GitHub](https://github.com/ethereum/EIPs) ⭐ 14,074 | 🐛 575 | 🌐 Python | 📅 2026-11-18 (👨‍💻 760 · 🔀 5K · 📦 21 · 📋 1.1K - 8% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/ethereum/EIPs) ⭐ 14,072 | 🐛 575 | 🌐 Python | 📅 2026-11-18 (👨‍💻 760 · 🔀 5K · 📦 21 · 📋 1.1K - 8% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/ethereum/EIPs
@@ -959,7 +959,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/ethereum/remix-ide">remix-ide</a></b> (🥇27 ·  ⭐ 2.2K) - Documentation for Remix IDE. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/ethereum/remix-ide) ⭐ 2,360 | 🐛 25 | 📅 2026-11-15 (👨‍💻 160 · 🔀 1.1K · 📥 5.8K · 📦 180 · ⏱️ 21.05.2024):
+* [GitHub](https://github.com/ethereum/remix-ide) ⭐ 2,358 | 🐛 25 | 📅 2026-11-15 (👨‍💻 160 · 🔀 1.1K · 📥 5.8K · 📦 180 · ⏱️ 21.05.2024):
 
   ```
   git clone https://github.com/ethereum/remix-ide
@@ -977,7 +977,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/Consensys/mythril">mythril</a></b> (🥇26 ·  ⭐ 3.7K) - Security analysis tool for EVM bytecode. Supports smart contracts built.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/Consensys/mythril) ⭐ 4,279 | 🐛 132 | 🌐 Python | 📅 2026-04-27 (👨‍💻 98 · 🔀 690 · 📦 120 · 📋 840 - 12% open · ⏱️ 27.04.2024):
+* [GitHub](https://github.com/Consensys/mythril) ⭐ 4,276 | 🐛 132 | 🌐 Python | 📅 2026-04-27 (👨‍💻 98 · 🔀 690 · 📦 120 · 📋 840 - 12% open · ⏱️ 27.04.2024):
 
   ```
   git clone https://github.com/ConsenSys/mythril
@@ -995,7 +995,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/ethereum/sourcify">sourcify</a></b> (🥇25 ·  ⭐ 740) - Decentralized Solidity contract source code verification service. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/ethereum/sourcify) ⭐ 964 | 🐛 95 | 🌐 TypeScript | 📅 2026-11-18 (👨‍💻 120 · 🔀 360 · 📦 42 · 📋 570 - 10% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/ethereum/sourcify) ⭐ 964 | 🐛 96 | 🌐 TypeScript | 📅 2026-11-19 (👨‍💻 120 · 🔀 360 · 📦 42 · 📋 570 - 10% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/ethereum/sourcify
@@ -1004,7 +1004,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/ethereum/js-ethereum-cryptography">js-ethereum-cryptography</a></b> (🥇25 ·  ⭐ 670) - Every cryptographic primitive needed to work on.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/ethereum/js-ethereum-cryptography) ⭐ 762 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-27 (👨‍💻 9 · 🔀 88 · 📦 430K · 📋 30 - 30% open · ⏱️ 02.04.2024):
+* [GitHub](https://github.com/ethereum/js-ethereum-cryptography) ⭐ 761 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-27 (👨‍💻 9 · 🔀 88 · 📦 430K · 📋 30 - 30% open · ⏱️ 02.04.2024):
 
   ```
   git clone https://github.com/ethereum/js-ethereum-cryptography
@@ -1013,7 +1013,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/Consensys/teku">teku</a></b> (🥇25 ·  ⭐ 640) - Open-source Ethereum consensus client written in Java. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/Consensys/teku) ⭐ 786 | 🐛 236 | 🌐 Java | 📅 2026-11-18 (👨‍💻 99 · 🔀 240 · 📋 2.5K - 5% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/Consensys/teku) ⭐ 785 | 🐛 241 | 🌐 Java | 📅 2026-11-19 (👨‍💻 99 · 🔀 240 · 📋 2.5K - 5% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/ConsenSys/teku
@@ -1031,7 +1031,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/Consensys/gnark-crypto">gnark-crypto</a></b> (🥇24 ·  ⭐ 460) - gnark-crypto provides elliptic curve and pairing-based.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/Consensys/gnark-crypto) ⭐ 605 | 🐛 51 | 🌐 Go | 📅 2026-11-18 (👨‍💻 21 · 🔀 140 · 📦 9.2K · 📋 180 - 35% open · ⏱️ 04.05.2024):
+* [GitHub](https://github.com/Consensys/gnark-crypto) ⭐ 604 | 🐛 49 | 🌐 Go | 📅 2026-11-19 (👨‍💻 21 · 🔀 140 · 📦 9.2K · 📋 180 - 35% open · ⏱️ 04.05.2024):
 
   ```
   git clone https://github.com/ConsenSys/gnark-crypto
@@ -1049,7 +1049,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/ethereumjs/ethereumjs-monorepo">ethereumjs-monorepo</a></b> (🥇23 ·  ⭐ 2.5K) - Monorepo for the Ethereum VM TypeScript Implementation. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/ethereumjs/ethereumjs-monorepo) ⭐ 2,761 | 🐛 51 | 🌐 TypeScript | 📅 2026-11-12 (👨‍💻 220 · 🔀 720 · 📦 1 · 📋 1.1K - 12% open · ⏱️ 31.05.2024):
+* [GitHub](https://github.com/ethereumjs/ethereumjs-monorepo) ⭐ 2,761 | 🐛 51 | 🌐 TypeScript | 📅 2026-11-19 (👨‍💻 220 · 🔀 720 · 📦 1 · 📋 1.1K - 12% open · ⏱️ 31.05.2024):
 
   ```
   git clone https://github.com/ethereumjs/ethereumjs-monorepo
@@ -1058,7 +1058,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/ethereum/evmone">evmone</a></b> (🥇22 ·  ⭐ 790) - Fast Ethereum Virtual Machine implementation. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/ethereum/evmone) ⭐ 981 | 🐛 191 | 🌐 C++ | 📅 2026-11-18 (👨‍💻 20 · 🔀 240 · 📥 58K · 📋 190 - 48% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/ethereum/evmone) ⭐ 981 | 🐛 195 | 🌐 C++ | 📅 2026-11-19 (👨‍💻 20 · 🔀 240 · 📥 58K · 📋 190 - 48% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/ethereum/evmone
@@ -1076,7 +1076,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/OpenZeppelin/ethernaut">ethernaut</a></b> (🥈21 ·  ⭐ 1.9K) - Web3/Solidity based wargame. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/OpenZeppelin/ethernaut) ⭐ 2,348 | 🐛 77 | 🌐 Solidity | 📅 2026-11-18 (👨‍💻 110 · 🔀 620 · 📋 250 - 22% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/OpenZeppelin/ethernaut) ⭐ 2,348 | 🐛 77 | 🌐 Solidity | 📅 2026-11-19 (👨‍💻 110 · 🔀 620 · 📋 250 - 22% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/OpenZeppelin/ethernaut
@@ -1085,7 +1085,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/ethereum/fe">fe</a></b> (🥈21 ·  ⭐ 1.6K) - Emerging smart contract language for the Ethereum blockchain. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/ethereum/fe) ⭐ 1,739 | 🐛 143 | 🌐 Rust | 📅 2026-11-18 (👨‍💻 43 · 🔀 170 · 📥 2.8K · 📋 410 - 30% open · ⏱️ 15.05.2024):
+* [GitHub](https://github.com/ethereum/fe) ⭐ 1,739 | 🐛 153 | 🌐 Rust | 📅 2026-11-18 (👨‍💻 43 · 🔀 170 · 📥 2.8K · 📋 410 - 30% open · ⏱️ 15.05.2024):
 
   ```
   git clone https://github.com/ethereum/fe
@@ -1094,7 +1094,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/ethereum/eth-tester">eth-tester</a></b> (🥈21 ·  ⭐ 350) - Tool suite for testing ethereum applications. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/ethereum/eth-tester) ⭐ 377 | 🐛 57 | 🌐 Python | 📅 2026-10-30 (👨‍💻 42 · 🔀 130 · 📦 1.2K · 📋 100 - 40% open · ⏱️ 16.05.2024):
+* [GitHub](https://github.com/ethereum/eth-tester) ⭐ 377 | 🐛 62 | 🌐 Python | 📅 2026-10-30 (👨‍💻 42 · 🔀 130 · 📦 1.2K · 📋 100 - 40% open · ⏱️ 16.05.2024):
 
   ```
   git clone https://github.com/ethereum/eth-tester
@@ -1103,7 +1103,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/ethereum/eth-utils">eth-utils</a></b> (🥈21 ·  ⭐ 300) - Utility functions for working with ethereum related codebases. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/ethereum/eth-utils) ⭐ 337 | 🐛 38 | 🌐 Python | 📅 2026-03-25 (👨‍💻 38 · 🔀 140 · 📦 11K · 📋 84 - 25% open · ⏱️ 06.05.2024):
+* [GitHub](https://github.com/ethereum/eth-utils) ⭐ 336 | 🐛 39 | 🌐 Python | 📅 2026-03-25 (👨‍💻 38 · 🔀 140 · 📦 11K · 📋 84 - 25% open · ⏱️ 06.05.2024):
 
   ```
   git clone https://github.com/ethereum/eth-utils
@@ -1121,7 +1121,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/ethereum/pm">pm</a></b> (🥈20 ·  ⭐ 1.5K) - Project Management: Meeting notes and agenda items. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/ethereum/pm) ⭐ 1,906 | 🐛 17 | 🌐 Python | 📅 2026-11-18 (👨‍💻 88 · 🔀 270 · 📋 600 - 3% open · ⏱️ 14.05.2024):
+* [GitHub](https://github.com/ethereum/pm) ⭐ 1,907 | 🐛 14 | 🌐 Python | 📅 2026-11-19 (👨‍💻 88 · 🔀 270 · 📋 600 - 3% open · ⏱️ 14.05.2024):
 
   ```
   git clone https://github.com/ethereum/pm
@@ -1130,7 +1130,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/ethereum/solc-js">solc-js</a></b> (🥈20 ·  ⭐ 1.4K) - Javascript bindings for the Solidity compiler. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/ethereum/solc-js) ⭐ 1,511 | 🐛 81 | 🌐 TypeScript | 📅 2026-10-22 (👨‍💻 43 · 🔀 450 · 📦 3 · 📋 270 - 24% open · ⏱️ 21.05.2024):
+* [GitHub](https://github.com/ethereum/solc-js) ⭐ 1,510 | 🐛 81 | 🌐 TypeScript | 📅 2026-11-19 (👨‍💻 43 · 🔀 450 · 📦 3 · 📋 270 - 24% open · ⏱️ 21.05.2024):
 
   ```
   git clone https://github.com/ethereum/solc-js
@@ -1184,7 +1184,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/ethereum/execution-specs">execution-specs</a></b> (🥈19 ·  ⭐ 800) - Specification for the Execution Layer. Tracking network.. <code><a href="https://tldrlegal.com/search?q=CC0-1.0">CC0-1.0</a></code></summary>
 
-* [GitHub](https://github.com/ethereum/execution-specs) ⭐ 1,215 | 🐛 439 | 🌐 Python | 📅 2026-11-18 (👨‍💻 76 · 🔀 210 · 📋 390 - 17% open · ⏱️ 27.05.2024):
+* [GitHub](https://github.com/ethereum/execution-specs) ⭐ 1,215 | 🐛 367 | 🌐 Python | 📅 2026-11-19 (👨‍💻 76 · 🔀 210 · 📋 390 - 17% open · ⏱️ 27.05.2024):
 
   ```
   git clone https://github.com/ethereum/execution-specs
@@ -1265,7 +1265,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/ethereum/hevm">hevm</a></b> (🥈18 ·  ⭐ 220) - symbolic EVM evaluator. <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/ethereum/hevm) ⭐ 362 | 🐛 63 | 🌐 Haskell | 📅 2026-11-17 (👨‍💻 110 · 🔀 44 · 📥 320 · 📋 140 - 27% open · ⏱️ 30.05.2024):
+* [GitHub](https://github.com/ethereum/hevm) ⭐ 362 | 🐛 56 | 🌐 Haskell | 📅 2026-11-19 (👨‍💻 110 · 🔀 44 · 📥 320 · 📋 140 - 27% open · ⏱️ 30.05.2024):
 
   ```
   git clone https://github.com/ethereum/hevm
@@ -1292,7 +1292,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/ethereum/execution-apis">execution-apis</a></b> (🥈17 ·  ⭐ 890) - Collection of APIs provided by Ethereum execution layer.. <code><a href="https://tldrlegal.com/search?q=CC0-1.0">CC0-1.0</a></code></summary>
 
-* [GitHub](https://github.com/ethereum/execution-apis) ⭐ 1,148 | 🐛 153 | 🌐 Io | 📅 2026-11-17 (👨‍💻 51 · 🔀 320 · 📦 3 · 📋 160 - 45% open · ⏱️ 15.05.2024):
+* [GitHub](https://github.com/ethereum/execution-apis) ⭐ 1,149 | 🐛 153 | 🌐 Io | 📅 2026-11-17 (👨‍💻 51 · 🔀 320 · 📦 3 · 📋 160 - 45% open · ⏱️ 15.05.2024):
 
   ```
   git clone https://github.com/ethereum/execution-apis
@@ -1319,7 +1319,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/ethereum/solc-bin">solc-bin</a></b> (🥈16 ·  ⭐ 390) - This repository contains current and historical builds of the.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/ethereum/solc-bin) ⭐ 433 | 🐛 11 | 🌐 JavaScript | 📅 2026-11-17 (👨‍💻 19 · 🔀 390 · 📦 1 · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/ethereum/solc-bin) ⭐ 433 | 🐛 11 | 🌐 JavaScript | 📅 2026-11-19 (👨‍💻 19 · 🔀 390 · 📦 1 · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/ethereum/solc-bin
@@ -1376,7 +1376,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/solana-labs/solana-web3.js">solana-web3.js</a></b> (🥇33 ·  ⭐ 1.9K) - Solana JavaScript SDK. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/solana-labs/solana-web3.js) ⭐ 2,780 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-17 (👨‍💻 120 · 🔀 770 · 📦 110K · 📋 400 - 19% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/solana-labs/solana-web3.js) ⭐ 2,779 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-17 (👨‍💻 120 · 🔀 770 · 📦 110K · 📋 400 - 19% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/solana-labs/solana-web3.js
@@ -1394,7 +1394,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/anza-xyz/wallet-adapter">wallet-adapter</a></b> (🥈21 ·  ⭐ 1.4K) - Modular TypeScript wallet adapters and components for.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/anza-xyz/wallet-adapter) ⭐ 2,031 | 🐛 46 | 🌐 TypeScript | 📅 2026-10-06 (👨‍💻 120 · 🔀 860 · 📦 2 · 📋 440 - 9% open · ⏱️ 27.05.2024):
+* [GitHub](https://github.com/anza-xyz/wallet-adapter) ⭐ 2,029 | 🐛 45 | 🌐 TypeScript | 📅 2026-10-06 (👨‍💻 120 · 🔀 860 · 📦 2 · 📋 440 - 9% open · ⏱️ 27.05.2024):
 
   ```
   git clone https://github.com/solana-labs/wallet-adapter
@@ -1403,7 +1403,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/anza-xyz/solana-pay">solana-pay</a></b> (🥈18 ·  ⭐ 1.3K) - A new standard for decentralized payments. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/anza-xyz/solana-pay) ⭐ 1,810 | 🐛 99 | 🌐 Rust | 📅 2026-11-09 (👨‍💻 32 · 🔀 440 · 📦 4 · 📋 90 - 28% open · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/anza-xyz/solana-pay) ⭐ 1,809 | 🐛 99 | 🌐 Rust | 📅 2026-11-09 (👨‍💻 32 · 🔀 440 · 📦 4 · 📋 90 - 28% open · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/solana-labs/solana-pay
@@ -1451,7 +1451,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/polkadot-js/apps">apps</a></b> (🥇33 ·  ⭐ 1.7K) - Basic Polkadot/Substrate UI for interacting with a Polkadot and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/polkadot-js/apps) ⭐ 1,823 | 🐛 356 | 🌐 TypeScript | 📅 2026-11-06 (👨‍💻 540 · 🔀 1.5K · 📥 110K · 📦 4 · 📋 3.6K - 6% open · ⏱️ 30.05.2024):
+* [GitHub](https://github.com/polkadot-js/apps) ⭐ 1,823 | 🐛 356 | 🌐 TypeScript | 📅 2026-11-19 (👨‍💻 540 · 🔀 1.5K · 📥 110K · 📦 4 · 📋 3.6K - 6% open · ⏱️ 30.05.2024):
 
   ```
   git clone https://github.com/polkadot-js/apps
@@ -1478,7 +1478,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/wasmi-labs/wasmi">wasmi</a></b> (🥇30 ·  ⭐ 1.5K) - WebAssembly (Wasm) interpreter. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/wasmi-labs/wasmi) ⭐ 2,346 | 🐛 43 | 🌐 Rust | 📅 2026-11-18 (👨‍💻 55 · 🔀 230 · 📦 23K · 📋 260 - 11% open · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/wasmi-labs/wasmi) ⭐ 2,346 | 🐛 41 | 🌐 Rust | 📅 2026-11-19 (👨‍💻 55 · 🔀 230 · 📦 23K · 📋 260 - 11% open · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/paritytech/wasmi
@@ -1487,7 +1487,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/use-ink/ink">ink</a></b> (🥇29 ·  ⭐ 1.3K) - Paritys ink! to write smart contracts. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/use-ink/ink) ⭐ 1,454 | 🐛 174 | 🌐 Rust | 📅 2026-11-06 (👨‍💻 91 · 🔀 400 · 📦 1.5K · 📋 700 - 18% open · ⏱️ 20.05.2024):
+* [GitHub](https://github.com/use-ink/ink) ⭐ 1,453 | 🐛 174 | 🌐 Rust | 📅 2026-11-06 (👨‍💻 91 · 🔀 400 · 📦 1.5K · 📋 700 - 18% open · ⏱️ 20.05.2024):
 
   ```
   git clone https://github.com/paritytech/ink
@@ -1496,7 +1496,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/paritytech/jsonrpsee">jsonrpsee</a></b> (🥇26 ·  ⭐ 580) - Rust JSON-RPC library on top of async/await. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/paritytech/jsonrpsee) ⭐ 863 | 🐛 98 | 🌐 Rust | 📅 2026-11-18 (👨‍💻 70 · 🔀 150 · 📦 7.5K · 📋 490 - 12% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/paritytech/jsonrpsee) ⭐ 862 | 🐛 98 | 🌐 Rust | 📅 2026-11-18 (👨‍💻 70 · 🔀 150 · 📦 7.5K · 📋 490 - 12% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/paritytech/jsonrpsee
@@ -1514,7 +1514,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/paritytech/subxt">subxt</a></b> (🥇25 ·  ⭐ 380) - Interact with Substrate based nodes in Rust or WebAssembly. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/paritytech/subxt) ⭐ 491 | 🐛 104 | 🌐 Rust | 📅 2026-11-16 (👨‍💻 92 · 🔀 240 · 📦 1.2K · 📋 540 - 9% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/paritytech/subxt) ⭐ 490 | 🐛 105 | 🌐 Rust | 📅 2026-11-16 (👨‍💻 92 · 🔀 240 · 📦 1.2K · 📋 540 - 9% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/paritytech/subxt
@@ -1541,7 +1541,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/polkadot-js/extension">extension</a></b> (🥇24 ·  ⭐ 960) - Simple browser extension for managing Polkadot and Substrate.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/polkadot-js/extension) ⭐ 1,022 | 🐛 54 | 🌐 TypeScript | 📅 2026-09-23 (👨‍💻 45 · 🔀 390 · 📥 4.2K · 📦 2 · 📋 480 - 11% open · ⏱️ 22.05.2024):
+* [GitHub](https://github.com/polkadot-js/extension) ⭐ 1,020 | 🐛 54 | 🌐 TypeScript | 📅 2026-09-23 (👨‍💻 45 · 🔀 390 · 📥 4.2K · 📦 2 · 📋 480 - 11% open · ⏱️ 22.05.2024):
 
   ```
   git clone https://github.com/polkadot-js/extension
@@ -1550,7 +1550,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/polkadot-js/common">common</a></b> (🥇24 ·  ⭐ 250) - Utilities and base libraries for use across polkadot-js for Polkadot.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/polkadot-js/common) ⭐ 261 | 🐛 9 | 🌐 TypeScript | 📅 2026-03-23 (👨‍💻 71 · 🔀 140 · 📦 16K · 📋 270 - 4% open · ⏱️ 14.05.2024):
+* [GitHub](https://github.com/polkadot-js/common) ⭐ 261 | 🐛 10 | 🌐 TypeScript | 📅 2026-03-23 (👨‍💻 71 · 🔀 140 · 📦 16K · 📋 270 - 4% open · ⏱️ 14.05.2024):
 
   ```
   git clone https://github.com/polkadot-js/common
@@ -1568,7 +1568,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/w3f/polkadot-wiki">polkadot-wiki</a></b> (🥇23 ·  ⭐ 360) - The source of truth for Polkadot. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/w3f/polkadot-wiki) ⭐ 435 | 🐛 31 | 🌐 CSS | 📅 2026-11-18 (👨‍💻 310 · 🔀 2K · 📋 1.5K - 2% open · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/w3f/polkadot-wiki) ⭐ 435 | 🐛 31 | 🌐 CSS | 📅 2026-11-19 (👨‍💻 310 · 🔀 2K · 📋 1.5K - 2% open · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/w3f/polkadot-wiki
@@ -1577,7 +1577,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/paritytech/parity-common">parity-common</a></b> (🥇23 ·  ⭐ 280) - Collection of crates used in Parity projects. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/paritytech/parity-common) ⭐ 312 | 🐛 52 | 🌐 Rust | 📅 2026-10-23 (👨‍💻 110 · 🔀 210 · 📦 2.5K · 📋 200 - 23% open · ⏱️ 05.02.2024):
+* [GitHub](https://github.com/paritytech/parity-common) ⭐ 311 | 🐛 52 | 🌐 Rust | 📅 2026-10-23 (👨‍💻 110 · 🔀 210 · 📦 2.5K · 📋 200 - 23% open · ⏱️ 05.02.2024):
 
   ```
   git clone https://github.com/paritytech/parity-common
@@ -1595,7 +1595,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/paritytech/substrate-connect">substrate-connect</a></b> (🥇23 ·  ⭐ 220) - Run Wasm Light Clients of any Substrate based chain.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/paritytech/substrate-connect) ⭐ 259 | 🐛 41 | 🌐 TypeScript | 📅 2026-11-18 (👨‍💻 23 · 🔀 74 · 📦 5.2K · 📋 370 - 9% open · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/paritytech/substrate-connect) ⭐ 259 | 🐛 41 | 🌐 TypeScript | 📅 2026-11-19 (👨‍💻 23 · 🔀 74 · 📦 5.2K · 📋 370 - 9% open · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/paritytech/substrate-connect
@@ -1604,7 +1604,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/w3f/Grants-Program">Grants-Program</a></b> (🥇22 ·  ⭐ 990) - Web3 Foundation Grants Program. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/w3f/Grants-Program) ⭐ 1,193 | 🐛 10 | 🌐 JavaScript | 📅 2026-03-19 (👨‍💻 450 · 🔀 1.9K · 📦 4 · 📋 46 - 28% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/w3f/Grants-Program) ⭐ 1,192 | 🐛 10 | 🌐 JavaScript | 📅 2026-03-19 (👨‍💻 450 · 🔀 1.9K · 📦 4 · 📋 46 - 28% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/w3f/Grants-Program
@@ -1649,7 +1649,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/paritytech/parity-db">parity-db</a></b> (🥈20 ·  ⭐ 260) - Experimental blockchain database. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/paritytech/parity-db) ⭐ 285 | 🐛 18 | 🌐 Rust | 📅 2026-10-06 (👨‍💻 27 · 🔀 58 · 📦 14K · 📋 69 - 18% open · ⏱️ 03.05.2024):
+* [GitHub](https://github.com/paritytech/parity-db) ⭐ 286 | 🐛 18 | 🌐 Rust | 📅 2026-10-06 (👨‍💻 27 · 🔀 58 · 📦 14K · 📋 69 - 18% open · ⏱️ 03.05.2024):
 
   ```
   git clone https://github.com/paritytech/parity-db
@@ -1658,7 +1658,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/paritytech/jsonrpc">jsonrpc</a></b> (🥈19 ·  ⭐ 780 · 💤) - Rust JSON-RPC implementation. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/paritytech/jsonrpc) ⭐ 820 | 🐛 80 | 🌐 Rust | 📅 2024-08-21 (👨‍💻 76 · 🔀 260 · 📋 250 - 32% open · ⏱️ 26.10.2023):
+* [GitHub](https://github.com/paritytech/jsonrpc) ⭐ 819 | 🐛 80 | 🌐 Rust | 📅 2024-08-21 (👨‍💻 76 · 🔀 260 · 📋 250 - 32% open · ⏱️ 26.10.2023):
 
   ```
   git clone https://github.com/paritytech/jsonrpc
@@ -1697,7 +1697,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/IntersectMBO/cardano-node">cardano-node</a></b> (🥇32 ·  ⭐ 3K) - The core component that is used to participate in a Cardano.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/IntersectMBO/cardano-node) ⭐ 3,175 | 🐛 71 | 🌐 Haskell | 📅 2026-11-18 (👨‍💻 160 · 🔀 710 · 📥 63K · 📋 1.9K - 14% open · ⏱️ 03.06.2024):
+* [GitHub](https://github.com/IntersectMBO/cardano-node) ⭐ 3,175 | 🐛 71 | 🌐 Haskell | 📅 2026-11-19 (👨‍💻 160 · 🔀 710 · 📥 63K · 📋 1.9K - 14% open · ⏱️ 03.06.2024):
 
   ```
   git clone https://github.com/input-output-hk/cardano-node
@@ -1706,7 +1706,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/IntersectMBO/cardano-ledger">cardano-ledger</a></b> (🥇27 ·  ⭐ 250) - The ledger implementation and specifications of the Cardano.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/IntersectMBO/cardano-ledger) ⭐ 298 | 🐛 279 | 🌐 Haskell | 📅 2026-11-18 (👨‍💻 120 · 🔀 150 · 📥 36K · 📋 1.5K - 11% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/IntersectMBO/cardano-ledger) ⭐ 298 | 🐛 282 | 🌐 Haskell | 📅 2026-11-19 (👨‍💻 120 · 🔀 150 · 📥 36K · 📋 1.5K - 11% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/input-output-hk/cardano-ledger
@@ -1715,7 +1715,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/cardano-foundation/cardano-wallet">cardano-wallet</a></b> (🥇26 ·  ⭐ 750) - HTTP server & command-line for managing UTxOs and HD wallets.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/cardano-foundation/cardano-wallet) ⭐ 822 | 🐛 90 | 🌐 Haskell | 📅 2026-11-18 (👨‍💻 52 · 🔀 220 · 📥 20K · 📋 920 - 12% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/cardano-foundation/cardano-wallet) ⭐ 822 | 🐛 90 | 🌐 Haskell | 📅 2026-11-19 (👨‍💻 52 · 🔀 220 · 📥 20K · 📋 920 - 12% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/input-output-hk/cardano-wallet
@@ -1724,7 +1724,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/IntersectMBO/plutus">plutus</a></b> (🥇25 ·  ⭐ 1.5K) - The Plutus language implementation and tools. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/IntersectMBO/plutus) ⭐ 1,633 | 🐛 259 | 🌐 Haskell | 📅 2026-11-18 (👨‍💻 150 · 🔀 450 · 📥 70 · 📦 3 · 📋 1.2K - 18% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/IntersectMBO/plutus) ⭐ 1,634 | 🐛 258 | 🌐 Haskell | 📅 2026-11-19 (👨‍💻 150 · 🔀 450 · 📥 70 · 📦 3 · 📋 1.2K - 18% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/input-output-hk/plutus
@@ -1733,7 +1733,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/input-output-hk/daedalus">daedalus</a></b> (🥇25 ·  ⭐ 1.2K) - The open source cryptocurrency wallet for ada, built to grow with.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/input-output-hk/daedalus) ⭐ 1,248 | 🐛 26 | 🌐 TypeScript | 📅 2026-11-18 (👨‍💻 71 · 🔀 290 · 📥 8.3K · 📋 590 - 18% open · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/input-output-hk/daedalus) ⭐ 1,247 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-19 (👨‍💻 71 · 🔀 290 · 📥 8.3K · 📋 590 - 18% open · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/input-output-hk/daedalus
@@ -1742,7 +1742,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/input-output-hk/haskell.nix">haskell.nix</a></b> (🥇25 ·  ⭐ 530) - Alternative Haskell Infrastructure for Nixpkgs. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/input-output-hk/haskell.nix) ⭐ 634 | 🐛 75 | 🌐 Nix | 📅 2026-11-18 (👨‍💻 150 · 🔀 220 · 📥 1.2K · 📋 900 - 21% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/input-output-hk/haskell.nix) ⭐ 634 | 🐛 62 | 🌐 Nix | 📅 2026-11-19 (👨‍💻 150 · 🔀 220 · 📥 1.2K · 📋 900 - 21% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/input-output-hk/haskell.nix
@@ -1751,7 +1751,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/IntersectMBO/cardano-db-sync">cardano-db-sync</a></b> (🥇23 ·  ⭐ 280) - A component that follows the Cardano chain and stores.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/IntersectMBO/cardano-db-sync) ⭐ 319 | 🐛 77 | 🌐 Haskell | 📅 2026-11-06 (👨‍💻 65 · 🔀 150 · 📥 3.2K · 📋 780 - 13% open · ⏱️ 03.06.2024):
+* [GitHub](https://github.com/IntersectMBO/cardano-db-sync) ⭐ 319 | 🐛 77 | 🌐 Haskell | 📅 2026-11-19 (👨‍💻 65 · 🔀 150 · 📥 3.2K · 📋 780 - 13% open · ⏱️ 03.06.2024):
 
   ```
   git clone https://github.com/input-output-hk/cardano-db-sync
@@ -1778,7 +1778,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/input-output-hk/hydra">hydra</a></b> (🥇22 ·  ⭐ 260) - Implementation of the Hydra Head protocol. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/input-output-hk/hydra) ⭐ 338 | 🐛 137 | 🌐 Haskell | 📅 2026-11-18 (👨‍💻 42 · 🔀 84 · 📥 230 · 📋 350 - 14% open · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/input-output-hk/hydra) ⭐ 338 | 🐛 136 | 🌐 Haskell | 📅 2026-11-19 (👨‍💻 42 · 🔀 84 · 📥 230 · 📋 350 - 14% open · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/input-output-hk/hydra
@@ -1796,7 +1796,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/IntersectMBO/ouroboros-network">ouroboros-network</a></b> (🥈21 ·  ⭐ 270) - Specifications of network protocols and implementations.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/IntersectMBO/ouroboros-network) ⭐ 297 | 🐛 367 | 🌐 Haskell | 📅 2026-11-18 (👨‍💻 84 · 🔀 83 · 📋 1.5K - 22% open · ⏱️ 31.05.2024):
+* [GitHub](https://github.com/IntersectMBO/ouroboros-network) ⭐ 297 | 🐛 368 | 🌐 Haskell | 📅 2026-11-19 (👨‍💻 84 · 🔀 83 · 📋 1.5K - 22% open · ⏱️ 31.05.2024):
 
   ```
   git clone https://github.com/input-output-hk/ouroboros-network
@@ -1832,7 +1832,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/input-output-hk/plutus-pioneer-program">plutus-pioneer-program</a></b> (🥈15 ·  ⭐ 1.4K) - This repository hosts the lectures of the Plutus.. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/input-output-hk/plutus-pioneer-program) ⭐ 1,366 | 🐛 5 | 🌐 Haskell | 📅 2026-10-27 (👨‍💻 24 · 🔀 960 · 📋 46 - 2% open · ⏱️ 20.12.2023):
+* [GitHub](https://github.com/input-output-hk/plutus-pioneer-program) ⭐ 1,365 | 🐛 5 | 🌐 Haskell | 📅 2026-10-27 (👨‍💻 24 · 🔀 960 · 📋 46 - 2% open · ⏱️ 20.12.2023):
 
   ```
   git clone https://github.com/input-output-hk/plutus-pioneer-program
@@ -1853,7 +1853,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/near/near-api-js">near-api-js</a></b> (🥇29 ·  ⭐ 390) - JavaScript library to interact with NEAR Protocol via RPC API. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/near/near-api-js) ⭐ 429 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-17 (👨‍💻 83 · 🔀 240 · 📦 18K · 📋 350 - 21% open · ⏱️ 31.05.2024):
+* [GitHub](https://github.com/near/near-api-js) ⭐ 428 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-19 (👨‍💻 83 · 🔀 240 · 📦 18K · 📋 350 - 21% open · ⏱️ 31.05.2024):
 
   ```
   git clone https://github.com/near/near-api-js
@@ -1862,7 +1862,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/near/nearcore">nearcore</a></b> (🥇28 ·  ⭐ 2.3K) - Reference client for NEAR Protocol. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/near/nearcore) ⭐ 2,623 | 🐛 576 | 🌐 Rust | 📅 2026-11-18 (👨‍💻 200 · 🔀 580 · 📦 19 · 📋 3.8K - 28% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/near/nearcore) ⭐ 2,622 | 🐛 582 | 🌐 Rust | 📅 2026-11-19 (👨‍💻 200 · 🔀 580 · 📦 19 · 📋 3.8K - 28% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/near/nearcore
@@ -1871,7 +1871,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/near/near-sdk-rs">near-sdk-rs</a></b> (🥇25 ·  ⭐ 440) - Rust library for writing NEAR smart contracts. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/near/near-sdk-rs) ⭐ 517 | 🐛 116 | 🌐 Rust | 📅 2026-11-18 (👨‍💻 75 · 🔀 210 · 📦 2.3K · 📋 480 - 26% open · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/near/near-sdk-rs) ⭐ 516 | 🐛 112 | 🌐 Rust | 📅 2026-11-19 (👨‍💻 75 · 🔀 210 · 📦 2.3K · 📋 480 - 26% open · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/near/near-sdk-rs
@@ -1880,7 +1880,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/near/create-near-app">create-near-app</a></b> (🥇23 ·  ⭐ 350) - Create a starter app hooked up to the NEAR blockchain. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/near/create-near-app) ⭐ 370 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-24 (👨‍💻 36 · 🔀 150 · 📦 12 · 📋 120 - 7% open · ⏱️ 24.05.2024):
+* [GitHub](https://github.com/near/create-near-app) ⭐ 369 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-24 (👨‍💻 36 · 🔀 150 · 📦 12 · 📋 120 - 7% open · ⏱️ 24.05.2024):
 
   ```
   git clone https://github.com/near/create-near-app
@@ -1889,7 +1889,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/near/borsh-rs">borsh-rs</a></b> (🥇23 ·  ⭐ 270) - Rust implementation of Binary Object Representation Serializer for.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/near/borsh-rs) ⭐ 435 | 🐛 35 | 🌐 Rust | 📅 2026-11-18 (👨‍💻 48 · 🔀 61 · 📦 44K · 📋 92 - 19% open · ⏱️ 31.05.2024):
+* [GitHub](https://github.com/near/borsh-rs) ⭐ 435 | 🐛 45 | 🌐 Rust | 📅 2026-11-19 (👨‍💻 48 · 🔀 61 · 📦 44K · 📋 92 - 19% open · ⏱️ 31.05.2024):
 
   ```
   git clone https://github.com/near/borsh-rs
@@ -1928,7 +1928,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/Chia-Network/chia-blockchain">chia-blockchain</a></b> (🥇37 ·  ⭐ 11K) - Chia blockchain python implementation (full node, farmer,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/Chia-Network/chia-blockchain) ⭐ 10,793 | 🐛 187 | 🌐 Python | 📅 2026-11-18 (👨‍💻 160 · 🔀 2K · 📥 130K · 📦 110 · 📋 5.2K - 7% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/Chia-Network/chia-blockchain) ⭐ 10,794 | 🐛 188 | 🌐 Python | 📅 2026-11-19 (👨‍💻 160 · 🔀 2K · 📥 130K · 📦 110 · 📋 5.2K - 7% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/Chia-Network/chia-blockchain
@@ -1937,7 +1937,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/Chia-Network/chiapos">chiapos</a></b> (🥇24 ·  ⭐ 270) - Chia Proof of Space library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/Chia-Network/chiapos) ⭐ 269 | 🐛 6 | 🌐 HTML | 📅 2026-11-18 (👨‍💻 45 · 🔀 280 · 📦 520 · 📋 100 - 22% open · ⏱️ 30.05.2024):
+* [GitHub](https://github.com/Chia-Network/chiapos) ⭐ 269 | 🐛 6 | 🌐 HTML | 📅 2026-11-19 (👨‍💻 45 · 🔀 280 · 📦 520 · 📋 100 - 22% open · ⏱️ 30.05.2024):
 
   ```
   git clone https://github.com/Chia-Network/chiapos
@@ -1955,7 +1955,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/Chia-Network/chia-blockchain-gui">chia-blockchain-gui</a></b> (🥈20 ·  ⭐ 330) - Chia blockchain GUI in electron/react. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/Chia-Network/chia-blockchain-gui) ⭐ 343 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-18 (👨‍💻 56 · 🔀 240 · 📋 720 - 5% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/Chia-Network/chia-blockchain-gui) ⭐ 343 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-19 (👨‍💻 56 · 🔀 240 · 📋 720 - 5% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/Chia-Network/chia-blockchain-gui
@@ -1964,7 +1964,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/Chia-Network/bladebit">bladebit</a></b> (🥈19 ·  ⭐ 340) - A high-performance k32-only, Chia (XCH) plotter supporting in-RAM.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/Chia-Network/bladebit) ⭐ 319 | 🐛 113 | 🌐 C | 📅 2026-11-18 (👨‍💻 11 · 🔀 110 · 📥 230K · 📋 230 - 47% open · ⏱️ 17.05.2024):
+* [GitHub](https://github.com/Chia-Network/bladebit) ⭐ 313 | 🐛 113 | 🌐 C | 📅 2026-11-19 (👨‍💻 11 · 🔀 110 · 📥 230K · 📋 230 - 47% open · ⏱️ 17.05.2024):
 
   ```
   git clone https://github.com/Chia-Network/bladebit
@@ -1973,7 +1973,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/Chia-Network/pool-reference">pool-reference</a></b> (🥈18 ·  ⭐ 440) - Reference python implementation of Chia pool operations for.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/Chia-Network/pool-reference) ⭐ 430 | 🐛 26 | 🌐 Python | 📅 2026-11-17 (👨‍💻 42 · 🔀 200 · 📋 180 - 7% open · ⏱️ 30.05.2024):
+* [GitHub](https://github.com/Chia-Network/pool-reference) ⭐ 429 | 🐛 26 | 🌐 Python | 📅 2026-11-17 (👨‍💻 42 · 🔀 200 · 📋 180 - 7% open · ⏱️ 30.05.2024):
 
   ```
   git clone https://github.com/Chia-Network/pool-reference
@@ -1982,7 +1982,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/Chia-Network/chia-docker">chia-docker</a></b> (🥈17 ·  ⭐ 210) -  <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/Chia-Network/chia-docker) ⭐ 216 | 🐛 5 | 🌐 Shell | 📅 2026-11-18 (👨‍💻 38 · 🔀 350 · 📋 110 - 1% open · ⏱️ 31.05.2024):
+* [GitHub](https://github.com/Chia-Network/chia-docker) ⭐ 216 | 🐛 5 | 🌐 Shell | 📅 2026-11-19 (👨‍💻 38 · 🔀 350 · 📋 110 - 1% open · ⏱️ 31.05.2024):
 
   ```
   git clone https://github.com/Chia-Network/chia-docker
@@ -2023,7 +2023,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/neo-project/neo-node">neo-node</a></b> (🥈20 ·  ⭐ 230) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/neo-project/neo-node) ⭐ 232 | 🐛 35 | 🌐 C# | 📅 2026-11-18 (👨‍💻 46 · 🔀 220 · 📥 110K · 📋 460 - 0% open · ⏱️ 07.12.2023):
+* [GitHub](https://github.com/neo-project/neo-node) ⭐ 232 | 🐛 36 | 🌐 C# | 📅 2026-11-19 (👨‍💻 46 · 🔀 220 · 📥 110K · 📋 460 - 0% open · ⏱️ 07.12.2023):
 
   ```
   git clone https://github.com/neo-project/neo-node
@@ -2044,7 +2044,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/multiversx/mx-chain-go">mx-chain-go</a></b> (🥇27 ·  ⭐ 910) - The official implementation of the MultiversX blockchain.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/multiversx/mx-chain-go) ⭐ 953 | 🐛 101 | 🌐 Go | 📅 2026-11-17 (👨‍💻 57 · 🔀 200 · 📥 590 · 📦 120 · 📋 510 - 19% open · ⏱️ 24.05.2024):
+* [GitHub](https://github.com/multiversx/mx-chain-go) ⭐ 952 | 🐛 97 | 🌐 Go | 📅 2026-11-19 (👨‍💻 57 · 🔀 200 · 📥 590 · 📦 120 · 📋 510 - 19% open · ⏱️ 24.05.2024):
 
   ```
   git clone https://github.com/multiversx/mx-chain-go
@@ -2065,7 +2065,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/tronprotocol/java-tron">java-tron</a></b> (🥇30 ·  ⭐ 3.6K) - Java implementation of the Tron whitepaper. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/tronprotocol/java-tron) ⭐ 4,180 | 🐛 33 | 🌐 Java | 📅 2026-11-18 (👨‍💻 260 · 🔀 1.3K · 📥 120K · 📋 1.4K - 1% open · ⏱️ 31.05.2024):
+* [GitHub](https://github.com/tronprotocol/java-tron) ⭐ 4,179 | 🐛 36 | 🌐 Java | 📅 2026-11-19 (👨‍💻 260 · 🔀 1.3K · 📥 120K · 📋 1.4K - 1% open · ⏱️ 31.05.2024):
 
   ```
   git clone https://github.com/tronprotocol/java-tron
@@ -2074,7 +2074,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/tronprotocol/tronweb">tronweb</a></b> (🥇27 ·  ⭐ 380) - Javascript API Library for interacting with the TRON Network. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/tronprotocol/tronweb) ⭐ 578 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-11 (👨‍💻 49 · 🔀 250 · 📦 4.6K · 📋 280 - 3% open · ⏱️ 22.02.2024):
+* [GitHub](https://github.com/tronprotocol/tronweb) ⭐ 576 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-11 (👨‍💻 49 · 🔀 250 · 📦 4.6K · 📋 280 - 3% open · ⏱️ 22.02.2024):
 
   ```
   git clone https://github.com/tronprotocol/tronweb
@@ -2083,7 +2083,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/tronprotocol/wallet-cli">wallet-cli</a></b> (🥈20 ·  ⭐ 560) - Wallet CLI. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/tronprotocol/wallet-cli) ⭐ 849 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-18 (👨‍💻 88 · 🔀 390 · 📥 5.3K · 📋 160 - 3% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/tronprotocol/wallet-cli) ⭐ 848 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-19 (👨‍💻 88 · 🔀 390 · 📥 5.3K · 📋 160 - 3% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/tronprotocol/wallet-cli
@@ -2092,7 +2092,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/tronprotocol/tips">tips</a></b> (🥈16 ·  ⭐ 210) - TRON Improvement Proposals. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/tronprotocol/tips) ⭐ 340 | 🐛 42 | 📅 2026-09-03 (👨‍💻 50 · 🔀 170 · 📋 270 - 3% open · ⏱️ 30.05.2024):
+* [GitHub](https://github.com/tronprotocol/tips) ⭐ 340 | 🐛 43 | 📅 2026-09-03 (👨‍💻 50 · 🔀 170 · 📋 270 - 3% open · ⏱️ 30.05.2024):
 
   ```
   git clone https://github.com/tronprotocol/tips
@@ -2122,7 +2122,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/maticnetwork/bor">bor</a></b> (🥇30 ·  ⭐ 980) - Official repository for the Polygon Blockchain. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/maticnetwork/bor) ⭐ 1,109 | 🐛 21 | 🌐 Go | 📅 2026-11-18 (👨‍💻 950 · 🔀 460 · 📥 52K · 📦 70 · 📋 390 - 3% open · ⏱️ 10.05.2024):
+* [GitHub](https://github.com/maticnetwork/bor) ⭐ 1,109 | 🐛 21 | 🌐 Go | 📅 2026-11-19 (👨‍💻 950 · 🔀 460 · 📥 52K · 📦 70 · 📋 390 - 3% open · ⏱️ 10.05.2024):
 
   ```
   git clone https://github.com/maticnetwork/bor
@@ -2149,7 +2149,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/maticnetwork/matic.js">matic.js</a></b> (🥈19 ·  ⭐ 540) - Javascript developer library to interact with Matic Network. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/maticnetwork/matic.js) ⭐ 568 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-17 (👨‍💻 45 · 🔀 250 · 📦 3 · 📋 91 - 15% open · ⏱️ 19.03.2024):
+* [GitHub](https://github.com/maticnetwork/matic.js) ⭐ 567 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-17 (👨‍💻 45 · 🔀 250 · 📦 3 · 📋 91 - 15% open · ⏱️ 19.03.2024):
 
   ```
   git clone https://github.com/maticnetwork/matic.js
@@ -2197,7 +2197,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/LiskHQ/lisk-desktop">lisk-desktop</a></b> (🥇27 ·  ⭐ 590) - Lisk graphical user interface for desktop. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/LiskHQ/lisk-desktop) ⭐ 573 | 🐛 23 | 🌐 JavaScript | 📅 2024-08-23 (👨‍💻 75 · 🔀 97 · 📥 590K · 📋 3.1K - 0% open · ⏱️ 21.05.2024):
+* [GitHub](https://github.com/LiskHQ/lisk-desktop) ⭐ 572 | 🐛 23 | 🌐 JavaScript | 📅 2024-08-23 (👨‍💻 75 · 🔀 97 · 📥 590K · 📋 3.1K - 0% open · ⏱️ 21.05.2024):
 
   ```
   git clone https://github.com/LiskHQ/lisk-desktop
@@ -2218,7 +2218,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/hashgraph/hedera-sdk-js">hedera-sdk-js</a></b> (🥇26 ·  ⭐ 250) - Hedera Hashgraph SDK for JavaScript/TypeScript. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/hashgraph/hedera-sdk-js) ⭐ 336 | 🐛 32 | 🌐 JavaScript | 📅 2026-11-18 (👨‍💻 44 · 🔀 130 · 📦 2.3K · 📋 820 - 11% open · ⏱️ 03.06.2024):
+* [GitHub](https://github.com/hashgraph/hedera-sdk-js) ⭐ 335 | 🐛 28 | 🌐 JavaScript | 📅 2026-11-19 (👨‍💻 44 · 🔀 130 · 📦 2.3K · 📋 820 - 11% open · ⏱️ 03.06.2024):
 
   ```
   git clone https://github.com/hashgraph/hedera-sdk-js
@@ -2227,7 +2227,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/hashgraph/hedera-services">hedera-services</a></b> (🥇25 ·  ⭐ 260) - Crypto, token, consensus, file, and smart contract.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/hashgraph/hedera-services) ⭐ 410 | 🐛 1,690 | 🌐 Java | 📅 2026-11-18 (👨‍💻 120 · 🔀 110 · 📋 7.7K - 19% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/hashgraph/hedera-services) ⭐ 410 | 🐛 1,696 | 🌐 Java | 📅 2026-11-19 (👨‍💻 120 · 🔀 110 · 📋 7.7K - 19% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/hashgraph/hedera-services
@@ -2257,7 +2257,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/oasisprotocol/oasis-core">oasis-core</a></b> (🥇30 ·  ⭐ 330) - Performant and Confidentiality-Preserving Smart Contracts +.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/oasisprotocol/oasis-core) ⭐ 369 | 🐛 417 | 🌐 Go | 📅 2026-11-18 (👨‍💻 44 · 🔀 110 · 📥 59K · 📦 180 · 📋 1.8K - 15% open · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/oasisprotocol/oasis-core) ⭐ 369 | 🐛 418 | 🌐 Go | 📅 2026-11-19 (👨‍💻 44 · 🔀 110 · 📥 59K · 📦 180 · 📋 1.8K - 15% open · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/oasisprotocol/oasis-core
@@ -2278,7 +2278,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/etclabscore/core-geth">core-geth</a></b> (🥇25 ·  ⭐ 260) - A highly configurable Go implementation of the Ethereum protocol. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/etclabscore/core-geth) ⭐ 309 | 🐛 28 | 🌐 Go | 📅 2026-11-17 (👨‍💻 920 · 🔀 160 · 📥 110K · 📦 7 · 📋 220 - 30% open · ⏱️ 13.03.2024):
+* [GitHub](https://github.com/etclabscore/core-geth) ⭐ 308 | 🐛 28 | 🌐 Go | 📅 2026-11-17 (👨‍💻 920 · 🔀 160 · 📥 110K · 📦 7 · 📋 220 - 30% open · ⏱️ 13.03.2024):
 
   ```
   git clone https://github.com/etclabscore/core-geth
@@ -2310,7 +2310,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/harmony-one/harmony">harmony</a></b> (🥇28 ·  ⭐ 1.5K) - The core protocol of harmony. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/harmony-one/harmony) ⭐ 1,447 | 🐛 148 | 🌐 Go | 📅 2026-09-03 (👨‍💻 99 · 🔀 290 · 📥 350K · 📦 83 · 📋 1.2K - 7% open · ⏱️ 05.03.2024):
+* [GitHub](https://github.com/harmony-one/harmony) ⭐ 1,446 | 🐛 149 | 🌐 Go | 📅 2026-09-03 (👨‍💻 99 · 🔀 290 · 📥 350K · 📦 83 · 📋 1.2K - 7% open · ⏱️ 05.03.2024):
 
   ```
   git clone https://github.com/harmony-one/harmony
@@ -2342,7 +2342,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/ontio/ontology">ontology</a></b> (🥇26 ·  ⭐ 820) - Official Go implementation of the Ontology protocol. https://dev-.. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/ontio/ontology) ⭐ 926 | 🐛 69 | 🌐 Go | 📅 2026-10-23 (👨‍💻 75 · 🔀 320 · 📥 21K · 📦 260 · 📋 260 - 24% open · ⏱️ 03.06.2024):
+* [GitHub](https://github.com/ontio/ontology) ⭐ 925 | 🐛 69 | 🌐 Go | 📅 2026-10-23 (👨‍💻 75 · 🔀 320 · 📥 21K · 📦 260 · 📋 260 - 24% open · ⏱️ 03.06.2024):
 
   ```
   git clone https://github.com/ontio/ontology
@@ -2363,7 +2363,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/AstarNetwork/Astar">Astar</a></b> (🥇22 ·  ⭐ 730) - The dApp hub for blockchains of the future. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/AstarNetwork/Astar) ⭐ 770 | 🐛 10 | 🌐 Rust | 📅 2026-11-17 (👨‍💻 38 · 🔀 200 · 📥 21K · 📋 310 - 8% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/AstarNetwork/Astar) ⭐ 770 | 🐛 11 | 🌐 Rust | 📅 2026-11-19 (👨‍💻 38 · 🔀 200 · 📥 21K · 📋 310 - 8% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/AstarNetwork/Astar
@@ -2477,7 +2477,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/radixdlt/radixdlt-scrypto">radixdlt-scrypto</a></b> (🥇23 ·  ⭐ 400) - Scrypto is the asset-oriented smart contract.. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/radixdlt/radixdlt-scrypto) ⭐ 409 | 🐛 29 | 🌐 Rust | 📅 2026-09-07 (👨‍💻 54 · 🔀 120 · 📦 17 · 📋 120 - 19% open · ⏱️ 24.05.2024):
+* [GitHub](https://github.com/radixdlt/radixdlt-scrypto) ⭐ 410 | 🐛 29 | 🌐 Rust | 📅 2026-09-07 (👨‍💻 54 · 🔀 120 · 📦 17 · 📋 120 - 19% open · ⏱️ 24.05.2024):
 
   ```
   git clone https://github.com/radixdlt/radixdlt-scrypto
@@ -2498,7 +2498,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/casper-network/casper-node">casper-node</a></b> (🥇26 ·  ⭐ 390) - Reference client for CASPER protocol. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/casper-network/casper-node) ⭐ 395 | 🐛 243 | 🌐 Rust | 📅 2026-11-05 (👨‍💻 91 · 🔀 220 · 📥 1.4K · 📦 180 · 📋 1.7K - 19% open · ⏱️ 10.04.2024):
+* [GitHub](https://github.com/casper-network/casper-node) ⭐ 394 | 🐛 245 | 🌐 Rust | 📅 2026-11-19 (👨‍💻 91 · 🔀 220 · 📥 1.4K · 📦 180 · 📋 1.7K - 19% open · ⏱️ 10.04.2024):
 
   ```
   git clone https://github.com/casper-network/casper-node
@@ -2582,7 +2582,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/CosmosContracts/juno">CosmosContracts/juno</a></b> (🥇25 ·  ⭐ 310) - Open Source Platform for Interoperable Smart Contracts. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/CosmosContracts/juno) ⭐ 331 | 🐛 44 | 🌐 Go | 📅 2026-09-30 (👨‍💻 40 · 🔀 160 · 📥 44K · 📦 3 · 📋 230 - 17% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/CosmosContracts/juno) ⭐ 330 | 🐛 44 | 🌐 Go | 📅 2026-09-30 (👨‍💻 40 · 🔀 160 · 📥 44K · 📦 3 · 📋 230 - 17% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/CosmosContracts/juno
@@ -2736,7 +2736,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/circlefin/stablecoin-evm">centre-tokens</a></b> (🥈18 ·  ⭐ 510) - Source repository for smart contracts used by Circles.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/circlefin/stablecoin-evm) ⭐ 811 | 🐛 137 | 🌐 TypeScript | 📅 2026-08-12 (👨‍💻 22 · 🔀 270 · 📥 18 · 📋 52 - 30% open · ⏱️ 21.05.2024):
+* [GitHub](https://github.com/circlefin/stablecoin-evm) ⭐ 813 | 🐛 137 | 🌐 TypeScript | 📅 2026-08-12 (👨‍💻 22 · 🔀 270 · 📥 18 · 📋 52 - 30% open · ⏱️ 21.05.2024):
 
   ```
   git clone https://github.com/centrehq/centre-tokens
@@ -2780,7 +2780,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/aave/interface">aave/interface</a></b> (🥈19 ·  ⭐ 380) - An open source interface for the decentralized liquidity.. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/aave/interface) ⭐ 537 | 🐛 137 | 🌐 TypeScript | 📅 2026-11-18 (👨‍💻 46 · 🔀 300 · 📥 71 · 📋 580 - 20% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/aave/interface) ⭐ 538 | 🐛 136 | 🌐 TypeScript | 📅 2026-11-19 (👨‍💻 46 · 🔀 300 · 📥 71 · 📋 580 - 20% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/aave/interface
@@ -2840,7 +2840,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/Synthetixio/synpress">synpress</a></b> (🥈20 ·  ⭐ 550) - Synpress is e2e testing framework based on Cypress.io and playwright with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/Synthetixio/synpress) ⭐ 893 | 🐛 126 | 🌐 TypeScript | 📅 2026-10-06 (👨‍💻 27 · 🔀 170 · 📦 3 · 📋 210 - 42% open · ⏱️ 30.05.2024):
+* [GitHub](https://github.com/Synthetixio/synpress) ⭐ 892 | 🐛 126 | 🌐 TypeScript | 📅 2026-10-06 (👨‍💻 27 · 🔀 170 · 📦 3 · 📋 210 - 42% open · ⏱️ 30.05.2024):
 
   ```
   git clone https://github.com/Synthetixio/synpress
@@ -2946,7 +2946,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/consenlabs/token-profile">token-profile</a></b> (🥇23 ·  ⭐ 820) - Blockchain coin and token profile collection. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/consenlabs/token-profile) ⭐ 923 | 🐛 14 | 🌐 TypeScript | 📅 2025-09-12 (👨‍💻 1.7K · 🔀 3.5K · 📋 690 - 9% open · ⏱️ 03.06.2024):
+* [GitHub](https://github.com/consenlabs/token-profile) ⭐ 923 | 🐛 16 | 🌐 TypeScript | 📅 2025-09-12 (👨‍💻 1.7K · 🔀 3.5K · 📋 690 - 9% open · ⏱️ 03.06.2024):
 
   ```
   git clone https://github.com/consenlabs/token-profile
@@ -3113,7 +3113,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/blocto/solana-go-sdk">solana-go-sdk</a></b> (🥈19 ·  ⭐ 330) - Solana Golang SDK. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/blocto/solana-go-sdk) ⭐ 480 | 🐛 57 | 🌐 Go | 📅 2024-06-19 (👨‍💻 12 · 🔀 76 · 📦 61 · 📋 91 - 30% open · ⏱️ 16.05.2024):
+* [GitHub](https://github.com/blocto/solana-go-sdk) ⭐ 479 | 🐛 57 | 🌐 Go | 📅 2024-06-19 (👨‍💻 12 · 🔀 76 · 📦 61 · 📋 91 - 30% open · ⏱️ 16.05.2024):
 
   ```
   git clone https://github.com/portto/solana-go-sdk
@@ -3177,7 +3177,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/UMAprotocol/protocol">UMAprotocol/protocol</a></b> (🥈19 ·  ⭐ 360) - UMA Protocol Running on Ethereum. <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/UMAprotocol/protocol) ⭐ 491 | 🐛 38 | 🌐 JavaScript | 📅 2026-11-16 (👨‍💻 51 · 🔀 170 · 📋 980 - 1% open · ⏱️ 28.05.2024):
+* [GitHub](https://github.com/UMAprotocol/protocol) ⭐ 491 | 🐛 37 | 🌐 JavaScript | 📅 2026-11-19 (👨‍💻 51 · 🔀 170 · 📋 980 - 1% open · ⏱️ 28.05.2024):
 
   ```
   git clone https://github.com/UMAprotocol/protocol
@@ -3198,7 +3198,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/liquity/dev">liquity/dev</a></b> (🥈16 ·  ⭐ 310) - Liquity monorepo containing the contracts, SDK and Dev UI frontend. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/liquity/dev) ⭐ 362 | 🐛 56 | 🌐 JavaScript | 📅 2025-11-26 (👨‍💻 17 · 🔀 280 · 📋 270 - 18% open · ⏱️ 28.03.2024):
+* [GitHub](https://github.com/liquity/dev) ⭐ 361 | 🐛 56 | 🌐 JavaScript | 📅 2025-11-26 (👨‍💻 17 · 🔀 280 · 📋 270 - 18% open · ⏱️ 28.03.2024):
 
   ```
   git clone https://github.com/liquity/dev
@@ -3361,7 +3361,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/bnb-chain/bsc">bsc</a></b> (🥇31 ·  ⭐ 2.6K) - A BNB Smart Chain client based on the go-ethereum fork. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/bnb-chain/bsc) ⭐ 3,319 | 🐛 42 | 🌐 Go | 📅 2026-11-18 (👨‍💻 1K · 🔀 1.5K · 📥 310K · 📦 5 · 📋 1.3K - 1% open · ⏱️ 21.05.2024):
+* [GitHub](https://github.com/bnb-chain/bsc) ⭐ 3,319 | 🐛 44 | 🌐 Go | 📅 2026-11-19 (👨‍💻 1K · 🔀 1.5K · 📥 310K · 📦 5 · 📋 1.3K - 1% open · ⏱️ 21.05.2024):
 
   ```
   git clone https://github.com/bnb-chain/bsc
@@ -3370,7 +3370,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/bnb-chain/javascript-sdk">javascript-sdk</a></b> (🥇23 ·  ⭐ 380) - Javascript SDK to communicate with BNB Beacon Chain. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/bnb-chain/javascript-sdk) ⭐ 402 | 🐛 3 | 🌐 TypeScript | 📅 2025-04-03 (👨‍💻 31 · 🔀 240 · 📦 750 · 📋 180 - 1% open · ⏱️ 11.04.2024):
+* [GitHub](https://github.com/bnb-chain/javascript-sdk) ⭐ 401 | 🐛 3 | 🌐 TypeScript | 📅 2025-04-03 (👨‍💻 31 · 🔀 240 · 📦 750 · 📋 180 - 1% open · ⏱️ 11.04.2024):
 
   ```
   git clone https://github.com/bnb-chain/javascript-sdk
@@ -3379,7 +3379,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/bnb-chain/tss-lib">tss-lib</a></b> (🥈21 ·  ⭐ 730) - Threshold Signature Scheme, for ECDSA and EDDSA. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/bnb-chain/tss-lib) ⭐ 1,056 | 🐛 66 | 🌐 Go | 📅 2026-09-23 (👨‍💻 20 · 🔀 250 · 📥 4K · 📦 180 · 📋 140 - 43% open · ⏱️ 18.04.2024):
+* [GitHub](https://github.com/bnb-chain/tss-lib) ⭐ 1,055 | 🐛 67 | 🌐 Go | 📅 2026-09-23 (👨‍💻 20 · 🔀 250 · 📥 4K · 📦 180 · 📋 140 - 43% open · ⏱️ 18.04.2024):
 
   ```
   git clone https://github.com/bnb-chain/tss-lib
@@ -3427,7 +3427,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/trustwallet/assets">trustwallet/assets</a></b> (🥇29 ·  ⭐ 4.4K) - A comprehensive, up-to-date collection of information about.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/trustwallet/assets) ⭐ 5,418 | 🐛 128 | 🌐 Go | 📅 2026-11-18 (👨‍💻 4.1K · 🔀 22K · 📦 3 · 📋 1.1K - 1% open · ⏱️ 03.06.2024):
+* [GitHub](https://github.com/trustwallet/assets) ⭐ 5,419 | 🐛 138 | 🌐 Go | 📅 2026-11-19 (👨‍💻 4.1K · 🔀 22K · 📦 3 · 📋 1.1K - 1% open · ⏱️ 03.06.2024):
 
   ```
   git clone https://github.com/trustwallet/assets
@@ -3436,7 +3436,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/trustwallet/wallet-core">wallet-core</a></b> (🥇29 ·  ⭐ 2.7K) - Cross-platform, cross-blockchain wallet library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/trustwallet/wallet-core) ⭐ 3,594 | 🐛 220 | 🌐 C++ | 📅 2026-11-18 (👨‍💻 140 · 🔀 1.5K · 📥 86K · 📦 3 · 📋 1.4K - 2% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/trustwallet/wallet-core) ⭐ 3,596 | 🐛 216 | 🌐 C++ | 📅 2026-11-19 (👨‍💻 140 · 🔀 1.5K · 📥 86K · 📦 3 · 📋 1.4K - 2% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/trustwallet/wallet-core
@@ -3475,7 +3475,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/bitshares/bitshares-ui">bitshares-ui</a></b> (🥇27 ·  ⭐ 520) - Fully featured Graphical User Interface / Reference Wallet for the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/bitshares/bitshares-ui) ⭐ 520 | 🐛 451 | 🌐 JavaScript | 📅 2026-11-17 (👨‍💻 180 · 🔀 590 · 📥 220K · 📋 2.3K - 18% open · ⏱️ 15.05.2024):
+* [GitHub](https://github.com/bitshares/bitshares-ui) ⭐ 519 | 🐛 451 | 🌐 JavaScript | 📅 2026-11-17 (👨‍💻 180 · 🔀 590 · 📥 220K · 📋 2.3K - 18% open · ⏱️ 15.05.2024):
 
   ```
   git clone https://github.com/bitshares/bitshares-ui
@@ -3484,7 +3484,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/bitshares/bitshares-core">bitshares-core</a></b> (🥇23 ·  ⭐ 1.2K) - BitShares Blockchain node and command-line wallet. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/bitshares/bitshares-core) ⭐ 1,182 | 🐛 265 | 🌐 C++ | 📅 2026-10-23 (👨‍💻 81 · 🔀 660 · 📥 140K · 📋 1.3K - 20% open · ⏱️ 15.12.2023):
+* [GitHub](https://github.com/bitshares/bitshares-core) ⭐ 1,182 | 🐛 266 | 🌐 C++ | 📅 2026-10-23 (👨‍💻 81 · 🔀 660 · 📥 140K · 📋 1.3K - 20% open · ⏱️ 15.12.2023):
 
   ```
   git clone https://github.com/bitshares/bitshares-core
@@ -3514,7 +3514,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/crypto-org-chain/chain-main">chain-main</a></b> (🥈20 ·  ⭐ 490) - Crypto.org Chain: Croeseid Testnet and beyond development. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/crypto-org-chain/chain-main) ⭐ 526 | 🐛 29 | 🌐 Go | 📅 2026-11-18 (👨‍💻 20 · 🔀 330 · 📥 150K · 📋 380 - 5% open · ⏱️ 24.05.2024):
+* [GitHub](https://github.com/crypto-org-chain/chain-main) ⭐ 524 | 🐛 29 | 🌐 Go | 📅 2026-11-18 (👨‍💻 20 · 🔀 330 · 📥 150K · 📋 380 - 5% open · ⏱️ 24.05.2024):
 
   ```
   git clone https://github.com/crypto-org-chain/chain-main
@@ -3535,7 +3535,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/dydxprotocol/dydx-v3-python">dydx-v3-python</a></b> (🥈17 ·  ⭐ 300) - Python client for dYdX (API v3). <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/dydxprotocol/dydx-v3-python) ⭐ 309 | 🐛 79 | 🌐 Python | 📅 2024-03-29 (👨‍💻 12 · 🔀 210 · 📦 650 · 📋 100 - 61% open · ⏱️ 11.12.2023):
+* [GitHub](https://github.com/dydxprotocol/dydx-v3-python) ⭐ 307 | 🐛 79 | 🌐 Python | 📅 2024-03-29 (👨‍💻 12 · 🔀 210 · 📦 650 · 📋 100 - 61% open · ⏱️ 11.12.2023):
 
   ```
   git clone https://github.com/dydxprotocol/dydx-v3-python
@@ -3588,7 +3588,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/paraswap/paraswap-dex-lib">paraswap-dex-lib</a></b> (🥈18 ·  ⭐ 710) - DexLib is a library used by ParaSwap backend to integrate.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/paraswap/paraswap-dex-lib) ⭐ 807 | 🐛 163 | 🌐 TypeScript | 📅 2026-11-13 (👨‍💻 74 · 🔀 260 · 📦 3 · 📋 100 - 97% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/paraswap/paraswap-dex-lib) ⭐ 806 | 🐛 163 | 🌐 TypeScript | 📅 2026-11-13 (👨‍💻 74 · 🔀 260 · 📦 3 · 📋 100 - 97% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/paraswap/paraswap-dex-lib
@@ -3676,7 +3676,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/filecoin-project/lotus">lotus</a></b> (🥇29 ·  ⭐ 2.8K) - Reference implementation of the Filecoin protocol, written in Go. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/filecoin-project/lotus) ⭐ 2,999 | 🐛 620 | 🌐 Go | 📅 2026-11-17 (👨‍💻 270 · 🔀 1.2K · 📥 13K · 📋 4.6K - 15% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/filecoin-project/lotus) ⭐ 2,998 | 🐛 612 | 🌐 Go | 📅 2026-11-19 (👨‍💻 270 · 🔀 1.2K · 📥 13K · 📋 4.6K - 15% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/filecoin-project/lotus
@@ -3694,7 +3694,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/bacalhau-project/bacalhau">bacalhau</a></b> (🥇28 ·  ⭐ 630) - Compute over Data framework for public, transparent, and optionally.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/bacalhau-project/bacalhau) ⭐ 877 | 🐛 5 | 🌐 Go | 📅 2026-11-15 (👨‍💻 62 · 🔀 85 · 📥 110K · 📦 10 · 📋 2K - 15% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/bacalhau-project/bacalhau) ⭐ 878 | 🐛 5 | 🌐 Go | 📅 2026-11-15 (👨‍💻 62 · 🔀 85 · 📥 110K · 📦 10 · 📋 2K - 15% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/filecoin-project/bacalhau
@@ -3703,7 +3703,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/filecoin-project/rust-fil-proofs">rust-fil-proofs</a></b> (🥇22 ·  ⭐ 490) - Proofs for Filecoin in Rust. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/filecoin-project/rust-fil-proofs) ⭐ 505 | 🐛 5 | 🌐 Rust | 📅 2026-11-17 (👨‍💻 59 · 🔀 310 · 📥 3.2K · 📦 160 · 📋 640 - 5% open · ⏱️ 17.05.2024):
+* [GitHub](https://github.com/filecoin-project/rust-fil-proofs) ⭐ 504 | 🐛 5 | 🌐 Rust | 📅 2026-11-17 (👨‍💻 59 · 🔀 310 · 📥 3.2K · 📦 160 · 📋 640 - 5% open · ⏱️ 17.05.2024):
 
   ```
   git clone https://github.com/filecoin-project/rust-fil-proofs
@@ -3730,7 +3730,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/filecoin-project/filecoin-docs">filecoin-docs</a></b> (🥈18 ·  ⭐ 220) - Filecoin Docs. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/filecoin-project/filecoin-docs) ⭐ 228 | 🐛 62 | 🌐 JavaScript | 📅 2026-11-18 (👨‍💻 190 · 🔀 280 · 📋 600 - 2% open · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/filecoin-project/filecoin-docs) ⭐ 228 | 🐛 64 | 🌐 JavaScript | 📅 2026-11-19 (👨‍💻 190 · 🔀 280 · 📋 600 - 2% open · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/filecoin-project/filecoin-docs
@@ -3748,7 +3748,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/lurk-lab/neptune">neptune</a></b> (🥈16 ·  ⭐ 260) - Rust Poseidon implementation. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/lurk-lab/neptune) ⭐ 344 | 🐛 17 | 🌐 Rust | 📅 2025-05-19 (👨‍💻 24 · 🔀 81 · 📦 840 · 📋 48 - 14% open · ⏱️ 13.02.2024):
+* [GitHub](https://github.com/lurk-lab/neptune) ⭐ 343 | 🐛 17 | 🌐 Rust | 📅 2025-05-19 (👨‍💻 24 · 🔀 81 · 📦 840 · 📋 48 - 14% open · ⏱️ 13.02.2024):
 
   ```
   git clone https://github.com/filecoin-project/neptune
@@ -3757,7 +3757,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/filecoin-project/FIPs">FIPs</a></b> (🥈15 ·  ⭐ 310) - The Filecoin Improvement Proposal repository. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/filecoin-project/FIPs) ⭐ 340 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-11-18 (👨‍💻 73 · 🔀 170 · 📋 120 - 9% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/filecoin-project/FIPs) ⭐ 340 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2026-11-19 (👨‍💻 73 · 🔀 170 · 📋 120 - 9% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/filecoin-project/FIPs
@@ -3787,7 +3787,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/status-im/status-go">status-go</a></b> (🥇27 ·  ⭐ 720) - The Status module that consumes go-ethereum. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code></summary>
 
-* [GitHub](https://github.com/status-im/status-go) ⭐ 761 | 🐛 374 | 🌐 Go | 📅 2026-11-18 (👨‍💻 120 · 🔀 240 · 📥 1.6K · 📦 19 · 📋 1.4K - 22% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/status-im/status-go) ⭐ 759 | 🐛 373 | 🌐 Go | 📅 2026-11-19 (👨‍💻 120 · 🔀 240 · 📥 1.6K · 📦 19 · 📋 1.4K - 22% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/status-im/status-go
@@ -3796,7 +3796,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/status-im/status-desktop">status-desktop</a></b> (🥇27 ·  ⭐ 260) - Status Desktop client made in Nim & QML. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code></summary>
 
-* [GitHub](https://github.com/status-im/status-desktop) ⭐ 376 | 🐛 1,215 | 🌐 QML | 📅 2026-11-18 (👨‍💻 67 · 🔀 74 · 📥 16K · 📋 7.9K - 8% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/status-im/status-desktop) ⭐ 376 | 🐛 1,188 | 🌐 QML | 📅 2026-11-19 (👨‍💻 67 · 🔀 74 · 📥 16K · 📋 7.9K - 8% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/status-im/status-desktop
@@ -3805,7 +3805,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/status-im/nimbus-eth2">nimbus-eth2</a></b> (🥇24 ·  ⭐ 500) - Nim implementation of the Ethereum Beacon Chain. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/status-im/nimbus-eth2) ⭐ 671 | 🐛 230 | 🌐 Nim | 📅 2026-11-18 (👨‍💻 82 · 🔀 200 · 📥 32K · 📋 1.1K - 17% open · ⏱️ 23.05.2024):
+* [GitHub](https://github.com/status-im/nimbus-eth2) ⭐ 671 | 🐛 231 | 🌐 Nim | 📅 2026-11-19 (👨‍💻 82 · 🔀 200 · 📥 32K · 📋 1.1K - 17% open · ⏱️ 23.05.2024):
 
   ```
   git clone https://github.com/status-im/nimbus-eth2
@@ -3814,7 +3814,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/vacp2p/nim-libp2p">nim-libp2p</a></b> (🥈21 ·  ⭐ 240) - libp2p implementation in Nim. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/vacp2p/nim-libp2p) ⭐ 327 | 🐛 118 | 🌐 Nim | 📅 2026-11-18 (👨‍💻 35 · 🔀 52 · 📋 240 - 27% open · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/vacp2p/nim-libp2p) ⭐ 327 | 🐛 116 | 🌐 Nim | 📅 2026-11-19 (👨‍💻 35 · 🔀 52 · 📋 240 - 27% open · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/status-im/nim-libp2p
@@ -3823,7 +3823,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/status-im/nimbus-eth1">nimbus-eth1</a></b> (🥈19 ·  ⭐ 560) - Nimbus: an Ethereum Execution Client for Resource-Restricted.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/status-im/nimbus-eth1) ⭐ 637 | 🐛 113 | 🌐 Nim | 📅 2026-11-18 (👨‍💻 41 · 🔀 100 · 📋 450 - 23% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/status-im/nimbus-eth1) ⭐ 637 | 🐛 114 | 🌐 Nim | 📅 2026-11-19 (👨‍💻 41 · 🔀 100 · 📋 450 - 23% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/status-im/nimbus-eth1
@@ -3862,7 +3862,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/smartcontractkit/chainlink">chainlink</a></b> (🥇33 ·  ⭐ 6.8K) - node of the decentralized oracle network, bridging on and off-chain.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/smartcontractkit/chainlink) ⭐ 8,252 | 🐛 201 | 🌐 Go | 📅 2026-11-18 (👨‍💻 270 · 🔀 1.6K · 📦 520 · 📋 590 - 41% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/smartcontractkit/chainlink) ⭐ 8,250 | 🐛 206 | 🌐 Go | 📅 2026-11-19 (👨‍💻 270 · 🔀 1.6K · 📦 520 · 📋 590 - 41% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/smartcontractkit/chainlink
@@ -3871,7 +3871,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/smartcontractkit/external-adapters-js">external-adapters-js</a></b> (🥇24 ·  ⭐ 260) - Monorepo containing JavaScript implementation of external.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/smartcontractkit/external-adapters-js) ⭐ 288 | 🐛 51 | 🌐 TypeScript | 📅 2026-11-18 (👨‍💻 89 · 🔀 240 · 📦 12 · 📋 180 - 22% open · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/smartcontractkit/external-adapters-js) ⭐ 288 | 🐛 51 | 🌐 TypeScript | 📅 2026-11-19 (👨‍💻 89 · 🔀 240 · 📦 12 · 📋 180 - 22% open · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/smartcontractkit/external-adapters-js
@@ -3880,7 +3880,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/smartcontractkit/documentation">documentation</a></b> (🥈21 ·  ⭐ 360) - https://docs.chain.link The Chainlink developer documentation.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/smartcontractkit/documentation) ⭐ 536 | 🐛 112 | 🌐 MDX | 📅 2026-11-18 (👨‍💻 160 · 🔀 370 · 📋 350 - 12% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/smartcontractkit/documentation) ⭐ 535 | 🐛 115 | 🌐 MDX | 📅 2026-11-19 (👨‍💻 160 · 🔀 370 · 📋 350 - 12% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/smartcontractkit/documentation
@@ -3898,7 +3898,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/smartcontractkit/full-blockchain-solidity-course-js">full-blockchain-solidity-course-js</a></b> (🥈19 ·  ⭐ 12K) - Learn Blockchain, Solidity, and Full Stack Web3.. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) ⭐ 14,044 | 🐛 105 | 📅 2024-06-12 (👨‍💻 28 · 🔀 2.8K · 📋 240 - 34% open · ⏱️ 23.05.2024):
+* [GitHub](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) ⭐ 14,045 | 🐛 105 | 📅 2024-06-12 (👨‍💻 28 · 🔀 2.8K · 📋 240 - 34% open · ⏱️ 23.05.2024):
 
   ```
   git clone https://github.com/smartcontractkit/full-blockchain-solidity-course-js
@@ -3907,7 +3907,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/smartcontractkit/full-blockchain-solidity-course-py">full-blockchain-solidity-course-py</a></b> (🥈18 ·  ⭐ 11K) - Ultimate Solidity, Blockchain, and Smart Contract -.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) ⭐ 11,221 | 🐛 225 | 📅 2024-04-16 (👨‍💻 17 · 🔀 2.9K · 📋 500 - 44% open · ⏱️ 10.04.2024):
+* [GitHub](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) ⭐ 11,220 | 🐛 225 | 📅 2024-04-16 (👨‍💻 17 · 🔀 2.9K · 📋 500 - 44% open · ⏱️ 10.04.2024):
 
   ```
   git clone https://github.com/smartcontractkit/full-blockchain-solidity-course-py
@@ -3928,7 +3928,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/stacks-network/stacks-core">stacks-blockchain</a></b> (🥇30 ·  ⭐ 2.9K) - The Stacks blockchain implementation. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/stacks-network/stacks-core) ⭐ 3,065 | 🐛 683 | 🌐 Rust | 📅 2026-11-18 (👨‍💻 130 · 🔀 620 · 📥 22K · 📦 21 · 📋 2.6K - 13% open · ⏱️ 09.05.2024):
+* [GitHub](https://github.com/stacks-network/stacks-core) ⭐ 3,064 | 🐛 687 | 🌐 Rust | 📅 2026-11-19 (👨‍💻 130 · 🔀 620 · 📥 22K · 📦 21 · 📋 2.6K - 13% open · ⏱️ 09.05.2024):
 
   ```
   git clone https://github.com/stacks-network/stacks-blockchain
@@ -3958,7 +3958,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/graphprotocol/graph-node">graph-node</a></b> (🥇26 ·  ⭐ 2.8K) - Graph Node indexes data from blockchains such as Ethereum and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/graphprotocol/graph-node) ⭐ 3,168 | 🐛 91 | 🌐 Rust | 📅 2026-11-18 (👨‍💻 120 · 🔀 890 · 📥 490 · 📋 1.9K - 22% open · ⏱️ 30.05.2024):
+* [GitHub](https://github.com/graphprotocol/graph-node) ⭐ 3,168 | 🐛 93 | 🌐 Rust | 📅 2026-11-18 (👨‍💻 120 · 🔀 890 · 📥 490 · 📋 1.9K - 22% open · ⏱️ 30.05.2024):
 
   ```
   git clone https://github.com/graphprotocol/graph-node
@@ -3967,7 +3967,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/graphprotocol/graph-tooling">graph-tooling</a></b> (🥇24 ·  ⭐ 370) - Monorepo for various tools used by subgraph developers. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/graphprotocol/graph-tooling) ⭐ 426 | 🐛 216 | 🌐 TypeScript | 📅 2026-11-16 (👨‍💻 91 · 🔀 180 · 📥 7.7K · 📋 640 - 33% open · ⏱️ 27.05.2024):
+* [GitHub](https://github.com/graphprotocol/graph-tooling) ⭐ 426 | 🐛 219 | 🌐 TypeScript | 📅 2026-11-19 (👨‍💻 91 · 🔀 180 · 📥 7.7K · 📋 640 - 33% open · ⏱️ 27.05.2024):
 
   ```
   git clone https://github.com/graphprotocol/graph-tooling
@@ -3976,7 +3976,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/graphprotocol/indexer">graphprotocol/indexer</a></b> (🥇24 ·  ⭐ 230) - Graph Protocol indexer components and infrastructure. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/graphprotocol/indexer) ⭐ 262 | 🐛 133 | 🌐 TypeScript | 📅 2026-11-18 (👨‍💻 54 · 🔀 110 · 📥 12K · 📦 21 · 📋 340 - 37% open · ⏱️ 31.05.2024):
+* [GitHub](https://github.com/graphprotocol/indexer) ⭐ 262 | 🐛 134 | 🌐 TypeScript | 📅 2026-11-18 (👨‍💻 54 · 🔀 110 · 📥 12K · 📦 21 · 📋 340 - 37% open · ⏱️ 31.05.2024):
 
   ```
   git clone https://github.com/graphprotocol/indexer
@@ -4017,7 +4017,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/holochain/holochain">holochain</a></b> (🥇26 ·  ⭐ 1.1K) - The current, performant & industrial strength version of.. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/holochain/holochain) ⭐ 1,402 | 🐛 269 | 🌐 Rust | 📅 2026-11-18 (👨‍💻 53 · 🔀 140 · 📦 280 · 📋 420 - 41% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/holochain/holochain) ⭐ 1,401 | 🐛 270 | 🌐 Rust | 📅 2026-11-19 (👨‍💻 53 · 🔀 140 · 📦 280 · 📋 420 - 41% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/holochain/holochain
@@ -4056,7 +4056,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/ethersphere/bee">ethersphere/bee</a></b> (🥇30 ·  ⭐ 1.4K) - Bee is a Swarm client implemented in Go. Its the basic.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/ethersphere/bee) ⭐ 1,486 | 🐛 98 | 🌐 Go | 📅 2026-11-18 (👨‍💻 64 · 🔀 340 · 📥 280K · 📦 140 · 📋 1.7K - 7% open · ⏱️ 31.05.2024):
+* [GitHub](https://github.com/ethersphere/bee) ⭐ 1,485 | 🐛 97 | 🌐 Go | 📅 2026-11-19 (👨‍💻 64 · 🔀 340 · 📥 280K · 📦 140 · 📋 1.7K - 7% open · ⏱️ 31.05.2024):
 
   ```
   git clone https://github.com/ethersphere/bee
@@ -4107,7 +4107,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/aragon/client">client</a></b> (🥈20 ·  ⭐ 830 · 💤) - (Aragon 1) Create and manage decentralized organizations on.. <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/aragon/client) ⭐ 823 | 🐛 232 | 🌐 JavaScript | 📅 2026-03-26 (👨‍💻 70 · 🔀 250 · 📥 34K · 📋 730 - 29% open · ⏱️ 10.11.2023):
+* [GitHub](https://github.com/aragon/client) ⭐ 822 | 🐛 232 | 🌐 JavaScript | 📅 2026-03-26 (👨‍💻 70 · 🔀 250 · 📥 34K · 📋 730 - 29% open · ⏱️ 10.11.2023):
 
   ```
   git clone https://github.com/aragon/client
@@ -4128,7 +4128,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/aeternity/aeternity">aeternity</a></b> (🥇25 ·  ⭐ 1.1K) - ternity blockchain - scalable blockchain for the people - smart.. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
-* [GitHub](https://github.com/aeternity/aeternity) ⭐ 1,088 | 🐛 275 | 🌐 Erlang | 📅 2026-09-15 (👨‍💻 82 · 🔀 230 · 📥 25K · 📋 940 - 26% open · ⏱️ 24.05.2024):
+* [GitHub](https://github.com/aeternity/aeternity) ⭐ 1,087 | 🐛 275 | 🌐 Erlang | 📅 2026-09-15 (👨‍💻 82 · 🔀 230 · 📥 25K · 📋 940 - 26% open · ⏱️ 24.05.2024):
 
   ```
   git clone https://github.com/aeternity/aeternity
@@ -4158,7 +4158,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/protofire/solhint">solhint</a></b> (🥇30 ·  ⭐ 1K) - Solhint is an open-source project to provide a linting utility for Solidity.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/protofire/solhint) ⭐ 1,131 | 🐛 14 | 🌐 JavaScript | 📅 2026-11-10 (👨‍💻 56 · 🔀 150 · 📦 52K · 📋 270 - 8% open · ⏱️ 13.05.2024):
+* [GitHub](https://github.com/protofire/solhint) ⭐ 1,130 | 🐛 14 | 🌐 JavaScript | 📅 2026-11-10 (👨‍💻 56 · 🔀 150 · 📦 52K · 📋 270 - 8% open · ⏱️ 13.05.2024):
 
   ```
   git clone https://github.com/protofire/solhint
@@ -4179,7 +4179,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/ArweaveTeam/arweave">arweave</a></b> (🥇22 ·  ⭐ 890) - The Arweave server and App Developer Toolkit. <code><a href="http://bit.ly/2KucAZR">GPL-2.0</a></code></summary>
 
-* [GitHub](https://github.com/ArweaveTeam/arweave) ⭐ 1,080 | 🐛 120 | 🌐 Erlang | 📅 2026-11-18 (👨‍💻 51 · 🔀 180 · 📥 36K · 📋 230 - 37% open · ⏱️ 31.05.2024):
+* [GitHub](https://github.com/ArweaveTeam/arweave) ⭐ 1,079 | 🐛 120 | 🌐 Erlang | 📅 2026-11-18 (👨‍💻 51 · 🔀 180 · 📥 36K · 📋 230 - 37% open · ⏱️ 31.05.2024):
 
   ```
   git clone https://github.com/ArweaveTeam/arweave
@@ -4230,7 +4230,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/storj/drpc">drpc</a></b> (🥈15 ·  ⭐ 1.4K) - drpc is a lightweight, drop-in replacement for gRPC. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/storj/drpc) ⭐ 1,637 | 🐛 13 | 🌐 Go | 📅 2026-11-17 (👨‍💻 15 · 🔀 47 · 📋 37 - 27% open · ⏱️ 12.03.2024):
+* [GitHub](https://github.com/storj/drpc) ⭐ 1,636 | 🐛 13 | 🌐 Go | 📅 2026-11-17 (👨‍💻 15 · 🔀 47 · 📋 37 - 27% open · ⏱️ 12.03.2024):
 
   ```
   git clone https://github.com/storj/drpc
@@ -4251,7 +4251,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/skycoin/skycoin">skycoin</a></b> (🥈21 ·  ⭐ 590 · 💤) - Skycoin Core and Wallet. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/skycoin/skycoin) ⭐ 587 | 🐛 87 | 🌐 Go | 📅 2026-11-17 (👨‍💻 92 · 🔀 290 · 📦 81 · 📋 1.2K - 13% open · ⏱️ 10.08.2023):
+* [GitHub](https://github.com/skycoin/skycoin) ⭐ 586 | 🐛 87 | 🌐 Go | 📅 2026-11-19 (👨‍💻 92 · 🔀 290 · 📦 81 · 📋 1.2K - 13% open · ⏱️ 10.08.2023):
 
   ```
   git clone https://github.com/skycoin/skycoin
@@ -4283,7 +4283,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/raiden-network/raiden">raiden</a></b> (🥇24 ·  ⭐ 1.8K · 💤) - Raiden Network. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/raiden-network/raiden) ⭐ 1,833 | 🐛 300 | 🌐 Python | 📅 2024-03-28 (👨‍💻 99 · 🔀 400 · 📥 7.6K · 📦 33 · 📋 2.7K - 11% open · ⏱️ 10.10.2023):
+* [GitHub](https://github.com/raiden-network/raiden) ⭐ 1,832 | 🐛 300 | 🌐 Python | 📅 2024-03-28 (👨‍💻 99 · 🔀 400 · 📥 7.6K · 📦 33 · 📋 2.7K - 11% open · ⏱️ 10.10.2023):
 
   ```
   git clone https://github.com/raiden-network/raiden
@@ -4315,7 +4315,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/AElfProject/AElf">AElf</a></b> (🥇29 ·  ⭐ 820) - A scalable cloud computing blockchain platform. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/AElfProject/AElf) ⭐ 1,269 | 🐛 88 | 🌐 C# | 📅 2026-09-02 (👨‍💻 87 · 🔀 240 · 📥 3.8K · 📦 43 · 📋 840 - 6% open · ⏱️ 21.05.2024):
+* [GitHub](https://github.com/AElfProject/AElf) ⭐ 1,268 | 🐛 88 | 🌐 C# | 📅 2026-09-02 (👨‍💻 87 · 🔀 240 · 📥 3.8K · 📦 43 · 📋 840 - 6% open · ⏱️ 21.05.2024):
 
   ```
   git clone https://github.com/AElfProject/AElf
@@ -4405,7 +4405,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/PlatONnetwork/PlatON-Go">PlatON-Go</a></b> (🥇24 ·  ⭐ 450) - Golang implementation of the PlatON protocol. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/PlatONnetwork/PlatON-Go) ⭐ 424 | 🐛 10 | 🌐 Go | 📅 2026-11-16 (👨‍💻 450 · 🔀 150 · 📥 570 · 📦 10 · 📋 670 - 0% open · ⏱️ 08.05.2024):
+* [GitHub](https://github.com/PlatONnetwork/PlatON-Go) ⭐ 423 | 🐛 10 | 🌐 Go | 📅 2026-11-19 (👨‍💻 450 · 🔀 150 · 📥 570 · 📦 10 · 📋 670 - 0% open · ⏱️ 08.05.2024):
 
   ```
   git clone https://github.com/PlatONnetwork/PlatON-Go
@@ -4469,7 +4469,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/openhive-network/hive">openhive-network/hive</a></b> (🥈17 ·  ⭐ 320) - Fast. Scalable. Powerful. The Blockchain for Web3. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/openhive-network/hive) ⭐ 379 | 🐛 6 | 🌐 C++ | 📅 2026-11-18 (👨‍💻 120 · 🔀 98 · 📥 39 · ⏱️ 30.05.2024):
+* [GitHub](https://github.com/openhive-network/hive) ⭐ 378 | 🐛 6 | 🌐 C++ | 📅 2026-11-19 (👨‍💻 120 · 🔀 98 · 📥 39 · ⏱️ 30.05.2024):
 
   ```
   git clone https://github.com/openhive-network/hive
@@ -4490,7 +4490,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/crustio/crust">crust</a></b> (🥈18 ·  ⭐ 490) - Official Rust implementation of the Crust protocol. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/crustio/crust) ⭐ 536 | 🐛 78 | 🌐 Rust | 📅 2026-05-09 (👨‍💻 8 · 🔀 37 · 📥 46 · 📋 330 - 22% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/crustio/crust) ⭐ 535 | 🐛 78 | 🌐 Rust | 📅 2026-05-09 (👨‍💻 8 · 🔀 37 · 📥 46 · 📋 330 - 22% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/crustio/crust
@@ -4511,7 +4511,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/lidofinance/lido-dao">lido-dao</a></b> (🥈18 ·  ⭐ 350) - Lido DAO smart contracts. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/lidofinance/lido-dao) ⭐ 502 | 🐛 71 | 🌐 TypeScript | 📅 2026-11-17 (👨‍💻 39 · 🔀 160 · 📥 37 · 📋 230 - 15% open · ⏱️ 23.02.2024):
+* [GitHub](https://github.com/lidofinance/lido-dao) ⭐ 502 | 🐛 72 | 🌐 TypeScript | 📅 2026-11-19 (👨‍💻 39 · 🔀 160 · 📥 37 · 📋 230 - 15% open · ⏱️ 23.02.2024):
 
   ```
   git clone https://github.com/lidofinance/lido-dao
@@ -4621,7 +4621,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/decred/dcrd">dcrd</a></b> (🥇29 ·  ⭐ 730) - Decred daemon in Go (golang). <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
-* [GitHub](https://github.com/decred/dcrd) ⭐ 778 | 🐛 42 | 🌐 Go | 📅 2026-11-17 (👨‍💻 140 · 🔀 290 · 📦 35K · 📋 510 - 4% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/decred/dcrd) ⭐ 777 | 🐛 41 | 🌐 Go | 📅 2026-11-19 (👨‍💻 140 · 🔀 290 · 📦 35K · 📋 510 - 4% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/decred/dcrd
@@ -4672,7 +4672,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/monero-project/monero">monero</a></b> (🥇31 ·  ⭐ 8.7K) - Monero: the secure, private, untraceable cryptocurrency. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/monero-project/monero) ⭐ 11,005 | 🐛 564 | 🌐 C++ | 📅 2026-11-18 (👨‍💻 390 · 🔀 3K · 📥 32K · 📦 21 · 📋 3.2K - 18% open · ⏱️ 21.05.2024):
+* [GitHub](https://github.com/monero-project/monero) ⭐ 11,003 | 🐛 564 | 🌐 C++ | 📅 2026-11-19 (👨‍💻 390 · 🔀 3K · 📥 32K · 📦 21 · 📋 3.2K - 18% open · ⏱️ 21.05.2024):
 
   ```
   git clone https://github.com/monero-project/monero
@@ -4681,7 +4681,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/monero-project/monero-gui">monero-gui</a></b> (🥇24 ·  ⭐ 1.7K) - Monero: the secure, private, untraceable cryptocurrency. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/monero-project/monero-gui) ⭐ 2,344 | 🐛 361 | 🌐 C | 📅 2026-11-16 (👨‍💻 220 · 🔀 790 · 📥 35K · 📋 1.9K - 21% open · ⏱️ 12.03.2024):
+* [GitHub](https://github.com/monero-project/monero-gui) ⭐ 2,345 | 🐛 364 | 🌐 C | 📅 2026-11-19 (👨‍💻 220 · 🔀 790 · 📥 35K · 📋 1.9K - 21% open · ⏱️ 12.03.2024):
 
   ```
   git clone https://github.com/monero-project/monero-gui
@@ -4690,7 +4690,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/monero-project/monero-site">monero-site</a></b> (🥈20 ·  ⭐ 260) -  <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/monero-project/monero-site) ⭐ 355 | 🐛 159 | 🌐 HTML | 📅 2026-10-27 (👨‍💻 240 · 🔀 360 · 📋 740 - 13% open · ⏱️ 23.05.2024):
+* [GitHub](https://github.com/monero-project/monero-site) ⭐ 355 | 🐛 160 | 🌐 HTML | 📅 2026-10-27 (👨‍💻 240 · 🔀 360 · 📋 740 - 13% open · ⏱️ 23.05.2024):
 
   ```
   git clone https://github.com/monero-project/monero-site
@@ -4720,7 +4720,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/zcash/librustzcash">librustzcash</a></b> (🥇25 ·  ⭐ 320) - Rust-language assets for Zcash. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/zcash/librustzcash) ⭐ 415 | 🐛 433 | 🌐 Rust | 📅 2026-11-18 (👨‍💻 53 · 🔀 240 · 📦 880 · 📋 580 - 45% open · ⏱️ 24.05.2024):
+* [GitHub](https://github.com/zcash/librustzcash) ⭐ 414 | 🐛 431 | 🌐 Rust | 📅 2026-11-19 (👨‍💻 53 · 🔀 240 · 📦 880 · 📋 580 - 45% open · ⏱️ 24.05.2024):
 
   ```
   git clone https://github.com/zcash/librustzcash
@@ -4729,7 +4729,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/zcash/halo2">halo2</a></b> (🥈19 ·  ⭐ 670) - The Halo2 zero-knowledge proving system. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/zcash/halo2) ⭐ 941 | 🐛 285 | 🌐 Rust | 📅 2026-11-16 (👨‍💻 34 · 🔀 430 · 📦 290 · 📋 390 - 63% open · ⏱️ 26.02.2024):
+* [GitHub](https://github.com/zcash/halo2) ⭐ 940 | 🐛 285 | 🌐 Rust | 📅 2026-11-16 (👨‍💻 34 · 🔀 430 · 📦 290 · 📋 390 - 63% open · ⏱️ 26.02.2024):
 
   ```
   git clone https://github.com/zcash/halo2
@@ -4738,7 +4738,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/zcash/zips">zips</a></b> (🥈19 ·  ⭐ 270) - Zcash Improvement Proposals. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/zcash/zips) ⭐ 315 | 🐛 365 | 🌐 TeX | 📅 2026-11-18 (👨‍💻 56 · 🔀 170 · 📋 500 - 42% open · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/zcash/zips) ⭐ 315 | 🐛 359 | 🌐 TeX | 📅 2026-11-19 (👨‍💻 56 · 🔀 170 · 📋 500 - 42% open · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/zcash/zips
@@ -4777,7 +4777,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/oxen-io/lokinet">lokinet</a></b> (🥇23 ·  ⭐ 1.7K · 💤) - Lokinet is an anonymous, decentralized and IP based overlay.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/oxen-io/lokinet) ⭐ 2,109 | 🐛 175 | 🌐 C++ | 📅 2026-10-14 (👨‍💻 40 · 🔀 210 · 📥 110K · 📋 610 - 26% open · ⏱️ 11.08.2023):
+* [GitHub](https://github.com/oxen-io/lokinet) ⭐ 2,108 | 🐛 175 | 🌐 C++ | 📅 2026-10-14 (👨‍💻 40 · 🔀 210 · 📥 110K · 📋 610 - 26% open · ⏱️ 11.08.2023):
 
   ```
   git clone https://github.com/oxen-io/lokinet
@@ -4839,7 +4839,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/ergoplatform/ergo">ergo</a></b> (🥇24 ·  ⭐ 500) - Ergo protocol description & reference client implementation. <code><a href="https://tldrlegal.com/search?q=CC0-1.0">CC0-1.0</a></code></summary>
 
-* [GitHub](https://github.com/ergoplatform/ergo) ⭐ 517 | 🐛 611 | 🌐 Scala | 📅 2026-11-17 (👨‍💻 52 · 🔀 160 · 📥 46K · 📋 910 - 20% open · ⏱️ 01.04.2024):
+* [GitHub](https://github.com/ergoplatform/ergo) ⭐ 517 | 🐛 613 | 🌐 Scala | 📅 2026-11-17 (👨‍💻 52 · 🔀 160 · 📥 46K · 📋 910 - 20% open · ⏱️ 01.04.2024):
 
   ```
   git clone https://github.com/ergoplatform/ergo
@@ -4892,7 +4892,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/dusk-network/plonk">plonk</a></b> (🥇22 ·  ⭐ 520) - Pure Rust implementation of the PLONK ZKProof System done by the Dusk-.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code></summary>
 
-* [GitHub](https://github.com/dusk-network/plonk) ⭐ 646 | 🐛 7 | 🌐 Rust | 📅 2026-11-18 (👨‍💻 23 · 🔀 130 · 📥 13 · 📦 320 · 📋 430 - 4% open · ⏱️ 27.03.2024):
+* [GitHub](https://github.com/dusk-network/plonk) ⭐ 646 | 🐛 7 | 🌐 Rust | 📅 2026-11-19 (👨‍💻 23 · 🔀 130 · 📥 13 · 📦 320 · 📋 430 - 4% open · ⏱️ 27.03.2024):
 
   ```
   git clone https://github.com/dusk-network/plonk
@@ -4922,7 +4922,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/DimensionDev/Maskbook">Maskbook</a></b> (🥇27 ·  ⭐ 1.5K) - The portal to the new, open Internet. ([I:b]). <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/DimensionDev/Maskbook) ⭐ 1,587 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-16 (👨‍💻 70 · 🔀 300 · 📥 1.9K · 📦 3 · 📋 2.2K - 2% open · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/DimensionDev/Maskbook) ⭐ 1,586 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-19 (👨‍💻 70 · 🔀 300 · 📥 1.9K · 📦 3 · 📋 2.2K - 2% open · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/DimensionDev/Maskbook
@@ -4943,7 +4943,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/vergecurrency/verge">verge</a></b> (🥇28 ·  ⭐ 1.4K) - Official Verge Core Source Code Repository. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/vergecurrency/verge) ⭐ 1,558 | 🐛 0 | 🌐 C++ | 📅 2026-11-16 (👨‍💻 74 · 🔀 410 · 📥 630K · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/vergecurrency/verge) ⭐ 1,557 | 🐛 0 | 🌐 C++ | 📅 2026-11-18 (👨‍💻 74 · 🔀 410 · 📥 630K · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/vergecurrency/verge
@@ -4964,7 +4964,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/nucypher/nucypher">nucypher</a></b> (🥇26 ·  ⭐ 690 · 📈) - Threshold Access Control (TACo) runtimes for the Threshold.. <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/nucypher/nucypher) ⭐ 704 | 🐛 112 | 🌐 Python | 📅 2026-05-24 (👨‍💻 52 · 🔀 270 · 📦 39 · 📋 1.7K - 5% open · ⏱️ 07.05.2024):
+* [GitHub](https://github.com/nucypher/nucypher) ⭐ 703 | 🐛 112 | 🌐 Python | 📅 2026-05-24 (👨‍💻 52 · 🔀 270 · 📦 39 · 📋 1.7K - 5% open · ⏱️ 07.05.2024):
 
   ```
   git clone https://github.com/nucypher/nucypher
@@ -5017,7 +5017,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/vertcoin-project/vertcoin-core">vertcoin-core</a></b> (🥇22 ·  ⭐ 350 · 💤) - A digital currency with mining decentralisation and ASIC.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/vertcoin-project/vertcoin-core) ⭐ 351 | 🐛 29 | 🌐 C++ | 📅 2026-11-02 (👨‍💻 1.1K · 🔀 130 · 📥 390K · 📋 110 - 11% open · ⏱️ 11.11.2023):
+* [GitHub](https://github.com/vertcoin-project/vertcoin-core) ⭐ 349 | 🐛 29 | 🌐 C++ | 📅 2026-11-02 (👨‍💻 1.1K · 🔀 130 · 📥 390K · 📋 110 - 11% open · ⏱️ 11.11.2023):
 
   ```
   git clone https://github.com/vertcoin-project/vertcoin-core
@@ -5049,7 +5049,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/firoorg/firo">firoorg/firo</a></b> (🥇26 ·  ⭐ 710) - The privacy-focused cryptocurrency. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/firoorg/firo) ⭐ 806 | 🐛 67 | 🌐 C++ | 📅 2026-11-17 (👨‍💻 610 · 🔀 350 · 📥 290K · 📋 530 - 3% open · ⏱️ 13.05.2024):
+* [GitHub](https://github.com/firoorg/firo) ⭐ 806 | 🐛 69 | 🌐 C++ | 📅 2026-11-19 (👨‍💻 610 · 🔀 350 · 📥 290K · 📋 530 - 3% open · ⏱️ 13.05.2024):
 
   ```
   git clone https://github.com/firoorg/firo
@@ -5081,7 +5081,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/hoprnet/hoprnet">hoprnet</a></b> (🥇23 ·  ⭐ 210) - HOPR is an open incentivized mixnet which enables privacy-preserving.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/hoprnet/hoprnet) ⭐ 260 | 🐛 169 | 🌐 Rust | 📅 2026-11-18 (👨‍💻 67 · 🔀 89 · 📦 3 · 📋 2.1K - 5% open · ⏱️ 03.06.2024):
+* [GitHub](https://github.com/hoprnet/hoprnet) ⭐ 260 | 🐛 173 | 🌐 Rust | 📅 2026-11-19 (👨‍💻 67 · 🔀 89 · 📦 3 · 📋 2.1K - 5% open · ⏱️ 03.06.2024):
 
   ```
   git clone https://github.com/hoprnet/hoprnet
@@ -5142,7 +5142,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/Uniswap/interface">interface</a></b> (🥇26 ·  ⭐ 4.8K) - Open source interfaces for the Uniswap protocol. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/Uniswap/interface) ⭐ 5,544 | 🐛 840 | 🌐 TypeScript | 📅 2026-11-18 (👨‍💻 200 · 🔀 4.8K · 📋 2.2K - 33% open · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/Uniswap/interface) ⭐ 5,542 | 🐛 840 | 🌐 TypeScript | 📅 2026-11-18 (👨‍💻 200 · 🔀 4.8K · 📋 2.2K - 33% open · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/Uniswap/interface
@@ -5169,7 +5169,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/Uniswap/token-lists">token-lists</a></b> (🥈17 ·  ⭐ 1.3K) - The Token Lists specification. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/Uniswap/token-lists) ⭐ 1,747 | 🐛 468 | 🌐 TypeScript | 📅 2026-10-30 (👨‍💻 18 · 🔀 900 · 📋 290 - 80% open · ⏱️ 26.03.2024):
+* [GitHub](https://github.com/Uniswap/token-lists) ⭐ 1,748 | 🐛 470 | 🌐 TypeScript | 📅 2026-10-30 (👨‍💻 18 · 🔀 900 · 📋 290 - 80% open · ⏱️ 26.03.2024):
 
   ```
   git clone https://github.com/Uniswap/token-lists
@@ -5196,7 +5196,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/Uniswap/v3-subgraph">v3-subgraph</a></b> (🥈16 ·  ⭐ 320) - Subgraph for Uniswap V3. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/Uniswap/v3-subgraph) ⭐ 380 | 🐛 119 | 🌐 TypeScript | 📅 2026-10-22 (👨‍💻 24 · 🔀 440 · 📋 130 - 84% open · ⏱️ 30.05.2024):
+* [GitHub](https://github.com/Uniswap/v3-subgraph) ⭐ 381 | 🐛 119 | 🌐 TypeScript | 📅 2026-10-22 (👨‍💻 24 · 🔀 440 · 📋 130 - 84% open · ⏱️ 30.05.2024):
 
   ```
   git clone https://github.com/Uniswap/v3-subgraph
@@ -5262,7 +5262,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/osmosis-labs/osmosis">osmosis</a></b> (🥇31 ·  ⭐ 870) - The AMM Laboratory. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/osmosis-labs/osmosis) ⭐ 960 | 🐛 190 | 🌐 Go | 📅 2026-11-17 (👨‍💻 160 · 🔀 560 · 📥 69K · 📦 22 · 📋 2.2K - 13% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/osmosis-labs/osmosis) ⭐ 960 | 🐛 190 | 🌐 Go | 📅 2026-11-19 (👨‍💻 160 · 🔀 560 · 📥 69K · 📦 22 · 📋 2.2K - 13% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/osmosis-labs/osmosis
@@ -5271,7 +5271,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/osmosis-labs/osmosis-frontend">osmosis-frontend</a></b> (🥇25 ·  ⭐ 210) - Web interface for Osmosis Zone. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/osmosis-labs/osmosis-frontend) ⭐ 248 | 🐛 6 | 🌐 JavaScript | 📅 2026-11-18 (👨‍💻 190 · 🔀 380 · 📦 3 · 📋 440 - 9% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/osmosis-labs/osmosis-frontend) ⭐ 248 | 🐛 15 | 🌐 JavaScript | 📅 2026-11-19 (👨‍💻 190 · 🔀 380 · 📦 3 · 📋 440 - 9% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/osmosis-labs/osmosis-frontend
@@ -5459,7 +5459,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/dfinity/ic">ic</a></b> (🥇26 ·  ⭐ 1.5K) - Internet Computer blockchain source: the client/replica software run.. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/dfinity/ic) ⭐ 1,813 | 🐛 171 | 🌐 Rust | 📅 2026-11-18 (👨‍💻 190 · 🔀 290 · 📥 2.7K · 📦 3 · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/dfinity/ic) ⭐ 1,811 | 🐛 168 | 🌐 Rust | 📅 2026-11-19 (👨‍💻 190 · 🔀 290 · 📥 2.7K · 📦 3 · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/dfinity/ic
@@ -5468,7 +5468,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/dfinity/candid">candid</a></b> (🥇26 ·  ⭐ 270) - Candid Library for the Internet Computer. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/dfinity/candid) ⭐ 301 | 🐛 68 | 🌐 Rust | 📅 2026-11-18 (👨‍💻 46 · 🔀 81 · 📥 140K · 📦 3.4K · 📋 140 - 36% open · ⏱️ 23.05.2024):
+* [GitHub](https://github.com/dfinity/candid) ⭐ 301 | 🐛 67 | 🌐 Rust | 📅 2026-11-19 (👨‍💻 46 · 🔀 81 · 📥 140K · 📦 3.4K · 📋 140 - 36% open · ⏱️ 23.05.2024):
 
   ```
   git clone https://github.com/dfinity/candid
@@ -5477,7 +5477,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/dfinity/motoko">motoko</a></b> (🥇25 ·  ⭐ 490) - Simple high-level language for writing Internet Computer canisters. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/dfinity/motoko) ⭐ 592 | 🐛 240 | 🌐 OCaml | 📅 2026-11-18 (👨‍💻 55 · 🔀 94 · 📥 240K · 📋 890 - 39% open · ⏱️ 27.05.2024):
+* [GitHub](https://github.com/dfinity/motoko) ⭐ 593 | 🐛 244 | 🌐 OCaml | 📅 2026-11-19 (👨‍💻 55 · 🔀 94 · 📥 240K · 📋 890 - 39% open · ⏱️ 27.05.2024):
 
   ```
   git clone https://github.com/dfinity/motoko
@@ -5486,7 +5486,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/dfinity/internet-identity">internet-identity</a></b> (🥇23 ·  ⭐ 370) - Internet Identity, a blockchain authentication system.. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/dfinity/internet-identity) ⭐ 550 | 🐛 73 | 🌐 Rust | 📅 2026-11-18 (👨‍💻 56 · 🔀 130 · 📥 390K · 📦 3 · 📋 100 - 33% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/dfinity/internet-identity) ⭐ 549 | 🐛 67 | 🌐 Rust | 📅 2026-11-19 (👨‍💻 56 · 🔀 130 · 📥 390K · 📦 3 · 📋 100 - 33% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/dfinity/internet-identity
@@ -5495,7 +5495,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/dfinity/examples">dfinity/examples</a></b> (🥈20 ·  ⭐ 500) - Example applications, microservices, and code samples for.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/dfinity/examples) ⭐ 613 | 🐛 22 | 🌐 Rust | 📅 2026-11-10 (👨‍💻 99 · 🔀 310 · 📋 84 - 70% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/dfinity/examples) ⭐ 612 | 🐛 22 | 🌐 Rust | 📅 2026-11-10 (👨‍💻 99 · 🔀 310 · 📋 84 - 70% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/dfinity/examples
@@ -5525,7 +5525,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/nervosnetwork/ckb">ckb</a></b> (🥇32 ·  ⭐ 1.1K) - The Nervos CKB is a public permissionless blockchain, and the layer 1 of.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/nervosnetwork/ckb) ⭐ 1,214 | 🐛 83 | 🌐 Rust | 📅 2026-11-17 (👨‍💻 58 · 🔀 220 · 📥 58K · 📦 190 · 📋 490 - 13% open · ⏱️ 19.05.2024):
+* [GitHub](https://github.com/nervosnetwork/ckb) ⭐ 1,213 | 🐛 84 | 🌐 Rust | 📅 2026-11-19 (👨‍💻 58 · 🔀 220 · 📥 58K · 📦 190 · 📋 490 - 13% open · ⏱️ 19.05.2024):
 
   ```
   git clone https://github.com/nervosnetwork/ckb
@@ -5585,7 +5585,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/Conflux-Chain/conflux-rust">conflux-rust</a></b> (🥇24 ·  ⭐ 640) - The official Rust implementation of Conflux protocol... <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/Conflux-Chain/conflux-rust) ⭐ 718 | 🐛 77 | 🌐 Rust | 📅 2026-11-18 (👨‍💻 43 · 🔀 190 · 📥 31K · 📋 590 - 15% open · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/Conflux-Chain/conflux-rust) ⭐ 717 | 🐛 70 | 🌐 Rust | 📅 2026-11-19 (👨‍💻 43 · 🔀 190 · 📥 31K · 📋 590 - 15% open · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/Conflux-Chain/conflux-rust
@@ -5729,7 +5729,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/iotaledger/firefly">firefly</a></b> (🥇24 ·  ⭐ 480) - The official IOTA and Shimmer wallet. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/iotaledger/firefly) ⭐ 474 | 🐛 166 | 🌐 TypeScript | 📅 2026-11-18 (👨‍💻 39 · 🔀 100 · 📥 130K · 📋 4.3K - 4% open · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/iotaledger/firefly) ⭐ 474 | 🐛 166 | 🌐 TypeScript | 📅 2026-11-19 (👨‍💻 39 · 🔀 100 · 📥 130K · 📋 4.3K - 4% open · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/iotaledger/firefly
@@ -5756,7 +5756,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/iotaledger/identity.rs">identity.rs</a></b> (🥇24 ·  ⭐ 290) - Implementation of the Decentralized Identity standards such as.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/iotaledger/identity.rs) ⭐ 345 | 🐛 135 | 🌐 Rust | 📅 2026-09-30 (👨‍💻 39 · 🔀 82 · 📦 120 · 📋 310 - 21% open · ⏱️ 28.05.2024):
+* [GitHub](https://github.com/iotaledger/identity.rs) ⭐ 344 | 🐛 135 | 🌐 Rust | 📅 2026-09-30 (👨‍💻 39 · 🔀 82 · 📦 120 · 📋 310 - 21% open · ⏱️ 28.05.2024):
 
   ```
   git clone https://github.com/iotaledger/identity.rs
@@ -5813,7 +5813,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/helium/helium-wallet-rs">helium-wallet-rs</a></b> (🥈20 ·  ⭐ 250) - Rust implementation of a helium wallet CLI. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/helium/helium-wallet-rs) ⭐ 278 | 🐛 10 | 🌐 Rust | 📅 2026-11-17 (👨‍💻 27 · 🔀 100 · 📥 23K · 📋 150 - 5% open · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/helium/helium-wallet-rs) ⭐ 278 | 🐛 11 | 🌐 Rust | 📅 2026-11-19 (👨‍💻 27 · 🔀 100 · 📥 23K · 📋 150 - 5% open · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/helium/helium-wallet-rs
@@ -5834,7 +5834,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/vechain/thor">thor</a></b> (🥇23 ·  ⭐ 790) - A general purpose blockchain highly compatible with Ethereums ecosystem. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/vechain/thor) ⭐ 815 | 🐛 2 | 🌐 Go | 📅 2026-11-11 (👨‍💻 32 · 🔀 250 · 📦 21 · 📋 140 - 4% open · ⏱️ 31.05.2024):
+* [GitHub](https://github.com/vechain/thor) ⭐ 814 | 🐛 2 | 🌐 Go | 📅 2026-11-11 (👨‍💻 32 · 🔀 250 · 📦 21 · 📋 140 - 4% open · ⏱️ 31.05.2024):
 
   ```
   git clone https://github.com/vechain/thor
@@ -5855,7 +5855,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/iotexproject/iotex-core">iotex-core</a></b> (🥇29 ·  ⭐ 1.5K) - Official implementation of IoTeX blockchain protocol in Go. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/iotexproject/iotex-core) ⭐ 1,615 | 🐛 71 | 🌐 Go | 📅 2026-11-18 (👨‍💻 96 · 🔀 320 · 📥 64K · 📦 29 · 📋 1.3K - 14% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/iotexproject/iotex-core) ⭐ 1,614 | 🐛 72 | 🌐 Go | 📅 2026-11-18 (👨‍💻 96 · 🔀 320 · 📥 64K · 📦 29 · 📋 1.3K - 14% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/iotexproject/iotex-core
@@ -5929,7 +5929,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/airalab/robonomics">robonomics</a></b> (🥈18 ·  ⭐ 220 · 💤) - Robonomics node implementation for Polkadot ecosystem. Kusama.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/airalab/robonomics) ⭐ 228 | 🐛 26 | 🌐 Rust | 📅 2026-11-05 (👨‍💻 27 · 🔀 60 · 📥 19K · 📋 180 - 7% open · ⏱️ 01.07.2023):
+* [GitHub](https://github.com/airalab/robonomics) ⭐ 229 | 🐛 26 | 🌐 Rust | 📅 2026-11-05 (👨‍💻 27 · 🔀 60 · 📥 19K · 📋 180 - 7% open · ⏱️ 01.07.2023):
 
   ```
   git clone https://github.com/airalab/robonomics
@@ -5975,7 +5975,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/ethereum-optimism/optimism">optimism</a></b> (🥇35 ·  ⭐ 5.2K) - Optimism is Ethereum, scaled. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/ethereum-optimism/optimism) ⭐ 6,497 | 🐛 919 | 🌐 Go | 📅 2026-11-18 (👨‍💻 300 · 🔀 2.9K · 📦 22K · 📋 1.1K - 16% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/ethereum-optimism/optimism) ⭐ 6,497 | 🐛 913 | 🌐 Go | 📅 2026-11-19 (👨‍💻 300 · 🔀 2.9K · 📦 22K · 📋 1.1K - 16% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/ethereum-optimism/optimism
@@ -5984,7 +5984,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/ethereum-optimism/op-geth">op-geth</a></b> (🥇23 ·  ⭐ 240) -  <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/ethereum-optimism/op-geth) ⭐ 399 | 🐛 94 | 🌐 Go | 📅 2026-11-11 (👨‍💻 960 · 🔀 530 · 📦 18 · 📋 52 - 53% open · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/ethereum-optimism/op-geth) ⭐ 399 | 🐛 93 | 🌐 Go | 📅 2026-11-11 (👨‍💻 960 · 🔀 530 · 📦 18 · 📋 52 - 53% open · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/ethereum-optimism/op-geth
@@ -6032,7 +6032,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/onflow/flow-go">flow-go</a></b> (🥇29 ·  ⭐ 530) - A fast, secure, and developer-friendly blockchain built to support.. <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/onflow/flow-go) ⭐ 577 | 🐛 257 | 🌐 Go | 📅 2026-11-16 (👨‍💻 110 · 🔀 170 · 📦 340 · 📋 1K - 39% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/onflow/flow-go) ⭐ 576 | 🐛 257 | 🌐 Go | 📅 2026-11-16 (👨‍💻 110 · 🔀 170 · 📦 340 · 📋 1K - 39% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/onflow/flow-go
@@ -6050,7 +6050,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/onflow/cadence">cadence</a></b> (🥇28 ·  ⭐ 520) - Cadence, the resource-oriented smart contract programming language. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/onflow/cadence) ⭐ 547 | 🐛 159 | 🌐 Go | 📅 2026-11-09 (👨‍💻 120 · 🔀 130 · 📦 660 · 📋 950 - 20% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/onflow/cadence) ⭐ 546 | 🐛 159 | 🌐 Go | 📅 2026-11-09 (👨‍💻 120 · 🔀 130 · 📦 660 · 📋 950 - 20% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/onflow/cadence
@@ -6059,7 +6059,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/onflow/fcl-js">fcl-js</a></b> (🥇26 ·  ⭐ 320) - FCL (Flow Client Library) - The best tool for building JavaScript.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/onflow/fcl-js) ⭐ 334 | 🐛 214 | 🌐 TypeScript | 📅 2026-10-11 (👨‍💻 75 · 🔀 110 · 📦 5K · 📋 570 - 17% open · ⏱️ 22.05.2024):
+* [GitHub](https://github.com/onflow/fcl-js) ⭐ 333 | 🐛 214 | 🌐 TypeScript | 📅 2026-10-11 (👨‍💻 75 · 🔀 110 · 📦 5K · 📋 570 - 17% open · ⏱️ 22.05.2024):
 
   ```
   git clone https://github.com/onflow/fcl-js
@@ -6098,7 +6098,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/ava-labs/avalanchego">avalanchego</a></b> (🥇34 ·  ⭐ 2.1K) - Go implementation of an Avalanche node. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/ava-labs/avalanchego) ⭐ 2,360 | 🐛 379 | 🌐 Go | 📅 2026-11-18 (👨‍💻 110 · 🔀 640 · 📥 420K · 📦 1.2K · 📋 820 - 26% open · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/ava-labs/avalanchego) ⭐ 2,360 | 🐛 375 | 🌐 Go | 📅 2026-11-19 (👨‍💻 110 · 🔀 640 · 📥 420K · 📦 1.2K · 📋 820 - 26% open · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/ava-labs/avalanchego
@@ -6116,7 +6116,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/ava-labs/avalanchejs">avalanchejs</a></b> (🥈19 ·  ⭐ 310) - The Avalanche Platform JavaScript Library. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/ava-labs/avalanchejs) ⭐ 356 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-13 (👨‍💻 50 · 🔀 160 · 📥 72 · 📦 3 · 📋 130 - 9% open · ⏱️ 13.03.2024):
+* [GitHub](https://github.com/ava-labs/avalanchejs) ⭐ 355 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-13 (👨‍💻 50 · 🔀 160 · 📥 72 · 📦 3 · 📋 130 - 9% open · ⏱️ 13.03.2024):
 
   ```
   git clone https://github.com/ava-labs/avalanchejs
@@ -6155,7 +6155,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/ProvableHQ/leo">leo</a></b> (🥇28 ·  ⭐ 4.8K) - The Leo Programming Language. A Programming Language for Formally.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/ProvableHQ/leo) ⭐ 4,825 | 🐛 183 | 🌐 Rust | 📅 2026-11-02 (👨‍💻 61 · 🔀 620 · 📥 25K · 📋 21K - 1% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/ProvableHQ/leo) ⭐ 4,824 | 🐛 186 | 🌐 Rust | 📅 2026-11-19 (👨‍💻 61 · 🔀 620 · 📥 25K · 📋 21K - 1% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/AleoHQ/leo
@@ -6164,7 +6164,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/ProvableHQ/sdk">aleo</a></b> (🥇23 ·  ⭐ 560) - A Software Development Kit (SDK) for Zero-Knowledge Transactions. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/ProvableHQ/sdk) ⭐ 635 | 🐛 43 | 🌐 TypeScript | 📅 2026-11-10 (👨‍💻 39 · 🔀 440 · 📥 930 · 📦 59 · 📋 140 - 34% open · ⏱️ 15.05.2024):
+* [GitHub](https://github.com/ProvableHQ/sdk) ⭐ 635 | 🐛 44 | 🌐 TypeScript | 📅 2026-11-19 (👨‍💻 39 · 🔀 440 · 📥 930 · 📦 59 · 📋 140 - 34% open · ⏱️ 15.05.2024):
 
   ```
   git clone https://github.com/AleoHQ/aleo
@@ -6194,7 +6194,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/aptos-labs/aptos-core">aptos-core</a></b> (🥇34 ·  ⭐ 5.9K) - Aptos is a layer 1 blockchain built to support the.. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/aptos-labs/aptos-core) ⭐ 6,439 | 🐛 581 | 🌐 Rust | 📅 2026-11-18 (👨‍💻 600 · 🔀 3.5K · 📥 80K · 📦 430 · 📋 2.3K - 25% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/aptos-labs/aptos-core) ⭐ 6,440 | 🐛 594 | 🌐 Rust | 📅 2026-11-19 (👨‍💻 600 · 🔀 3.5K · 📥 80K · 📦 430 · 📋 2.3K - 25% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/aptos-labs/aptos-core
@@ -6293,7 +6293,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/celestiaorg/celestia-app">celestia-app</a></b> (🥇27 ·  ⭐ 320) - PoS application for the consensus portion of the Celestia.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/celestiaorg/celestia-app) ⭐ 421 | 🐛 115 | 🌐 Go | 📅 2026-11-18 (👨‍💻 71 · 🔀 250 · 📥 2.9K · 📦 140 · 📋 1.4K - 15% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/celestiaorg/celestia-app) ⭐ 421 | 🐛 105 | 🌐 Go | 📅 2026-11-19 (👨‍💻 71 · 🔀 250 · 📥 2.9K · 📦 140 · 📋 1.4K - 15% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/celestiaorg/celestia-app
@@ -6302,7 +6302,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/celestiaorg/celestia-node">celestia-node</a></b> (🥇26 ·  ⭐ 900) - Celestia Data Availability Nodes. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/celestiaorg/celestia-node) ⭐ 1,007 | 🐛 145 | 🌐 Go | 📅 2026-11-18 (👨‍💻 62 · 🔀 880 · 📥 370 · 📦 63 · 📋 1.4K - 22% open · ⏱️ 04.06.2024):
+* [GitHub](https://github.com/celestiaorg/celestia-node) ⭐ 1,007 | 🐛 142 | 🌐 Go | 📅 2026-11-19 (👨‍💻 62 · 🔀 880 · 📥 370 · 📦 63 · 📋 1.4K - 22% open · ⏱️ 04.06.2024):
 
   ```
   git clone https://github.com/celestiaorg/celestia-node
@@ -6311,7 +6311,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/celestiaorg/celestia-core">celestia-core</a></b> (🥇26 ·  ⭐ 460) - Celestia node software based on Tendermint. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/celestiaorg/celestia-core) ⭐ 551 | 🐛 254 | 🌐 Go | 📅 2026-11-18 (👨‍💻 290 · 🔀 230 · 📦 33 · 📋 470 - 22% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/celestiaorg/celestia-core) ⭐ 551 | 🐛 233 | 🌐 Go | 📅 2026-11-19 (👨‍💻 290 · 🔀 230 · 📦 33 · 📋 470 - 22% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/celestiaorg/celestia-core
@@ -6362,7 +6362,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/MixinNetwork/android-app">android-app</a></b> (🥇23 ·  ⭐ 450) - Android private messenger, crypto wallet and light node to Mixin.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/MixinNetwork/android-app) ⭐ 503 | 🐛 90 | 🌐 Kotlin | 📅 2026-11-18 (👨‍💻 14 · 🔀 96 · 📥 47K · 📋 90 - 50% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/MixinNetwork/android-app) ⭐ 503 | 🐛 86 | 🌐 Kotlin | 📅 2026-11-19 (👨‍💻 14 · 🔀 96 · 📥 47K · 📋 90 - 50% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/MixinNetwork/android-app
@@ -6371,7 +6371,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/MixinNetwork/mixin">mixin</a></b> (🥇22 ·  ⭐ 500) - The Mixin TEE-BFT-DAG network reference implementation. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/MixinNetwork/mixin) ⭐ 522 | 🐛 10 | 🌐 Go | 📅 2026-10-31 (👨‍💻 21 · 🔀 130 · 📥 57K · 📋 66 - 12% open · ⏱️ 26.05.2024):
+* [GitHub](https://github.com/MixinNetwork/mixin) ⭐ 522 | 🐛 9 | 🌐 Go | 📅 2026-10-31 (👨‍💻 21 · 🔀 130 · 📥 57K · 📋 66 - 12% open · ⏱️ 26.05.2024):
 
   ```
   git clone https://github.com/MixinNetwork/mixin
@@ -6380,7 +6380,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/MixinNetwork/flutter-plugins">flutter-plugins</a></b> (🥇22 ·  ⭐ 410) - Flutter plugins used in Mixin Messenger. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/MixinNetwork/flutter-plugins) ⭐ 513 | 🐛 88 | 🌐 C | 📅 2026-11-16 (👨‍💻 30 · 🔀 160 · 📦 1.6K · 📋 250 - 44% open · ⏱️ 03.06.2024):
+* [GitHub](https://github.com/MixinNetwork/flutter-plugins) ⭐ 513 | 🐛 87 | 🌐 C | 📅 2026-11-19 (👨‍💻 30 · 🔀 160 · 📦 1.6K · 📋 250 - 44% open · ⏱️ 03.06.2024):
 
   ```
   git clone https://github.com/MixinNetwork/flutter-plugins
@@ -6389,7 +6389,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/MixinNetwork/ios-app">ios-app</a></b> (🥈20 ·  ⭐ 500) - iOS private messenger, crypto wallet and light node to Mixin Network. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/MixinNetwork/ios-app) ⭐ 527 | 🐛 37 | 🌐 Swift | 📅 2026-11-18 (👨‍💻 14 · 🔀 110 · 📋 66 - 50% open · ⏱️ 30.05.2024):
+* [GitHub](https://github.com/MixinNetwork/ios-app) ⭐ 527 | 🐛 37 | 🌐 Swift | 📅 2026-11-19 (👨‍💻 14 · 🔀 110 · 📋 66 - 50% open · ⏱️ 30.05.2024):
 
   ```
   git clone https://github.com/MixinNetwork/ios-app
@@ -6398,7 +6398,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/MixinNetwork/flutter-app">flutter-app</a></b> (🥈19 ·  ⭐ 270) - Mixin Messenger desktop app for macOS, iPadOS, Linux, and Windows.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/MixinNetwork/flutter-app) ⭐ 329 | 🐛 27 | 🌐 Dart | 📅 2026-11-18 (👨‍💻 8 · 🔀 57 · 📥 5.1K · 📋 36 - 25% open · ⏱️ 30.05.2024):
+* [GitHub](https://github.com/MixinNetwork/flutter-app) ⭐ 329 | 🐛 26 | 🌐 Dart | 📅 2026-11-19 (👨‍💻 8 · 🔀 57 · 📥 5.1K · 📋 36 - 25% open · ⏱️ 30.05.2024):
 
   ```
   git clone https://github.com/MixinNetwork/flutter-app
@@ -6419,7 +6419,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/celo-org/celo-monorepo">celo-monorepo</a></b> (🥇28 ·  ⭐ 680) - Official repository for core projects comprising the Celo.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/celo-org/celo-monorepo) ⭐ 823 | 🐛 16 | 🌐 Solidity | 📅 2026-11-18 (👨‍💻 220 · 🔀 350 · 📥 140 · 📦 2.6K · 📋 5.2K - 1% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/celo-org/celo-monorepo) ⭐ 823 | 🐛 17 | 🌐 Solidity | 📅 2026-11-19 (👨‍💻 220 · 🔀 350 · 📥 140 · 📦 2.6K · 📋 5.2K - 1% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/celo-org/celo-monorepo
@@ -6428,7 +6428,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/celo-org/celo-blockchain">celo-blockchain</a></b> (🥇25 ·  ⭐ 540) - Official repository for the golang Celo Blockchain. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/celo-org/celo-blockchain) ⭐ 631 | 🐛 18 | 🌐 Go | 📅 2026-11-11 (👨‍💻 720 · 🔀 190 · 📥 400 · 📦 19 · 📋 870 - 9% open · ⏱️ 15.05.2024):
+* [GitHub](https://github.com/celo-org/celo-blockchain) ⭐ 630 | 🐛 18 | 🌐 Go | 📅 2026-11-11 (👨‍💻 720 · 🔀 190 · 📥 400 · 📦 19 · 📋 870 - 9% open · ⏱️ 15.05.2024):
 
   ```
   git clone https://github.com/celo-org/celo-blockchain
@@ -6491,7 +6491,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/matter-labs/zksync">zksync</a></b> (🥇23 ·  ⭐ 4.8K · 💤) - zkSync: trustless scaling and privacy engine for Ethereum. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/matter-labs/zksync) ⭐ 4,912 | 🐛 106 | 🌐 Rust | 📅 2026-10-27 (👨‍💻 65 · 🔀 2.7K · 📋 390 - 22% open · ⏱️ 08.11.2023):
+* [GitHub](https://github.com/matter-labs/zksync) ⭐ 4,912 | 🐛 106 | 🌐 Rust | 📅 2026-11-19 (👨‍💻 65 · 🔀 2.7K · 📋 390 - 22% open · ⏱️ 08.11.2023):
 
   ```
   git clone https://github.com/matter-labs/zksync
@@ -6518,7 +6518,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/matter-labs/hardhat-zksync">hardhat-zksync</a></b> (🥈19 ·  ⭐ 280) -  <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/matter-labs/hardhat-zksync) ⭐ 284 | 🐛 31 | 🌐 TypeScript | 📅 2026-11-05 (👨‍💻 30 · 🔀 220 · 📦 3 · 📋 120 - 18% open · ⏱️ 03.06.2024):
+* [GitHub](https://github.com/matter-labs/hardhat-zksync) ⭐ 284 | 🐛 31 | 🌐 TypeScript | 📅 2026-11-19 (👨‍💻 30 · 🔀 220 · 📦 3 · 📋 120 - 18% open · ⏱️ 03.06.2024):
 
   ```
   git clone https://github.com/matter-labs/hardhat-zksync
@@ -6539,7 +6539,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/gitcoinco/web">web</a></b> (🥈21 ·  ⭐ 1.8K · 💤) - Grow Open Source. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/gitcoinco/web) ⭐ 1,825 | 🐛 652 | 🌐 JavaScript | 📅 2024-08-09 (👨‍💻 290 · 🔀 860 · 📋 6.1K - 10% open · ⏱️ 01.08.2023):
+* [GitHub](https://github.com/gitcoinco/web) ⭐ 1,824 | 🐛 652 | 🌐 JavaScript | 📅 2024-08-09 (👨‍💻 290 · 🔀 860 · 📋 6.1K - 10% open · ⏱️ 01.08.2023):
 
   ```
   git clone https://github.com/gitcoinco/web
@@ -6557,7 +6557,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/gitcoinco/grants-stack">grants-round</a></b> (🥈18 ·  ⭐ 310) - Round Manager & Grant Explorer & Project Builder of the.. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/gitcoinco/grants-stack) ⭐ 354 | 🐛 4 | 🌐 TypeScript | 📅 2025-05-11 (👨‍💻 44 · 🔀 130 · 📋 2K - 5% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/gitcoinco/grants-stack) ⭐ 353 | 🐛 4 | 🌐 TypeScript | 📅 2025-05-11 (👨‍💻 44 · 🔀 130 · 📋 2K - 5% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/gitcoinco/grants-round
@@ -6578,7 +6578,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/livepeer/go-livepeer">go-livepeer</a></b> (🥇26 ·  ⭐ 530) - Official Go implementation of the Livepeer protocol. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/livepeer/go-livepeer) ⭐ 587 | 🐛 342 | 🌐 Go | 📅 2026-11-17 (👨‍💻 62 · 🔀 160 · 📥 23K · 📦 9 · 📋 1.6K - 15% open · ⏱️ 01.06.2024):
+* [GitHub](https://github.com/livepeer/go-livepeer) ⭐ 588 | 🐛 341 | 🌐 Go | 📅 2026-11-17 (👨‍💻 62 · 🔀 160 · 📥 23K · 📦 9 · 📋 1.6K - 15% open · ⏱️ 01.06.2024):
 
   ```
   git clone https://github.com/livepeer/go-livepeer
@@ -6626,7 +6626,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/cardano-foundation/CIPs">CIPs</a></b> (🥈15 ·  ⭐ 460) -  <code><a href="https://tldrlegal.com/search?q=CC-BY-4.0">CC-BY-4.0</a></code></summary>
 
-* [GitHub](https://github.com/cardano-foundation/CIPs) ⭐ 579 | 🐛 70 | 📅 2026-11-13 (👨‍💻 110 · 🔀 270 · 📋 190 - 50% open · ⏱️ 03.06.2024):
+* [GitHub](https://github.com/cardano-foundation/CIPs) ⭐ 579 | 🐛 72 | 📅 2026-11-13 (👨‍💻 110 · 🔀 270 · 📋 190 - 50% open · ⏱️ 03.06.2024):
 
   ```
   git clone https://github.com/cardano-foundation/CIPs
@@ -6647,7 +6647,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/planetarium/libplanet">libplanet</a></b> (🥇29 ·  ⭐ 500) - Blockchain in C#/.NET for on-chain, decentralized gaming. <code><a href="https://tldrlegal.com/search?q=LGPL-2.1">LGPL-2.1</a></code></summary>
 
-* [GitHub](https://github.com/planetarium/libplanet) ⭐ 534 | 🐛 114 | 🌐 C# | 📅 2026-11-18 (👨‍💻 75 · 🔀 140 · 📥 21K · 📦 45 · 📋 880 - 9% open · ⏱️ 27.05.2024):
+* [GitHub](https://github.com/planetarium/libplanet) ⭐ 533 | 🐛 114 | 🌐 C# | 📅 2026-11-19 (👨‍💻 75 · 🔀 140 · 📥 21K · 📦 45 · 📋 880 - 9% open · ⏱️ 27.05.2024):
 
   ```
   git clone https://github.com/planetarium/libplanet
@@ -6656,7 +6656,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 </details>
 <details><summary><b><a href="https://github.com/planetarium/NineChronicles">NineChronicles</a></b> (🥈21 ·  ⭐ 350) - Unity client application for Nine Chronicles, a fully.. <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/planetarium/NineChronicles) ⭐ 408 | 🐛 132 | 🌐 C# | 📅 2026-11-18 (👨‍💻 54 · 🔀 130 · 📥 9 · 📋 850 - 24% open · ⏱️ 27.05.2024):
+* [GitHub](https://github.com/planetarium/NineChronicles) ⭐ 408 | 🐛 132 | 🌐 C# | 📅 2026-11-19 (👨‍💻 54 · 🔀 130 · 📥 9 · 📋 850 - 24% open · ⏱️ 27.05.2024):
 
   ```
   git clone https://github.com/planetarium/NineChronicles
@@ -6739,7 +6739,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/Agoric/agoric-sdk">agoric-sdk</a></b> (🥇30 ·  ⭐ 300) - monorepo for the Agoric Javascript smart contract platform. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/Agoric/agoric-sdk) ⭐ 359 | 🐛 1,799 | 🌐 TypeScript | 📅 2026-11-18 (👨‍💻 77 · 🔀 190 · 📥 1.7K · 📦 150 · 📋 4.4K - 33% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/Agoric/agoric-sdk) ⭐ 358 | 🐛 1,802 | 🌐 TypeScript | 📅 2026-11-19 (👨‍💻 77 · 🔀 190 · 📥 1.7K · 📦 150 · 📋 4.4K - 33% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/Agoric/agoric-sdk
@@ -6781,7 +6781,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/Blockstream/esplora">esplora</a></b> (🥈17 ·  ⭐ 950) - Explorer for Bitcoin and Liquid. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/Blockstream/esplora) ⭐ 1,277 | 🐛 190 | 🌐 JavaScript | 📅 2026-11-17 (👨‍💻 31 · 🔀 370 · 📋 330 - 49% open · ⏱️ 21.05.2024):
+* [GitHub](https://github.com/Blockstream/esplora) ⭐ 1,277 | 🐛 189 | 🌐 JavaScript | 📅 2026-11-19 (👨‍💻 31 · 🔀 370 · 📋 330 - 49% open · ⏱️ 21.05.2024):
 
   ```
   git clone https://github.com/Blockstream/esplora
@@ -6831,7 +6831,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/subquery/subql">subql</a></b> (🥇29 ·  ⭐ 19K) - SubQuery is an Open, Flexible, Fast and Universal data indexing.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/subquery/subql) ⭐ 18,714 | 🐛 102 | 🌐 TypeScript | 📅 2026-11-12 (👨‍💻 36 · 🔀 310 · 📦 9.9K · 📋 670 - 10% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/subquery/subql) ⭐ 18,709 | 🐛 102 | 🌐 TypeScript | 📅 2026-11-12 (👨‍💻 36 · 🔀 310 · 📦 9.9K · 📋 670 - 10% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/subquery/subql
@@ -6848,7 +6848,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/AudiusProject/audius-protocol">audius-protocol</a></b> (🥇23 ·  ⭐ 540) - The Audius Protocol - Freedom to share, monetize, and.. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/AudiusProject/audius-protocol) ⭐ 624 | 🐛 55 | 🌐 TypeScript | 📅 2026-11-18 (👨‍💻 44 · 🔀 110 · 📥 1.8K · 📦 4 · 📋 72 - 65% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/AudiusProject/audius-protocol) ⭐ 622 | 🐛 55 | 🌐 TypeScript | 📅 2026-11-19 (👨‍💻 44 · 🔀 110 · 📥 1.8K · 📦 4 · 📋 72 - 65% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/AudiusProject/audius-protocol
@@ -6890,7 +6890,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/connext/monorepo">monorepo</a></b> (🥇28 ·  ⭐ 280) - Connext is a modular stack for trust-minimized, generalized communication.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/connext/monorepo) ⭐ 303 | 🐛 277 | 🌐 TypeScript | 📅 2026-03-04 (👨‍💻 55 · 🔀 150 · 📦 330 · 📋 2.8K - 7% open · ⏱️ 20.05.2024):
+* [GitHub](https://github.com/connext/monorepo) ⭐ 304 | 🐛 277 | 🌐 TypeScript | 📅 2026-03-04 (👨‍💻 55 · 🔀 150 · 📦 330 · 📋 2.8K - 7% open · ⏱️ 20.05.2024):
 
   ```
   git clone https://github.com/connext/monorepo
@@ -6932,7 +6932,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/hummingbot/hummingbot">hummingbot</a></b> (🥇28 ·  ⭐ 7.5K) - Open source software that helps you create and deploy high-.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/hummingbot/hummingbot) ⭐ 21,270 | 🐛 208 | 🌐 Python | 📅 2026-11-18 (👨‍💻 260 · 🔀 2.6K · 📥 30 · 📋 3.1K - 12% open · ⏱️ 31.05.2024):
+* [GitHub](https://github.com/hummingbot/hummingbot) ⭐ 21,298 | 🐛 208 | 🌐 Python | 📅 2026-11-19 (👨‍💻 260 · 🔀 2.6K · 📥 30 · 📋 3.1K - 12% open · ⏱️ 31.05.2024):
 
   ```
   git clone https://github.com/hummingbot/hummingbot
@@ -6953,7 +6953,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/opencog/atomspace">atomspace</a></b> (🥈21 ·  ⭐ 790) - The OpenCog (hyper-)graph database and graph rewriting system. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/opencog/atomspace) ⭐ 1,017 | 🐛 69 | 🌐 C++ | 📅 2026-02-10 (👨‍💻 150 · 🔀 220 · 📋 610 - 12% open · ⏱️ 11.05.2024):
+* [GitHub](https://github.com/opencog/atomspace) ⭐ 1,016 | 🐛 69 | 🌐 C++ | 📅 2026-02-10 (👨‍💻 150 · 🔀 220 · 📋 610 - 12% open · ⏱️ 11.05.2024):
 
   ```
   git clone https://github.com/opencog/atomspace
@@ -6983,7 +6983,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/hop-protocol/hop">hop</a></b> (🥇28 ·  ⭐ 2.8K) - Hop Protocol Monorepo. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/hop-protocol/hop) ⭐ 2,811 | 🐛 35 | 🌐 TypeScript | 📅 2025-10-29 (👨‍💻 15 · 🔀 180 · 📦 140 · 📋 240 - 13% open · ⏱️ 30.05.2024):
+* [GitHub](https://github.com/hop-protocol/hop) ⭐ 2,810 | 🐛 35 | 🌐 TypeScript | 📅 2025-10-29 (👨‍💻 15 · 🔀 180 · 📦 140 · 📋 240 - 13% open · ⏱️ 30.05.2024):
 
   ```
   git clone https://github.com/hop-protocol/hop
@@ -7004,7 +7004,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/MinaProtocol/mina">mina</a></b> (🥇29 ·  ⭐ 2K) - Mina is a cryptocurrency protocol with a constant size blockchain,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/MinaProtocol/mina) ⭐ 2,129 | 🐛 965 | 🌐 OCaml | 📅 2026-11-18 (👨‍💻 120 · 🔀 500 · 📥 1K · 📦 3 · 📋 6.5K - 20% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/MinaProtocol/mina) ⭐ 2,128 | 🐛 965 | 🌐 OCaml | 📅 2026-11-19 (👨‍💻 120 · 🔀 500 · 📥 1K · 📦 3 · 📋 6.5K - 20% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/MinaProtocol/mina
@@ -7025,7 +7025,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/starcoinorg/starcoin">starcoin</a></b> (🥇29 ·  ⭐ 1.4K) - Starcoin - A Move smart contract blockchain network that scales by.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/starcoinorg/starcoin) ⭐ 1,154 | 🐛 232 | 🌐 Rust | 📅 2026-11-18 (👨‍💻 53 · 🔀 290 · 📥 10K · 📦 170 · 📋 1K - 16% open · ⏱️ 30.05.2024):
+* [GitHub](https://github.com/starcoinorg/starcoin) ⭐ 1,153 | 🐛 232 | 🌐 Rust | 📅 2026-11-19 (👨‍💻 53 · 🔀 290 · 📥 10K · 📦 170 · 📋 1K - 16% open · ⏱️ 30.05.2024):
 
   ```
   git clone https://github.com/starcoinorg/starcoin
@@ -7046,7 +7046,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/akash-network/node">node</a></b> (🥇24 ·  ⭐ 860) - Source code for Akash node, a secure, transparent, and peer-to-peer cloud.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/akash-network/node) ⭐ 1,120 | 🐛 4 | 🌐 Go | 📅 2026-11-18 (👨‍💻 32 · 🔀 200 · 📥 31K · 📦 7 · ⏱️ 28.05.2024):
+* [GitHub](https://github.com/akash-network/node) ⭐ 1,119 | 🐛 3 | 🌐 Go | 📅 2026-11-19 (👨‍💻 32 · 🔀 200 · 📥 31K · 📦 7 · ⏱️ 28.05.2024):
 
   ```
   git clone https://github.com/akash-network/node
@@ -7067,7 +7067,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/ONEARMY/community-platform">community-platform</a></b> (🥇26 ·  ⭐ 1K) - A platform to build useful communities that aim to tackle.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/ONEARMY/community-platform) ⭐ 1,408 | 🐛 44 | 🌐 TypeScript | 📅 2026-11-16 (👨‍💻 160 · 🔀 340 · 📋 1.1K - 8% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/ONEARMY/community-platform) ⭐ 1,407 | 🐛 39 | 🌐 TypeScript | 📅 2026-11-19 (👨‍💻 160 · 🔀 340 · 📋 1.1K - 8% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/ONEARMY/community-platform
@@ -7088,7 +7088,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/Bitcoin-ABC/bitcoin-abc">bitcoin-abc</a></b> (🥇30 ·  ⭐ 1.3K) - Bitcoin ABC develops node software and infrastructure for the eCash.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/Bitcoin-ABC/bitcoin-abc) ⭐ 1,302 | 🐛 113 | 🌐 TypeScript | 📅 2026-11-18 (👨‍💻 870 · 🔀 790 · 📥 9.2K · 📦 5 · 📋 380 - 22% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/Bitcoin-ABC/bitcoin-abc) ⭐ 1,302 | 🐛 113 | 🌐 TypeScript | 📅 2026-11-19 (👨‍💻 870 · 🔀 790 · 📥 9.2K · 📦 5 · 📋 380 - 22% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/Bitcoin-ABC/bitcoin-abc
@@ -7105,7 +7105,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/TP-Lab/tokens">TP-Lab/tokens</a></b> (🥇23 ·  ⭐ 310) - Token assets for TokenPocket. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/TP-Lab/tokens) ⭐ 401 | 🐛 11 | 🌐 Rich Text Format | 📅 2026-11-07 (👨‍💻 4K · 🔀 6.1K · 📋 340 - 2% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/TP-Lab/tokens) ⭐ 402 | 🐛 17 | 🌐 Rich Text Format | 📅 2026-11-07 (👨‍💻 4K · 🔀 6.1K · 📋 340 - 2% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/TP-Lab/tokens
@@ -7126,7 +7126,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/rsksmart/rskj">rskj</a></b> (🥇22 ·  ⭐ 670) - RSKj is a Java implementation of the RSK protocol. <code><a href="http://bit.ly/37RvQcA">LGPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/rsksmart/rskj) ⭐ 691 | 🐛 309 | 🌐 Java | 📅 2026-11-18 (👨‍💻 86 · 🔀 260 · 📥 12K · 📋 510 - 49% open · ⏱️ 29.05.2024):
+* [GitHub](https://github.com/rsksmart/rskj) ⭐ 690 | 🐛 310 | 🌐 Java | 📅 2026-11-19 (👨‍💻 86 · 🔀 260 · 📥 12K · 📋 510 - 49% open · ⏱️ 29.05.2024):
 
   ```
   git clone https://github.com/rsksmart/rskj
@@ -7147,7 +7147,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/spacemeshos/go-spacemesh">go-spacemesh</a></b> (🥇29 ·  ⭐ 740) - Go Implementation of the Spacemesh protocol full node. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/spacemeshos/go-spacemesh) ⭐ 780 | 🐛 247 | 🌐 Go | 📅 2025-11-20 (👨‍💻 86 · 🔀 210 · 📥 1.2K · 📦 50 · 📋 2.5K - 8% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/spacemeshos/go-spacemesh) ⭐ 779 | 🐛 247 | 🌐 Go | 📅 2025-11-20 (👨‍💻 86 · 🔀 210 · 📥 1.2K · 📦 50 · 📋 2.5K - 8% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/spacemeshos/go-spacemesh
@@ -7198,7 +7198,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/kaspanet/kaspad">kaspad</a></b> (🥇25 ·  ⭐ 430) - Kaspad is the reference full node Kaspa implementation written in Go.. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
-* [GitHub](https://github.com/kaspanet/kaspad) ⭐ 531 | 🐛 175 | 🌐 Go | 📅 2026-06-05 (👨‍💻 130 · 🔀 220 · 📥 45K · 📦 81 · 📋 430 - 50% open · ⏱️ 09.05.2024):
+* [GitHub](https://github.com/kaspanet/kaspad) ⭐ 530 | 🐛 175 | 🌐 Go | 📅 2026-06-05 (👨‍💻 130 · 🔀 220 · 📥 45K · 📦 81 · 📋 430 - 50% open · ⏱️ 09.05.2024):
 
   ```
   git clone https://github.com/kaspanet/kaspad
@@ -7299,7 +7299,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/Superalgos/Superalgos">Superalgos</a></b> (🥇27 ·  ⭐ 3.9K) - Free, open-source crypto trading bot, automated bitcoin /.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/Superalgos/Superalgos) ⭐ 5,805 | 🐛 107 | 🌐 JavaScript | 📅 2026-11-14 (👨‍💻 230 · 🔀 5.4K · 📥 8.8K · 📋 460 - 17% open · ⏱️ 31.01.2024):
+* [GitHub](https://github.com/Superalgos/Superalgos) ⭐ 5,808 | 🐛 107 | 🌐 JavaScript | 📅 2026-11-14 (👨‍💻 230 · 🔀 5.4K · 📥 8.8K · 📋 460 - 17% open · ⏱️ 31.01.2024):
 
   ```
   git clone https://github.com/Superalgos/Superalgos
@@ -7390,7 +7390,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/unlock-protocol/unlock">unlock</a></b> (🥇26 ·  ⭐ 820) - nlock is a protocol for memberships built on a blockchain. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/unlock-protocol/unlock) ⭐ 887 | 🐛 179 | 🌐 TypeScript | 📅 2026-11-16 (👨‍💻 83 · 🔀 230 · 📦 4 · 📋 2.6K - 9% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/unlock-protocol/unlock) ⭐ 886 | 🐛 179 | 🌐 TypeScript | 📅 2026-11-16 (👨‍💻 83 · 🔀 230 · 📦 4 · 📋 2.6K - 9% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/unlock-protocol/unlock
@@ -7451,7 +7451,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/Adamant-im/adamant-im">adamant-im</a></b> (🥈20 ·  ⭐ 560) - ADAMANT Decentralized Messenger. Progressive Web Application (PWA). <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/Adamant-im/adamant-im) ⭐ 796 | 🐛 47 | 🌐 TypeScript | 📅 2026-11-16 (👨‍💻 30 · 🔀 56 · 📥 23K · 📋 32 - 40% open · ⏱️ 19.03.2024):
+* [GitHub](https://github.com/Adamant-im/adamant-im) ⭐ 795 | 🐛 47 | 🌐 TypeScript | 📅 2026-11-19 (👨‍💻 30 · 🔀 56 · 📥 23K · 📋 32 - 40% open · ⏱️ 19.03.2024):
 
   ```
   git clone https://github.com/Adamant-im/adamant-im
@@ -7493,7 +7493,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/AcalaNetwork/Acala">Acala</a></b> (🥈21 ·  ⭐ 730) - Acala - cross-chain DeFi hub and stablecoin based on Substrate for.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/AcalaNetwork/Acala) ⭐ 763 | 🐛 135 | 🌐 Rust | 📅 2026-08-13 (👨‍💻 44 · 🔀 240 · 📥 230 · 📋 1K - 16% open · ⏱️ 31.05.2024):
+* [GitHub](https://github.com/AcalaNetwork/Acala) ⭐ 762 | 🐛 135 | 🌐 Rust | 📅 2026-08-13 (👨‍💻 44 · 🔀 240 · 📥 230 · 📋 1K - 16% open · ⏱️ 31.05.2024):
 
   ```
   git clone https://github.com/AcalaNetwork/Acala
@@ -7514,7 +7514,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/dappnode/DAppNode">DAppNode</a></b> (🥈21 ·  ⭐ 570) - General repository of the project dappnode. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/dappnode/DAppNode) ⭐ 625 | 🐛 80 | 🌐 Shell | 📅 2026-10-20 (👨‍💻 21 · 🔀 93 · 📥 100K · 📋 430 - 17% open · ⏱️ 21.05.2024):
+* [GitHub](https://github.com/dappnode/DAppNode) ⭐ 625 | 🐛 82 | 🌐 Shell | 📅 2026-11-19 (👨‍💻 21 · 🔀 93 · 📥 100K · 📋 430 - 17% open · ⏱️ 21.05.2024):
 
   ```
   git clone https://github.com/dappnode/DAppNode
@@ -7535,7 +7535,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/gridcoin-community/Gridcoin-Research">Gridcoin-Research</a></b> (🥇25 ·  ⭐ 580) - Gridcoin-Research. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/gridcoin-community/Gridcoin-Research) ⭐ 613 | 🐛 27 | 🌐 HTML | 📅 2026-11-18 (👨‍💻 100 · 🔀 170 · 📥 110K · 📋 1K - 3% open · ⏱️ 08.05.2024):
+* [GitHub](https://github.com/gridcoin-community/Gridcoin-Research) ⭐ 613 | 🐛 28 | 🌐 HTML | 📅 2026-11-19 (👨‍💻 100 · 🔀 170 · 📥 110K · 📋 1K - 3% open · ⏱️ 08.05.2024):
 
   ```
   git clone https://github.com/gridcoin-community/Gridcoin-Research
@@ -7660,7 +7660,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/sunflower-land/sunflower-land">sunflower-land</a></b> (🥇22 ·  ⭐ 1.5K) -  <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/sunflower-land/sunflower-land) ⭐ 1,645 | 🐛 50 | 🌐 TypeScript | 📅 2026-11-18 (👨‍💻 88 · 🔀 580 · 📋 680 - 6% open · ⏱️ 05.06.2024):
+* [GitHub](https://github.com/sunflower-land/sunflower-land) ⭐ 1,645 | 🐛 47 | 🌐 TypeScript | 📅 2026-11-19 (👨‍💻 88 · 🔀 580 · 📋 680 - 6% open · ⏱️ 05.06.2024):
 
   ```
   git clone https://github.com/sunflower-land/sunflower-land
@@ -7804,7 +7804,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/IBAX-io/go-ibax">go-ibax</a></b> (🥈20 ·  ⭐ 7.9K) - An innovative Blockchain Protocol Platform, which everyone can.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/IBAX-io/go-ibax) ⭐ 7,845 | 🐛 92 | 🌐 Go | 📅 2026-11-18 (👨‍💻 9 · 🔀 6.6K · 📦 9 · 📋 280 - 34% open · ⏱️ 11.04.2024):
+* [GitHub](https://github.com/IBAX-io/go-ibax) ⭐ 7,843 | 🐛 92 | 🌐 Go | 📅 2026-11-19 (👨‍💻 9 · 🔀 6.6K · 📦 9 · 📋 280 - 34% open · ⏱️ 11.04.2024):
 
   ```
   git clone https://github.com/IBAX-io/go-ibax
@@ -7825,7 +7825,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/iExecBlockchainComputing/iexec-sdk">iexec-sdk</a></b> (🥈21 ·  ⭐ 410) - CLI and JS library allowing developers to easily interact with.. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/iExecBlockchainComputing/iexec-sdk) ⭐ 422 | 🐛 15 | 🌐 JavaScript | 📅 2026-11-16 (👨‍💻 19 · 🔀 37 · 📦 140 · 📋 70 - 21% open · ⏱️ 28.05.2024):
+* [GitHub](https://github.com/iExecBlockchainComputing/iexec-sdk) ⭐ 421 | 🐛 15 | 🌐 JavaScript | 📅 2026-11-16 (👨‍💻 19 · 🔀 37 · 📦 140 · 📋 70 - 21% open · ⏱️ 28.05.2024):
 
   ```
   git clone https://github.com/iExecBlockchainComputing/iexec-sdk
@@ -7906,7 +7906,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/jito-foundation/jito-solana">jito-solana</a></b> (🥇24 ·  ⭐ 260) - Jito Foundation MEV Solana Client. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/jito-foundation/jito-solana) ⭐ 771 | 🐛 42 | 🌐 Rust | 📅 2026-11-18 (👨‍💻 520 · 🔀 77 · 📥 3.9K · 📋 49 - 16% open · ⏱️ 27.05.2024):
+* [GitHub](https://github.com/jito-foundation/jito-solana) ⭐ 771 | 🐛 41 | 🌐 Rust | 📅 2026-11-19 (👨‍💻 520 · 🔀 77 · 📥 3.9K · 📋 49 - 16% open · ⏱️ 27.05.2024):
 
   ```
   git clone https://github.com/jito-foundation/jito-solana
@@ -7956,7 +7956,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/district0x/ethlance">ethlance</a></b> (🥈17 ·  ⭐ 700) - Ethlance is the first job market platform built entirely on the.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/district0x/ethlance) ⭐ 716 | 🐛 9 | 🌐 Clojure | 📅 2026-10-26 (👨‍💻 16 · 🔀 130 · 📋 230 - 11% open · ⏱️ 21.05.2024):
+* [GitHub](https://github.com/district0x/ethlance) ⭐ 715 | 🐛 9 | 🌐 Clojure | 📅 2026-10-26 (👨‍💻 16 · 🔀 130 · 📋 230 - 11% open · ⏱️ 21.05.2024):
 
   ```
   git clone https://github.com/district0x/ethlance
@@ -7977,7 +7977,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/bitcoin-sv/bitcoin-sv">bitcoin-sv</a></b> (🥈21 ·  ⭐ 640) - Bitcoin SV (Satoshi Vision) is the original Bitcoin. This.. <code>Unlicensed</code></summary>
 
-* [GitHub](https://github.com/bitcoin-sv/bitcoin-sv) ⭐ 700 | 🐛 6 | 🌐 C++ | 📅 2026-10-06 (👨‍💻 640 · 🔀 290 · 📋 250 - 3% open · ⏱️ 15.02.2024):
+* [GitHub](https://github.com/bitcoin-sv/bitcoin-sv) ⭐ 699 | 🐛 6 | 🌐 C++ | 📅 2026-10-06 (👨‍💻 640 · 🔀 290 · 📋 250 - 3% open · ⏱️ 15.02.2024):
 
   ```
   git clone https://github.com/bitcoin-sv/bitcoin-sv
@@ -7994,7 +7994,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/0xSpaceShard/starknet-devnet">starknet-devnet</a></b> (🥈16 ·  ⭐ 210) - A local testnet for Starknet. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/0xSpaceShard/starknet-devnet) ⭐ 132 | 🐛 26 | 🌐 Rust | 📅 2026-11-09 (👨‍💻 32 · 🔀 73 · ⏱️ 15.12.2023):
+* [GitHub](https://github.com/0xSpaceShard/starknet-devnet) ⭐ 132 | 🐛 31 | 🌐 Rust | 📅 2026-11-09 (👨‍💻 32 · 🔀 73 · ⏱️ 15.12.2023):
 
   ```
   git clone https://github.com/Shard-Labs/starknet-devnet
@@ -8015,7 +8015,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/RequestNetwork/requestNetwork">requestNetwork</a></b> (🥇23 ·  ⭐ 380) - A JavaScript library for interacting with the Request Network.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/RequestNetwork/requestNetwork) ⭐ 386 | 🐛 141 | 🌐 TypeScript | 📅 2026-11-17 (👨‍💻 39 · 🔀 69 · 📦 80 · 📋 170 - 53% open · ⏱️ 28.05.2024):
+* [GitHub](https://github.com/RequestNetwork/requestNetwork) ⭐ 385 | 🐛 143 | 🌐 TypeScript | 📅 2026-11-17 (👨‍💻 39 · 🔀 69 · 📦 80 · 📋 170 - 53% open · ⏱️ 28.05.2024):
 
   ```
   git clone https://github.com/RequestNetwork/requestNetwork
@@ -8258,7 +8258,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/OrchidTechnologies/orchid">orchid</a></b> (🥈20 ·  ⭐ 650) - Orchid: VPN, Personal Firewall. <code><a href="http://bit.ly/3pwmjO5">AGPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/OrchidTechnologies/orchid) ⭐ 707 | 🐛 12 | 🌐 Dart | 📅 2026-10-04 (👨‍💻 21 · 🔀 98 · 📥 12K · 📋 71 - 14% open · ⏱️ 29.05.2024):
+* [GitHub](https://github.com/OrchidTechnologies/orchid) ⭐ 705 | 🐛 12 | 🌐 Dart | 📅 2026-10-04 (👨‍💻 21 · 🔀 98 · 📥 12K · 📋 71 - 14% open · ⏱️ 29.05.2024):
 
   ```
   git clone https://github.com/OrchidTechnologies/orchid
@@ -8325,7 +8325,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/subsquid/squid-sdk">squid-sdk</a></b> (🥈18 ·  ⭐ 1.2K) - The main repo of the squid SDK. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/subsquid/squid-sdk) ⭐ 1,347 | 🐛 72 | 🌐 TypeScript | 📅 2026-11-18 (👨‍💻 26 · 🔀 140 · 📦 2 · 📋 98 - 39% open · ⏱️ 03.06.2024):
+* [GitHub](https://github.com/subsquid/squid-sdk) ⭐ 1,348 | 🐛 70 | 🌐 TypeScript | 📅 2026-11-19 (👨‍💻 26 · 🔀 140 · 📦 2 · 📋 98 - 39% open · ⏱️ 03.06.2024):
 
   ```
   git clone https://github.com/subsquid/squid-sdk
@@ -8342,7 +8342,7 @@ This curated list contains 3.1K awesome open-source projects with a total of 1.2
 
 <details><summary><b><a href="https://github.com/functionland/fx-fotos">fx-fotos</a></b> (🥈16 ·  ⭐ 660) - Fx Fotos is an opensource gallery app in react native with the same.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/functionland/fx-fotos) ⭐ 689 | 🐛 77 | 🌐 TypeScript | 📅 2024-11-10 (👨‍💻 13 · 🔀 71 · 📥 39 · 📋 150 - 48% open · ⏱️ 11.04.2024):
+* [GitHub](https://github.com/functionland/fx-fotos) ⭐ 688 | 🐛 77 | 🌐 TypeScript | 📅 2024-11-10 (👨‍💻 13 · 🔀 71 · 📥 39 · 📋 150 - 48% open · ⏱️ 11.04.2024):
 
   ```
   git clone https://github.com/functionland/fx-fotos
@@ -8824,7 +8824,7 @@ Contributions are encouraged and always welcome! If you like to add or update pr
 * Open an issue by selecting one of the provided categories from the [issue page](https://github.com/LukasMasuch/best-of-crypto/issues/new/choose) and fill in the requested information.
 * Modify the [projects.yaml](https://github.com/LukasMasuch/best-of-crypto/blob/main/projects.yaml) with your additions or changes, and submit a pull request. This can also be done directly via the [Github UI](https://github.com/LukasMasuch/best-of-crypto/edit/main/projects.yaml).
 
-If you like to contribute to or share suggestions regarding the project metadata collection or markdown generation, please refer to the [best-of-generator](https://github.com/best-of-lists/best-of-generator) ⭐ 111 | 🐛 15 | 🌐 Python | 📅 2025-08-31 repository. If you like to create your own best-of list, we recommend to follow [this guide](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md) ⭐ 1,920 | 🐛 27 | 📅 2026-11-12.
+If you like to contribute to or share suggestions regarding the project metadata collection or markdown generation, please refer to the [best-of-generator](https://github.com/best-of-lists/best-of-generator) ⭐ 111 | 🐛 15 | 🌐 Python | 📅 2025-08-31 repository. If you like to create your own best-of list, we recommend to follow [this guide](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md) ⭐ 1,919 | 🐛 27 | 📅 2026-11-12.
 
 For more information on how to add or update projects, please read the [contribution guidelines](https://github.com/LukasMasuch/best-of-crypto/blob/main/CONTRIBUTING.md). By participating in this project, you agree to abide by its [Code of Conduct](https://github.com/LukasMasuch/best-of-crypto/blob/main/.github/CODE_OF_CONDUCT.md).
 
@@ -8834,4 +8834,4 @@ For more information on how to add or update projects, please read the [contribu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
